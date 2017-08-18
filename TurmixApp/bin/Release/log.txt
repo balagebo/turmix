@@ -1,0 +1,3 @@
+Alkalmazás: D:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Release\TurmixApp.exe - Build: 2009. 02. 21. 8:15:26
+Járműbeállítás kezdeti értékek:
+--------------

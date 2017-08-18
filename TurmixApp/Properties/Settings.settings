@@ -1,0 +1,174 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TurmixLog.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="cimlistaW" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="updateURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://homokhat.dyndns.org/new/download.php?filename=import/kozszolgaltatas.xls&amp;honap=</Value>
+    </Setting>
+    <Setting Name="userName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vizmu</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vizmu</Value>
+    </Setting>
+    <Setting Name="otkm" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="tizkm" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="telitettCel" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+    <Setting Name="showfuvarlap" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="speed" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="cso1" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="cso2" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">3.2</Value>
+    </Setting>
+    <Setting Name="cso3" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">7.8</Value>
+    </Setting>
+    <Setting Name="cso4" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">10.8</Value>
+    </Setting>
+    <Setting Name="cso5" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="cso6" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">19.5</Value>
+    </Setting>
+    <Setting Name="csoegyeb" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="sziv5" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">5.5</Value>
+    </Setting>
+    <Setting Name="sziv10" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">8.2</Value>
+    </Setting>
+    <Setting Name="sziv12" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">13.3</Value>
+    </Setting>
+    <Setting Name="szivegyeb" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="ebedido" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="kettenUlnekBonus" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="listaH" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="panelH" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="benzinar" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="costbonus" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="costbonusactive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="kissoforber" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">54.55</Value>
+    </Setting>
+    <Setting Name="nagysoforber" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">54.55</Value>
+    </Setting>
+    <Setting Name="kissegedber" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="nagysegedber" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="kissoforjar" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="nagysoforjar" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="nagysegedjar" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="kissegedjar" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="kisAutoLimit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="helpPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\doc\Help.chm</Value>
+    </Setting>
+    <Setting Name="workDays" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="lastDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="hangoskodik" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="saveSndEnable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="fullSndEnable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="saveSndLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">media\save.wav</Value>
+    </Setting>
+    <Setting Name="fullSndLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">media\full.wav</Value>
+    </Setting>
+    <Setting Name="dbHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cpc-009</Value>
+    </Setting>
+    <Setting Name="dbName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">turmix</Value>
+    </Setting>
+    <Setting Name="dbUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dev</Value>
+    </Setting>
+    <Setting Name="dbPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dev</Value>
+    </Setting>
+    <Setting Name="useDefaultURL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="foldutSeb" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="mentettKoord" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="mentettFold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="mentettAuto" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="nyomtatURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://homokhat.dyndns.org/new/pdfGenerator.php?munkalap=</Value>
+    </Setting>
+    <Setting Name="nyomtatURL2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http:/homokhat.dyndns.org/pdf/</Value>
+    </Setting>
+    <Setting Name="updateURL2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://homokhat.dyndns.org/new/letoltes.php?ok=OK&amp;honap=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

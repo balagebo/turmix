@@ -1,0 +1,960 @@
+Dátum: 2009.09.07. 19:27:25
+Dátum: 2009.09.07. 19:30:44
+Dátum: 2009.09.07. 19:32:48
+Dátum: 2009.09.07. 19:34:50
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_07.tmx
+Hozzárendelés: JBE-146, TEGEZ U 11.
+Dátum: 2009.09.07. 19:43:50
+Dátum: 2009.09.07. 19:44:34
+Dátum: 2009.09.07. 20:32:28
+Dátum: 2009.09.07. 20:33:23
+Dátum: 2009.09.08. 10:03:18
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_07.tmx
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Dátum: 2009.09.08. 10:05:10
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Dátum: 2009.09.10. 23:00:34
+Kiosztás: 2009.09.11.
+Napszakváltás: DÉLELŐTT
+Mentés: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Dátum: 2009.09.10. 23:18:28
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Napszakváltás: DÉLELŐTT
+Dátum: 2009.09.10. 23:20:24
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Napszakváltás: DÉLELŐTT
+Dátum: 2009.09.10. 23:22:43
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Napszakváltás: DÉLELŐTT
+Dátum: 2009.09.10. 23:43:29
+Dátum: 2009.09.10. 23:53:44
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Napszakváltás: DÉLELŐTT
+Dátum: 2009.09.11. 0:08:54
+Dátum: 2009.09.11. 0:15:57
+Dátum: 2009.09.11. 0:17:41
+Dátum: 2009.09.11. 0:19:44
+Dátum: 2009.09.11. 0:28:30
+Dátum: 2009.09.11. 0:30:42
+Dátum: 2009.09.11. 10:11:46
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Napszakváltás: DÉLELŐTT
+Dátum: 2009.09.14. 20:43:17
+Kiosztás: 2009.09.14.
+Napszakváltás: DÉLELŐTT
+Kiválasztva: [479893] NAGYBÁNYA U ,. [3/0 m3] - CsH: 10 - True
+Hozzárendelés: LMB-038, NAGYBÁNYA U ,.
+Törlés: LMB-038 , Menet: 0
+Hozzárendelés: LMB-038, KŐRÖSI CSOMA U 38/C.
+Törlés: LMB-038 , Menet: 0
+Dátum: 2009.09.14. 21:01:10
+Kiosztás: 2009.09.14.
+Napszakváltás: DÉLELŐTT
+Hozzárendelés: LMB-038, KŐRÖSI CSOMA U 38/C.
+Törlés: LMB-038 , Menet: 0
+Hozzárendelés: JGS-045, KŐRÖSI CSOMA U 38/C.
+Törlés: JGS-045 , Menet: 0
+Kiválasztva: [479686] UNGVÁRIKERT U 6. [10/0 m3] - CsH: 10 - True
+Kiválasztva: [479816] UNGVÁRIKERT U 33. [10/0 m3] - CsH: 30 - True
+Hozzárendelés: JGS-045, UNGVÁRIKERT U 6.
+Hozzárendelés: JGS-045, UNGVÁRIKERT U 33.
+Hozzárendelés: JGS-045, UNGVÁRIKERT U 11/B.
+Törlés: JGS-045 , Menet: 0
+Hozzárendelés: JGS-045, UNGVÁRIKERT U 33.
+Törlés: JGS-045 , Menet: 1
+Kiválasztva: [479816] UNGVÁRIKERT U 33. [10/0 m3] - CsH: 30 - True
+Hozzárendelés: JGS-045, UNGVÁRIKERT U 33.
+Törlés: JGS-045 , Menet: 1
+Törlés: JGS-045 , Menet: 0
+Dátum: 2009.09.16. 22:26:34
+Dátum: 2009.09.16. 22:47:15
+Dátum: 2009.09.16. 22:47:51
+Dátum: 2009.09.16. 22:48:12
+Dátum: 2009.09.16. 23:06:39
+Dátum: 2009.09.16. 23:06:58
+Dátum: 2009.09.16. 23:08:04
+Dátum: 2009.09.16. 23:08:25
+Dátum: 2009.09.16. 23:09:18
+Dátum: 2009.09.16. 23:09:38
+Dátum: 2009.09.16. 23:09:51
+Dátum: 2009.09.16. 23:10:30
+Dátum: 2009.09.16. 23:11:19
+Dátum: 2009.09.17. 0:10:13
+Dátum: 2009.09.17. 0:12:28
+Dátum: 2009.09.17. 0:16:18
+!! KIVÉTEL: There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlTransaction.Commit()
+   at TurmixLog.DataUtil.GetUtcak() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 653
+A kivétel elkapva.
+!! KIVÉTEL: There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlTransaction.Rollback()
+   at TurmixLog.DataUtil.GetUtcak() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 660
+   at TurmixLog.ZeroCso..ctor(List`1 adat) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\ZeroCso.cs:line 15
+   at TurmixLog.MainForm.LoadMapData(Object sender, FormClosingEventArgs e) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Logic\UtilityMethods.cs:line 139
+A kivétel elkapva.
+Dátum: 2009.09.17. 0:23:03
+Dátum: 2009.09.17. 0:32:45
+Dátum: 2009.09.17. 0:35:08
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13.tmx
+Járműbeállítás
+Új autó:
+TurmixLog.AutoDátum: 2009.09.18. 10:29:01
+Kiosztás: 2009.09.18.
+Napszakváltás: DÉLELŐTT
+Napszakváltás: DÉLUTÁN
+Napszakváltás: ELSŐ FUVAR
+Dátum: 2009.09.21. 17:04:24
+Dátum: 2009.09.21. 19:33:30
+Dátum: 2009.09.21. 19:34:50
+Dátum: 2009.09.21. 20:22:38
+Dátum: 2009.09.21. 20:23:12
+Dátum: 2009.09.21. 20:28:06
+Dátum: 2009.09.21. 20:32:57
+Dátum: 2009.09.21. 20:34:29
+Dátum: 2009.09.21. 20:35:42
+Dátum: 2009.09.21. 20:36:58
+Dátum: 2009.09.21. 20:38:15
+Dátum: 2009.09.21. 20:42:04
+Dátum: 2009.09.21. 20:44:55
+Dátum: 2009.09.21. 20:45:49
+Dátum: 2009.09.21. 20:46:32
+Dátum: 2009.09.25. 20:41:47
+Kiosztás: 2009.09.25.
+Napszakváltás: DÉLELŐTT
+Napszakváltás: DÉLUTÁN
+Járműbeállítás
+Dátum: 2009.09.25. 21:10:33
+Dátum: 2009.09.25. 21:25:15
+Dátum: 2009.09.25. 21:25:29
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Járműbeállítás
+Dátum: 2009.09.25. 21:44:22
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Dátum: 2009.09.25. 21:45:13
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Járműbeállítás
+Dátum: 2009.09.25. 21:48:45
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Járműbeállítás
+Dátum: 2009.09.25. 21:52:01
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_11.tmx
+Járműbeállítás
+Dátum: 2009.09.25. 21:58:16
+Kiosztás: 2009.09.04.
+Dátum: 2009.09.25. 22:00:37
+Kiosztás: 2009.09.01.
+Járműbeállítás
+Hozzárendelés: JBE-146, NAGYSZENTGYÖRGY U 66.
+Járműbeállítás
+Dátum: 2009.09.25. 22:06:41
+Kiosztás: 2009.09.01.
+Napszakváltás: DÉLELŐTT
+Hozzárendelés: JBE-146, ELEK U 30/A.
+Járműbeállítás
+Dátum: 2009.09.25. 22:12:24
+Kiosztás: 2009.09.01.
+Hozzárendelés: JBE-146, HOMOKHÁT U 43.
+Törlés: JBE-146 , Menet: 0
+Napszakváltás: DÉLELŐTT
+Hozzárendelés: JBE-146, ELEK U 30/A.
+Hozzárendelés: JBE-146, RÓZSAVÖLGY U 168/C.
+Törlés: JBE-146 , Menet: 1
+Törlés: JBE-146 , Menet: 0
+Hozzárendelés: JBE-146, ELEK U 30/A.
+Járműbeállítás
+Mentés: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Dátum: 2009.09.25. 22:20:31
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Járműbeállítás
+JBE-146 tulajdonsága változott: Első fuvar :: 1 --> 2
+JBE-146 tulajdonsága változott: Délelőtt :: 5 --> 7
+Napszakváltás: DÉLELŐTT
+Törlés: JBE-146 , Menet: 0
+Járműbeállítás
+Dátum: 2009.09.25. 22:30:51
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Napszakváltás: DÉLELŐTT
+Járműbeállítás
+Dátum: 2009.09.25. 22:39:24
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Járműbeállítás
+JBE-146 tulajdonsága változott: Első fuvar :: 1 --> 0
+Törlés: JBE-146 , Menet: 0
+Dátum: 2009.09.25. 22:46:18
+Dátum: 2009.09.25. 22:46:41
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Törlés: JBE-146 , Menet: 0
+Dátum: 2009.09.25. 22:47:56
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Törlés: JBE-146 , Menet: 0
+Járműbeállítás
+JBE-146 tulajdonsága változott: Első fuvar :: 1 --> 2
+Napszakváltás: DÉLELŐTT
+Hozzárendelés: JBE-146, ELEK U 30/A.
+Hozzárendelés: JBE-146, RÓZSAVÖLGY U 168/C.
+Hozzárendelés: JBE-146, JÓZSAKERT U 7.
+Hozzárendelés: JBE-146, KISERDŐ U 11.
+Hozzárendelés: JBE-146, KISERDŐ U 5.
+Napszakváltás: DÉLUTÁN
+Hozzárendelés: JBE-146, RÓZSAVÖLGY U 230/A.
+Hozzárendelés: JBE-146, GÖNCZY PÁL U .
+Hozzárendelés: JBE-146, BOCSKAI ISTVÁN ÚT 55/A.
+Hozzárendelés: JBE-146, MÁRCIUS 15. U 38.
+Hozzárendelés: JBE-146, MÁRCIUS 15. U 58.
+Napszakváltás: ELSŐ FUVAR
+Hozzárendelés: JBE-146, HOMOKHÁT U 43.
+Kiválasztva: [476934] ZSINDELY U 38. [5/0 m3] - CsH: 32 (Józsai cím) - True
+Hozzárendelés: JBE-146, ZSINDELY U 38.
+Járműbeállítás
+JBE-146 tulajdonsága változott: Délelőtt :: 6 --> 8
+Törlés: JBE-146 , Menet: 4
+Törlés: JBE-146 , Menet: 3
+JBE-146 tulajdonsága változott: Délelőtt :: 8 --> 3
+Dátum: 2009.09.25. 23:02:10
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Járműbeállítás
+Dátum: 2009.09.25. 23:05:44
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Hozzárendelés: JBE-146, NAGYSZENTGYÖRGY U 66.
+Hozzárendelés: JBE-803, HOMOKHÁT U 43.
+Hozzárendelés: JGS-045, ZSINDELY U 38.
+Hozzárendelés: JLZ-679, KADARCS U 8.
+Hozzárendelés: KDD-542, CITERA U 7.
+Hozzárendelés: KGA-512, VASUTAS U 37.
+Hozzárendelés: LMB-038, SZEPESI U 25.
+Hozzárendelés: KGA-512, FARKAS U 3.
+Járműbeállítás
+Dátum: 2009.09.25. 23:24:21
+Dátum: 2009.09.25. 23:28:22
+Dátum: 2009.09.25. 23:33:40
+Dátum: 2009.09.25. 23:49:53
+Dátum: 2009.09.25. 23:54:15
+Kiosztás: 2009.09.25.
+Hozzárendelés: IZM-226, KUNHALOM U 23.
+Hozzárendelés: JBE-803, ZOVÁNYI JENŐ U 4/A.
+Hozzárendelés: JGS-045, KŐRÖSI CSOMA U 54/C.
+Hozzárendelés: JNS-276, HETÉNYI JÁNOS U 34.
+Hozzárendelés: KDD-542, DÉVAI U 10.
+Hozzárendelés: LMB-038, JÁMBOR LAJOS U 11.
+Hozzárendelés: JNS-276, SZEPESI U 27.
+Hozzárendelés: JSZ-683, TÉGLÁSKERT U 102.
+Hozzárendelés: JSZ-683, SZARVAS U 11/A.
+Járműbeállítás
+KHK-583 tulajdonsága változott: Első fuvar :: 1 --> 0
+KOB-968 tulajdonsága változott: Első fuvar :: 0 --> 1
+Hozzárendelés: KOB-968, HETÉNYI JÁNOS U 2.
+Napszakváltás: DÉLELŐTT
+Hozzárendelés: IZM-226, RÓZSAVÖLGY U 196.
+Hozzárendelés: JBE-803, CSONKATORONY U 9.
+Hozzárendelés: JGS-045, JÓZSAKERT U 8.
+Hozzárendelés: JNS-276, KISKERT U 40.
+Hozzárendelés: KDD-542, ZSINDELY U 9.
+Hozzárendelés: LMB-038, MONOSTORERDŐ U 29.
+Hozzárendelés: LMB-038, ERDŐHÁT U 58.
+Hozzárendelés: IZM-226, SALAKOS U 67.
+Hozzárendelés: IZM-226, KŐRÖSI CSOMA U 18/C.
+Hozzárendelés: IZM-226, FIÁKERES U 59.
+Hozzárendelés: IZM-226, LÉTAI ÚT 33.
+Hozzárendelés: IZM-226, BIHARI U 17.
+Hozzárendelés: IZM-226, HÉT VEZÉR U 71/A.
+Hozzárendelés: JBE-803, PÁKÁSZ U 9.
+Hozzárendelés: JBE-803, SIMON ISTVÁN U 1.
+Hozzárendelés: JBE-803, CSŰRY BÁLINT U 13.
+Hozzárendelés: JBE-803, REMÉNY U 31.
+Hozzárendelés: JBE-803, OLAJFA U .
+Hozzárendelés: JBE-803, BIRSALMA U 33.
+Hozzárendelés: JGS-045, APAFA 8/H.
+Hozzárendelés: JGS-045, GÁSPÁR ENDRE U 15.
+Hozzárendelés: JGS-045, CSÁRDA U 52/B.
+Hozzárendelés: JGS-045, LENCZ U 34.
+Hozzárendelés: JGS-045, VADALMA U 9.
+Hozzárendelés: JGS-045, TÉGLÁSKERT U 90.
+Hozzárendelés: JNS-276, APAFA 8/F.
+Hozzárendelés: JNS-276, DÉVAI U 14.
+Hozzárendelés: JNS-276, DÉVAI U 62/A.
+Hozzárendelés: JNS-276, PANDÚR U 34/C.
+Hozzárendelés: JNS-276, OLAJFA U 4.
+Hozzárendelés: JNS-276, SIKLÓ U 58.
+Hozzárendelés: JNS-276, GYOMA U 12.
+Hozzárendelés: KDD-542, VIRÁGMÉZ U 16.
+Hozzárendelés: KDD-542, DOROTTYA U 49.
+Hozzárendelés: KDD-542, SÁRMÁS U 7/B.
+Hozzárendelés: KDD-542, BICZÓ ISTVÁN KERT .
+Hozzárendelés: KDD-542, SZÁNKÓ U 17.
+Hozzárendelés: KDD-542, MAKÓ U 19.
+Hozzárendelés: LMB-038, MEGYER TER 4.
+Hozzárendelés: LMB-038, BARCASÁG U 33.
+Hozzárendelés: LMB-038, MEDOK U 32.
+Kiválasztva: [482245] PIPÓ-HEGY U 18. [10/10 m3] - CsH: 10 - True
+Hozzárendelés: KHK-583, PIPÓ-HEGY U 18.
+Hozzárendelés: KHK-583, HÁRMAS-HEGY U 29.
+Hozzárendelés: JSZ-683, NAPKELTE U 9.
+Hozzárendelés: JSZ-683, HETÉNYI JÁNOS U 17.
+Hozzárendelés: JSZ-683, ÚJ U 8.
+Hozzárendelés: JSZ-683, JÁMBOR LAJOS U 81.
+Hozzárendelés: JSZ-683, DIÓSZEGI ÚT 15.
+Hozzárendelés: JSZ-683, BÜKKMOGYORÓ U 17.
+Hozzárendelés: JSZ-683, MUSKOTÁLY U 6.
+Hozzárendelés: JSZ-683, BALATON U 126.
+Hozzárendelés: KAX-589, MÉHÉSZFÖLD U 17.
+Hozzárendelés: KAX-589, LÉTAI ÚT 112.
+Hozzárendelés: KAX-589, LÉTAI ÚT .
+Hozzárendelés: KAX-589, SZIKRA U 3/A.
+Hozzárendelés: KAX-589, OLAJFA U 4.
+Hozzárendelés: KAX-589, KISHEGYESI ÚT 269.
+Napszakváltás: DÉLUTÁN
+Napszakváltás: ELSŐ FUVAR
+Törlés: JGS-045 , Menet: 0
+Napszakváltás: DÉLELŐTT
+Hozzárendelés: JGS-045, JÓZSAKERT U 8.
+Dátum: 2009.09.26. 0:07:55
+Kiosztás: 2009.09.01.
+Járműbeállítás
+Dátum: 2009.09.26. 0:10:39
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Járműbeállítás
+Dátum: 2009.09.26. 0:14:31
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Járműbeállítás
+Dátum: 2009.09.26. 0:23:01
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Járműbeállítás
+Törlés: JBE-146 , Menet: 0
+JBE-146 tulajdonsága változott: Délelőtt :: 6 --> 0
+Dátum: 2009.09.26. 8:08:38
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Járműbeállítás
+Törlés: JBE-146 , Menet: 0
+JBE-146 tulajdonsága változott: Délelőtt :: 6 --> 0
+Napszakváltás: DÉLELŐTT
+Napszakváltás: DÉLUTÁN
+Napszakváltás: DÉLELŐTT
+Napszakváltás: ELSŐ FUVAR
+Dátum: 2009.09.26. 8:35:38
+Kiosztás: 2009.09.26.
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Dátum: 2009.09.26. 8:40:39
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Dátum: 2009.09.26. 8:42:28
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+!! KIVÉTEL: The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship.  Change the data in the field or fields that contain duplicate data, remove the index, or redefine the index to permit duplicate entries and try again.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at TurmixLog.KiosztasDao.InsertLatLng(WorkData wd) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil.cs:line 787
+A kivétel elkapva.
+Dátum: 2009.09.26. 8:44:50
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Dátum: 2009.09.26. 8:47:07
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Napszakváltás: DÉLELŐTT
+Napszakváltás: DÉLUTÁN
+Kiosztás: 2009.09.01.
+Napszakváltás: ELSŐ FUVAR
+Dátum: 2009.09.26. 8:52:16
+Kiosztás: 2009.09.01.
+Dátum: 2009.09.28. 0:39:17
+Kiosztás: 2009.09.01.
+Dátum: 2009.09.28. 0:53:34
+Dátum: 2009.09.28. 0:56:10
+Kiosztás: 2009.09.01.
+Dátum: 2009.09.28. 1:13:17
+Kiosztás: 2009.09.01.
+Kiválasztva: [476892] HOMOKHÁT U 43. [5/0 m3] - CsH: 8 (Józsai cím) - True
+Kiválasztva: [476765] VASUTAS U 37. [5/0 m3] - CsH: 8 - True
+Kiválasztva: [476361] JÁMBOR LAJOS U 98/A. [10/0 m3] - CsH: 10 - True
+Dátum: 2009.09.28. 10:55:56
+Kiosztás: 2009.09.01.
+Dátum: 2009.09.28. 10:58:25
+Kiosztás: 2009.09.01.
+Dátum: 2009.09.28. 11:09:31
+Kiosztás: 2009.09.01.
+Kiválasztva: [476808] KADARCS U 8. [5/0 m3] - CsH: 16 - True
+Kiválasztva: [476808] KADARCS U 8. [5/0 m3] - CsH: 16 - True
+Dátum: 2009.09.28. 11:15:56
+Kiosztás: 2009.09.02.
+Dátum: 2009.09.28. 11:27:00
+Kiosztás: 2009.09.02.
+Dátum: 2009.09.28. 11:34:26
+Kiosztás: 2009.09.02.
+Dátum: 2009.09.28. 11:36:59
+Kiosztás: 2009.09.02.
+Dátum: 2009.09.28. 11:47:39
+Kiosztás: 2009.09.02.
+Dátum: 2009.09.28. 11:52:06
+Dátum: 2009.09.28. 11:53:37
+Dátum: 2009.09.28. 11:58:44
+Kiosztás: 2009.09.02.
+Hozzárendelés: JBE-803, TEGEZ U 86.
+Törlés: JBE-803 , Menet: 0
+Hozzárendelés: JBE-803, TEGEZ U 86.
+Hozzárendelés: JGS-045, MONOSTORERDŐ U 61.
+Törlés: JGS-045 , Menet: 0
+Dátum: 2009.09.28. 12:03:31
+Kiosztás: 2009.09.02.
+Járműbeállítás
+Járműbeállítás
+Kiválasztva: [477028] HARGITA U 14. [5/4 m3] - CsH: 8 - True
+Hozzárendelés: JBE-803, HARGITA U 14.
+Törlés: JBE-803 , Menet: 0
+Kiválasztva: [477061] BIHARI U 13. [3/2 m3] - CsH: 10 - True
+Hozzárendelés: JBE-803, BIHARI U 13.
+Kiválasztva: [477072] TEGEZ U 86. [5/3 m3] - CsH: 32 - True
+Hozzárendelés: JGS-045, TEGEZ U 86.
+Napszakváltás: DÉLELŐTT
+Dátum: 2009.09.28. 12:14:11
+Kiosztás: 2009.09.02.
+Dátum: 2009.09.28. 12:20:13
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Dátum: 2009.09.28. 12:21:00
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Dátum: 2009.09.28. 12:22:05
+Dátum: 2009.09.28. 12:23:02
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Dátum: 2009.09.28. 12:26:19
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Dátum: 2009.09.28. 12:27:57
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Törlés: JBE-146 , Menet: 0
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Dátum: 2009.09.28. 12:29:57
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_02.tmx
+Dátum: 2009.09.28. 12:33:50
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_02.tmx
+!! KIVÉTEL: Duplicate entry 'MÓKUS U' for key 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult()
+   at MySql.Data.MySqlClient.ResultSet.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at TurmixLog.KiosztasDao.InsertLatLng(WorkData wd) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 769
+A kivétel elkapva.
+!! KIVÉTEL: Duplicate entry 'FAGYAL U' for key 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult()
+   at MySql.Data.MySqlClient.ResultSet.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at TurmixLog.KiosztasDao.InsertLatLng(WorkData wd) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 769
+A kivétel elkapva.
+Dátum: 2009.09.28. 12:35:28
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_02.tmx
+Dátum: 2009.09.28. 12:36:13
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Törlés: JBE-146 , Menet: 1
+Hozzárendelés: JBE-146, SZÉP U 2.
+Dátum: 2009.09.28. 12:54:26
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Kiválasztva: [476361] JÁMBOR LAJOS U 98/A. [10/0 m3] - CsH: 10 - True
+Hozzárendelés: JBE-146, JÁMBOR LAJOS U 98/A.
+Hozzárendelés: JBE-803, NAGYSZENTGYÖRGY U 66.
+Törlés: JBE-803 , Menet: 0
+Törlés: JBE-146 , Menet: 0
+Törlés: JBE-146 , Menet: 0
+Hozzárendelés: JBE-146, KADARCS U 8.
+Hozzárendelés: JBE-803, NAGYSZENTGYÖRGY U 66.
+Törlés: JBE-803 , Menet: 0
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Törlés: JBE-146 , Menet: 0
+Dátum: 2009.09.28. 12:57:15
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Törlés: JBE-146 , Menet: 0
+Hozzárendelés: JBE-146, NAGYSZENTGYÖRGY U 66.
+Hozzárendelés: CJR-574, JÁMBOR LAJOS U 98/A.
+Törlés: CJR-574 , Menet: 0
+Járműbeállítás
+Törlés: JBE-146 , Menet: 0
+Hozzárendelés: JBE-146, NAGYSZENTGYÖRGY U 66.
+Hozzárendelés: JBE-803, HOMOKHÁT U 43.
+Hozzárendelés: JGS-045, ZSINDELY U 38.
+Kiválasztva: [476808] KADARCS U 8. [5/0 m3] - CsH: 16 - True
+Hozzárendelés: JLZ-679, KADARCS U 8.
+Napszakváltás: DÉLELŐTT
+Törlés: JLZ-679 , Menet: 0
+Napszakváltás: ELSŐ FUVAR
+Hozzárendelés: JLZ-679, KADARCS U 8.
+Dátum: 2009.09.28. 13:06:00
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Törlés: JBE-146 , Menet: 0
+Hozzárendelés: JBE-146, KADARCS U 8.
+Hozzárendelés: JBE-803, HOMOKHÁT U 43.
+Dátum: 2009.09.29. 13:09:06
+Dátum: 2009.09.30. 12:08:02
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Dátum: 2009.09.30. 12:14:43
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Dátum: 2009.09.30. 12:16:48
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Dátum: 2009.09.30. 12:18:31
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Dátum: 2009.10.29. 8:51:35
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13.tmx
+Hozzárendelés: JBE-146, HARSONA U 15.
+Hozzárendelés: JBE-146, BAYK ANDRÁSsss U 18.
+Törlés: JBE-146 , Menet: 1
+Dátum: 2009.10.29. 8:54:40
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13.tmx
+Dátum: 2009.10.29. 8:57:23
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13.tmx
+Dátum: 2009.10.29. 9:40:44
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13.tmx
+Hozzárendelés: JBE-146, HARSONA U 15.
+Hozzárendelés: JBE-146, BAYK ANDRÁSsss U 18.
+Dátum: 2009.10.29. 9:42:23
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Napszakváltás: DÉLELŐTT
+Napszakváltás: ELSŐ FUVAR
+Dátum: 2009.10.29. 14:03:56
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Dátum: 2009.10.29. 14:06:16
+Dátum: 2009.10.29. 14:14:01
+Dátum: 2009.10.29. 14:18:20
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Dátum: 2009.10.29. 14:34:40
+Dátum: 2009.11.10. 15:28:24
+Dátum: 2009.11.10. 15:30:27
+Dátum: 2009.11.10. 15:33:29
+Dátum: 2009.11.10. 16:09:56
+Kiosztás: 2009.11.10.
+Dátum: 2009.11.10. 16:10:22
+Dátum: 2009.11.10. 16:13:14
+Kiosztás: 2009.11.10.
+Hozzárendelés: IZM-226, FEHÉRGYARMAT U 38.
+Dátum: 2009.11.10. 16:14:03
+Kiosztás: 2009.11.10.
+Napszakváltás: DÉLELŐTT
+Dátum: 2009.11.10. 16:19:18
+Dátum: 2009.11.10. 16:20:13
+Kiosztás: 2009.11.10.
+Dátum: 2009.11.10. 16:34:28
+Kiosztás: 2009.11.11.
+Dátum: 2009.11.14. 9:07:05
+Kiosztás: 2009.07.27.
+Járműbeállítás
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\CarDataGridPane.cs:line 608
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\CarDataGridPane.cs:line 608
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+Dátum: 2009.11.14. 9:50:20
+Kiosztás: 2009.11.14.
+Dátum: 2009.11.16. 10:44:00
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx()
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx()
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx()
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+Dátum: 2009.11.16. 11:08:29
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\CarDataGridPane.cs:line 608
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\CarDataGridPane.cs:line 608
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx()
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+Dátum: 2009.11.16. 11:12:10
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\CarDataGridPane.cs:line 608
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\CarDataGridPane.cs:line 608
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+Dátum: 2009.11.16. 11:16:54
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\CarDataGridPane.cs:line 608
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+Dátum: 2009.11.16. 11:42:52
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\CarDataGridPane.cs:line 608
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+Hozzárendelés: TRZ-000, SÁRMÁS U 7/B.
+Törlés: TRZ-000 , Menet: 0
+Dátum: 2009.11.16. 11:46:26
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\CarDataGridPane.cs:line 608
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+Dátum: 2009.11.16. 11:47:21
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TurmixLog.CarDataGridPane.DoCarStatx() in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\CarDataGridPane.cs:line 608
+A kivétel elkapva.
+Kiosztás: 2009.07.27.
+Dátum: 2009.11.16. 13:44:52
+Dátum: 2009.11.16. 13:46:00
+Kiosztás: 2009.11.16.
+Dátum: 2009.11.16. 13:48:31
+Kiosztás: 2009.11.16.
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13_advance.tmx
+Dátum: 2009.11.16. 13:50:50
+Kiosztás: 2009.11.16.
+Dátum: 2009.11.16. 13:53:28
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13.tmx
+Dátum: 2009.11.16. 14:00:01
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13.tmx
+Kiválasztva: [472887] HARSONA U 15. [5m3 / 4to] - CsH: 32 - True
+Hozzárendelés: JBE-146, HARSONA U 15.
+Hozzárendelés: JBE-146, BAYK ANDRÁSsss U 18.
+Dátum: 2009.11.16. 14:02:06
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13.tmx
+Kiválasztva: [472889] BAYK ANDRÁSsss U 18. [5m3 / 5to] - CsH: 8 - True
+Hozzárendelés: JBE-146, BAYK ANDRÁSsss U 18.
+Hozzárendelés: JBE-146, HARSONA U 15.
+Dátum: 2009.11.17. 13:46:13
+Kiosztás: 2009.07.27.
+Hozzárendelés: FKT-546, SÁMSONI ÚT 132/B.
+Törlés: FKT-546 , Menet: 0
+Dátum: 2009.11.17. 14:06:01
+Kiosztás: 2009.11.17.
+Dátum: 2009.11.17. 14:14:14
+Kiosztás: 2009.11.17.
+Dátum: 2009.11.17. 14:15:52
+Kiosztás: 2009.11.17.
+Napszakváltás: DÉLELŐTT
+Napszakváltás: DÉLUTÁN
+Kiosztás: 2009.11.02.
+Dátum: 2009.11.17. 14:25:50
+Kiosztás: 2009.11.02.
+Dátum: 2009.11.17. 14:30:12
+Kiosztás: 2009.11.02.
+Napszakváltás: DÉLELŐTT
+Dátum: 2009.11.17. 14:34:56
+Kiosztás: 2009.11.02.
+Dátum: 2009.11.17. 14:36:10
+Kiosztás: 2009.11.02.
+Dátum: 2009.11.17. 14:49:15
+Kiosztás: 2009.11.02.
+Napszakváltás: DÉLELŐTT
+Napszakváltás: DÉLUTÁN
+Dátum: 2009.11.19. 14:11:04
+Kiosztás: 2009.11.20.
+Napszakváltás: DÉLELŐTT
+Napszakváltás: DÉLUTÁN
+Napszakváltás: ELSŐ FUVAR
+Dátum: 2009.11.19. 14:20:13
+Kiosztás: 2009.11.20.
+Dátum: 2009.11.19. 14:22:13
+Kiosztás: 2009.11.20.
+Dátum: 2009.11.19. 14:25:01
+Kiosztás: 2009.11.20.
+Dátum: 2009.11.19. 14:31:29
+Dátum: 2009.11.25. 15:42:33
+Kiosztás: 2009.11.26.
+Mentés: D:\2009_11_26.tmx
+Dátum: 2009.11.28. 20:33:03
+Kiosztás: 2009.11.02.
+Napszakváltás: DÉLELŐTT
+Napszakváltás: DÉLUTÁN
+Kiválasztva: [489882] IRINGÓ U 8. [3m3 / 3to] - CsH: 32 - True
+Hozzárendelés: IZM-226, IRINGÓ U 8.
+Törlés: IZM-226 , Menet: 0
+Dátum: 2009.11.28. 21:06:12
+Dátum: 2009.11.28. 21:08:34
+Dátum: 2009.11.28. 21:12:39
+Dátum: 2009.11.28. 21:17:25
+Dátum: 2009-12-08 15:01:55
+Dátum: 2009-12-08 15:03:40
+Dátum: 2009-12-08 15:53:06
+Dátum: 2009-12-08 16:00:10
+Dátum: 2009-12-08 16:06:09
+Dátum: 2009-12-08 16:12:33
+Dátum: 2009-12-08 16:19:49
+Dátum: 2009-12-10 0:50:46
+Dátum: 2009-12-10 0:53:52
+Dátum: 2009-12-10 0:55:46
+Dátum: 2009-12-10 1:07:27
+Dátum: 2009-12-10 1:19:09
+Dátum: 2009-12-10 1:22:45
+Dátum: 2009-12-10 1:25:05
+Dátum: 2009-12-10 1:25:59
+Dátum: 2009-12-10 1:30:53
+Dátum: 2009-12-10 1:35:12
+Dátum: 2009-12-10 1:42:54
+Dátum: 2009-12-10 1:47:58
+Dátum: 2009-12-10 1:49:21
+Dátum: 2009-12-10 1:50:07
+Dátum: 2009-12-10 1:54:04
+Dátum: 2009-12-10 1:57:05
+Dátum: 2009-12-10 1:58:34
+Dátum: 2009-12-10 2:03:32
+Dátum: 2009-12-10 12:40:49
+Dátum: 2009-12-10 12:42:14
+Dátum: 2009-12-10 13:55:44
+Dátum: 2009-12-10 14:10:35
+Dátum: 2009-12-10 14:11:45
+Dátum: 2009-12-10 14:13:42
+Dátum: 2009-12-10 14:14:29
+Dátum: 2009-12-10 14:20:49
+Dátum: 2009-12-10 14:25:55
+Dátum: 2009-12-10 14:27:52
+Dátum: 2009-12-10 18:17:51
+!! KIVÉTEL: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToDouble(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   at System.Convert.ToDouble(Object value)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetDouble(Int32 i)
+   at TurmixLog.KiosztasDao.GetFoldLatLng(List`1 data) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 910
+A kivétel elkapva.
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_10_29.tmx
+Dátum: 2009-12-10 18:24:53
+!! KIVÉTEL: Specified cast is not valid.
+   at MySql.Data.MySqlClient.MySqlDataReader.GetByte(Int32 i)
+   at TurmixLog.KiosztasDao.GetAutoAdat(List`1 data) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 1003
+A kivétel elkapva.
+!! KIVÉTEL: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToDouble(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   at System.Convert.ToDouble(Object value)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetDouble(Int32 i)
+   at TurmixLog.KiosztasDao.GetFoldLatLng(List`1 data) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 910
+A kivétel elkapva.
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_10_29.tmx
+Dátum: 2009-12-10 18:29:24
+Dátum: 2009-12-10 18:32:15
+Dátum: 2009-12-10 18:50:41
+Dátum: 2009-12-11 13:40:35
+Dátum: 2009-12-11 13:50:08
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_10_29.tmx
+Dátum: 2009-12-11 13:51:18
+Dátum: 2009-12-11 14:17:24
+Dátum: 2009-12-14 14:39:49
+Dátum: 2009-12-29 12:22:20
+Dátum: 2010.06.22. 15:07:41
+!! KIVÉTEL: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.OpenRead(Uri address)
+   at TurmixLog.KiosztasDao.GetWorkData(DateTime date, List`1& autok, CimOsszesito& osszCim) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 442
+A kivétel elkapva.
+Dátum: 2010.06.22. 15:11:40
+!! KIVÉTEL: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.OpenRead(Uri address)
+   at TurmixLog.KiosztasDao.GetWorkData(DateTime date, List`1& autok, CimOsszesito& osszCim) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 442
+A kivétel elkapva.
+Dátum: 2010-09-14 10:11:00
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_13.tmx
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 11:45:57
+Dátum: 2010-09-14 11:47:10
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_01.tmx
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+!! KIVÉTEL: Object reference not set to an instance of an object.
+   at iTextSharp.text.pdf.intern.PdfAnnotationsImp.HasUnusedAnnotations()
+   at iTextSharp.text.pdf.PdfDocument.Close()
+   at iTextSharp.text.pdf.PdfWriter.Close()
+   at TurmixLog.PrintTemplate.statToPDF(List`1 autok, DateTime date)
+   at TurmixLog.MainForm.statPdf_Click(Object sender, EventArgs e)
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   atDátum: 2010-09-14 11:49:58
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 11:59:08
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 12:42:03
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 12:48:39
+Dátum: 2010-09-14 12:56:41
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 13:04:58
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 13:18:48
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 13:28:11
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 13:44:54
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 13:47:31
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 13:51:05
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 13:58:57
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-14 14:14:45
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-16 12:21:51
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-16 13:00:00
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-16 13:35:20
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+!! KIVÉTEL: The process cannot access the file 'D:\test.pdf' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at TurmixLog.PrintTemplate.gyujtoToPDF(List`1 autok, DateTime date) in E:\Visual Studio Projects\TurmixWeb\TurmixApp\Panels\PrintTemplate.cs:line 283
+Dátum: 2010-09-16 13:37:18
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-16 13:39:24
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-16 13:42:05
+Dátum: 2010-09-16 13:44:14
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-16 13:51:10
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-16 14:36:47
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2010-09-16 14:48:58
+Dátum: 2010-09-16 14:50:51
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_10_29.tmx
+Dátum: 2010-09-16 14:53:49
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_10_29.tmx
+Dátum: 2010-09-16 14:56:29
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_08_17.tmx
+Dátum: 2011-02-02 21:18:20
+Dátum: 2011-02-02 21:18:39
+Dátum: 2011-02-02 21:21:50
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_02.tmx
+Napszakváltás: DÉLELŐTT
+Napszakváltás: DÉLUTÁN
+Dátum: 2011-09-23 16:33:49
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_09.tmx
+Dátum: 2011-09-23 16:39:42
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_09.tmx
+Dátum: 2011-09-23 16:41:24
+Dátum: 2011-09-23 16:42:41
+Megnyitás: E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\save\2009_09_09.tmx
+Dátum: 2012.04.25. 21:05:16
+!! KIVÉTEL: Unable to connect to the remote server
+   at System.Net.WebClient.OpenRead(Uri address)
+   at TurmixLog.KiosztasDao.GetWorkData(DateTime date, List`1& autok, CimOsszesito& osszCim) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 440
+A kivétel elkapva.
+Dátum: 2012-04-25 21:07:05
+Dátum: 2015-10-14 19:35:35
+Dátum: 2015-10-14 19:35:57
+Dátum: 2015-10-14 19:36:19
+Dátum: 2015-10-14 19:39:13
+Dátum: 2015-10-14 21:42:15
+Dátum: 2016.02.18. 18:59:28
+!! KIVÉTEL: The remote server returned an error: (401) Unauthorized.
+   at System.Net.WebClient.OpenRead(Uri address)
+   at TurmixLog.KiosztasDao.GetWorkData(DateTime date, List`1& autok, CimOsszesito& osszCim) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 440
+A kivétel elkapva.
+Dátum: 2016-02-18 19:00:58
+Kiosztás: 2016-02-18
+Napszakváltás: DÉLELŐTT
+Kiválasztva: [644601] DÉLI SOR 35. [2m3 / 0to] - CsH: 8 - True
+Hozzárendelés: JBE-803, DÉLI SOR 35.
+Hozzárendelés: JBE-803, BAYK ANDRÁS KERT .
+Dátum: 2016-02-18 19:06:11
+Dátum: 2017-03-31 19:54:16
+Dátum: 2017-07-10 18:13:45
+Kiosztás: 2017-07-11
+Dátum: 2017. 07. 10. 18:24:59
+!! KIVÉTEL: Table 'tmxlogisztika.Auto' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult()
+   at MySql.Data.MySqlClient.ResultSet.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at TurmixLog.KiosztasDao.GetWorkData(DateTime date, List`1& autok, CimOsszesito& osszCim) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 445
+A kivétel elkapva.
+Dátum: 2017-07-10 18:51:11
+Dátum: 2017-07-10 19:07:37
+Kiosztás: 2017-07-11
+Kiválasztva: [664909] ÜDEKERT U 23. [4m3 / 2to] - CsH: 16 - True
+Hozzárendelés: JBE-146, ÜDEKERT U 23.
+Hozzárendelés: FKF-122, PALLAG .
+Napszakváltás: DÉLELŐTT
+Hozzárendelés: JBE-146, VADGESZTENYE KÖZ 13
+Kiválasztva: [664961] KUVIK U 42. [5m3 / 1to] - CsH: 8 - True

@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\TurmixWeb\TurmixUtils\bin\Release\TurmixUtils.dll.config
+D:\Visual Studio Projects\TurmixWeb\TurmixUtils\bin\Release\TurmixUtils.dll
+D:\Visual Studio Projects\TurmixWeb\TurmixUtils\bin\Release\TurmixUtils.pdb
+D:\Visual Studio Projects\TurmixWeb\TurmixUtils\bin\Release\MySql.Data.dll
+D:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Release\TurmixUtils.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Release\TurmixUtils.Properties.Resources.resources
+D:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Release\TurmixUtils.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Release\TurmixUtils.dll
+D:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Release\TurmixUtils.pdb

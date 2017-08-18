@@ -1,0 +1,14 @@
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\bin\Debug\TurmixReport.exe
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\bin\Debug\TurmixReport.pdb
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\obj\Debug\TurmixReport.Form1.resources
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\obj\Debug\TurmixReport.Properties.Resources.resources
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\obj\Debug\TurmixReport.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\obj\Debug\TurmixReport.exe
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\obj\Debug\TurmixReport.pdb
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\obj\Debug\TurmixReport.FogyasztasPanel.resources
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\obj\Debug\TurmixReport.SetterPanel.resources
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\bin\Debug\TurmixReport.exe.config
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\bin\Debug\TurmixUtils.dll
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\bin\Debug\TurmixUtils.pdb
+E:\Visual Studio Projects\TurmixWeb\TurmixReport\obj\Debug\TurmixReport.ReportViewerPanel.resources

@@ -1,0 +1,2 @@
+﻿select Rendszam, avg(Ktg) as Koltseg, avg(Liter) as Literatlag from (select *, sum(Koltseg) as Ktg from tankolas t where Datum between '2009-08-01' and '2009-08-31'
+group by Datum, Rendszam) as Temp group by Rendszam order by Rendszam;

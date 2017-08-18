@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\TurmixWeb\DatabaseUpdater\bin\Release\DatabaseUpdater.exe.config
+D:\Visual Studio Projects\TurmixWeb\DatabaseUpdater\bin\Release\DatabaseUpdater.exe
+D:\Visual Studio Projects\TurmixWeb\DatabaseUpdater\bin\Release\DatabaseUpdater.pdb
+D:\Visual Studio Projects\TurmixWeb\DatabaseUpdater\bin\Release\MySql.Data.dll
+D:\Visual Studio Projects\TurmixWeb\DatabaseUpdater\bin\Release\TurmixUtils.dll
+D:\Visual Studio Projects\TurmixWeb\DatabaseUpdater\bin\Release\TurmixUtils.pdb
+D:\Visual Studio Projects\TurmixWeb\DatabaseUpdater\obj\Release\DatabaseUpdater.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\TurmixWeb\DatabaseUpdater\obj\Release\DatabaseUpdater.exe
+D:\Visual Studio Projects\TurmixWeb\DatabaseUpdater\obj\Release\DatabaseUpdater.pdb

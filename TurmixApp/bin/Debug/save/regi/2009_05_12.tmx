@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapping date="2009.05.12.">
+	<autok>
+		<auto rendszam="IZM-225" kapacitas="5" elsofuvar="2" delelott="4" delutan="7" index="14" sofor="Kathi Imre" seged="xy" lizing="0" uzemanyag="0">
+			<fordulo tav="9">
+				<cim lat="47,514885" lng="21,640584" m3="5" tm3="4" nsz="1" id="31" utca="HOMOKKERT U" hsz="    24." irsz="4030" csh="8" munka="452884" megj="8 ig" />
+			</fordulo>
+			<fordulo tav="6">
+				<cim lat="47,510003" lng="21,627435" m3="5" tm3="1" nsz="1" id="77" utca="EPRESKERT U" hsz="    18." irsz="4030" csh="8" munka="452964" megj="8ig" />
+			</fordulo>
+			<fordulo tav="20">
+				<cim lat="47,559541" lng="21,669143" m3="5" tm3="0" nsz="2" id="141" utca="VASTORONY U" hsz="     4." irsz="4033" csh="10" munka="453094" megj="12ig 4 szám alá kell menni két kocsi megy" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,556904" lng="21,666312" m3="5" tm3="0" nsz="2" id="142" utca="KőRÖSI CSOMA U" hsz="     2." irsz="4033" csh="8" munka="453095" megj="12ig" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,55454" lng="21,659839" m3="5" tm3="5" nsz="2" id="132" utca="KARD U" hsz="    94." irsz="4033" csh="30" munka="453077" megj="8-12" />
+			</fordulo>
+			<fordulo tav="8">
+				<cim lat="47,530942" lng="21,585583" m3="5" tm3="3" nsz="2" id="157" utca="TEGEZ U" hsz="   112." irsz="4031" csh="50" munka="453124" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="3" id="76" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="24" munka="452963" megj="12 Túzó Zoltán Moha 6 Tel:30/476-80-39  3cső" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="3" id="94" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="8" munka="452992" megj="12 Hernyák Edit Pajzsika 7 Tel:70/408-0755  1cső" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="3" id="145" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="8" munka="453099" megj="12 Zakar Béla  Kamilla 17 Tel:715-438 1cső" />
+			</fordulo>
+			<fordulo tav="23">
+				<cim lat="47,524548" lng="21,702069" m3="5" tm3="3" nsz="3" id="63" utca="BAYK ANDRÁS KERT" hsz="    44." irsz="4002" csh="8" munka="452938" megj="14  a diószegin a 6 km balra fel a dombra és az első sárga ház lesz bal oldalt" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,499611" lng="21,688896" m3="5" tm3="10" nsz="3" id="78" utca="BICZÓ ISTVÁN KERT" hsz="      ." irsz="4002" csh="32" munka="452965" megj="12 biczó kert utca és kikelet utca sarok sarok ház" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,523843" lng="21,67834" m3="5" tm3="0" nsz="3" id="113" utca="CSENGER U" hsz="     3." irsz="4030" csh="8" munka="453033" megj="12" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,525034" lng="21,677573" m3="5" tm3="5" nsz="3" id="81" utca="FEHÉRGYARMAT U" hsz="    12." irsz="4034" csh="8" munka="452970" megj="bemehettek  ÜRES KOCSIVAL!!! csö lefektetve de rá lehet menni  KAPU NYITVA BEMEHETTEK, A garázs mögötti aknát kell csinálni." />
+			</fordulo>
+		</auto>
+		<auto rendszam="IZM-226" kapacitas="5" elsofuvar="1" delelott="6" delutan="6" index="2" sofor="Molnár Andor" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="11">
+				<cim lat="47,503169" lng="21,652295" m3="5" tm3="5" nsz="1" id="134" utca="KISDOBOS U" hsz="    12." irsz="4030" csh="8" munka="453085" megj="8 ig" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,557565" lng="21,665829" m3="5" tm3="4" nsz="2" id="127" utca="VÁLYI NAGY TIBOR U" hsz="   4/A." irsz="4033" csh="8" munka="453061" megj="12ig" />
+			</fordulo>
+			<fordulo tav="20">
+				<cim lat="47,55889" lng="21,669006" m3="5" tm3="5" nsz="2" id="57" utca="SIMON ISTVÁN U" hsz="     4." irsz="4033" csh="8" munka="452926" megj="12ig" />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,484985" lng="21,673435" m3="5" tm3="5" nsz="2" id="107" utca="PACIKERT U" hsz="   106." irsz="4002" csh="8" munka="453018" megj="12ig" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,519676" lng="21,665555" m3="3" tm3="2" nsz="2" id="114" utca="ERDEI FERENC U" hsz="  34/A." irsz="4030" csh="32" munka="453035" megj="12ig" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,51634" lng="21,665473" m3="2" tm3="0" nsz="2" id="88" utca="VIKÁR BÉLA U" hsz="    10." irsz="4030" csh="8" munka="452979" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="5" tm3="10" nsz="2" id="16" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="16" munka="452787" megj="12ig Terdik Sándorné Zsalukölcsönző után jobbra kis utca 2. uj ház  27/d  2cső  30/610-5395" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="5" tm3="10" nsz="3" id="91" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="8" munka="452988" megj="12 Molnár Norbert Fóliás 37 Tel:70/340-0839  1cső" />
+			</fordulo>
+			<fordulo tav="20">
+				<cim lat="47,494908" lng="21,692843" m3="5" tm3="4" nsz="3" id="42" utca="SZÜRET U" hsz="    13." irsz="4002" csh="8" munka="452903" megj="13 ha nincs senki  kapu nyitva     nehezen nyílik" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,498246" lng="21,687907" m3="5" tm3="2" nsz="3" id="74" utca="OPORTÓ U" hsz="    11." irsz="4002" csh="16" munka="452961" megj="12" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,522916" lng="21,662042" m3="5" tm3="3" nsz="3" id="130" utca="KERESZTESI U" hsz=" 92-94." irsz="4034" csh="16" munka="453069" megj="14" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,52328" lng="21,664879" m3="5" tm3="3" nsz="3" id="176" utca="SZÉP U" hsz="    36." irsz="4034" csh="24" munka="453168" megj="12" />
+			</fordulo>
+			<fordulo tav="8">
+				<cim lat="47,530942" lng="21,585583" m3="5" tm3="5" nsz="3" id="53" utca="TEGEZ U" hsz="   138." irsz="4031" csh="32" munka="452920" megj="12" />
+			</fordulo>
+		</auto>
+		<auto rendszam="JBE-146" kapacitas="5" elsofuvar="1" delelott="6" delutan="6" index="8" sofor="Szentesi Zsolt" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="16">
+				<cim lat="47,549211" lng="21,653277" m3="5" tm3="5" nsz="1" id="12" utca="APAFÁJA U" hsz="    45." irsz="4033" csh="10" munka="452734" megj="8ig utolsóház balra GRÁNÁT U. 10 SZ." />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,549211" lng="21,653277" m3="5" tm3="5" nsz="2" id="80" utca="APAFÁJA U" hsz="  21/A." irsz="4033" csh="32" munka="452968" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,555786" lng="21,663101" m3="5" tm3="5" nsz="2" id="109" utca="ZOVÁNYI JENő U" hsz="    17." irsz="4033" csh="8" munka="453021" megj="BM." />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="2" id="35" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="8" munka="452892" megj="12 ig Szincsák Ferencé 720155   1 cső&#xA;Zuzmara utcán az aszfalt végén a fehér villanyoszlppnál jobbra 1 ház baloldalban" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="2" id="82" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="30" munka="452972" megj="12ig  Zsula Károly Tramini 10  30m cső   30/9253-035" />
+			</fordulo>
+			<fordulo tav="6">
+				<cim lat="47,529302" lng="21,593724" m3="5" tm3="5" nsz="2" id="28" utca="KÖTELES U" hsz="    20." irsz="4031" csh="8" munka="452858" megj="minél hamarabb kapu nyitva  fűre vigyázz üres kocsival" />
+			</fordulo>
+			<fordulo tav="8">
+				<cim lat="47,533248" lng="21,581847" m3="5" tm3="4" nsz="2" id="103" utca="BOKRÉTA U" hsz="    10." irsz="4034" csh="30" munka="453010" megj="12ig" />
+			</fordulo>
+			<fordulo tav="13">
+				<cim lat="47,494442" lng="21,659254" m3="5" tm3="3" nsz="3" id="168" utca="KORCSOLYÁS U" hsz="    20." irsz="4030" csh="20" munka="453148" megj="14" />
+			</fordulo>
+			<fordulo tav="12">
+				<cim lat="47,500072" lng="21,654654" m3="5" tm3="4" nsz="3" id="195" utca="POHL FERENC U" hsz="    16." irsz="4030" csh="16" munka="453247" megj="12 kapu nyitva 14alá csengessetek ha nincs senki" />
+			</fordulo>
+			<fordulo tav="13">
+				<cim lat="47,489908" lng="21,661483" m3="5" tm3="5" nsz="3" id="191" utca="LENCZ U" hsz="    38." irsz="4030" csh="16" munka="453219" megj="12" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,489521" lng="21,669986" m3="5" tm3="0" nsz="3" id="164" utca="FÜLEMÜLE U" hsz="     6." irsz="4002" csh="10" munka="453143" megj="12" />
+			</fordulo>
+			<fordulo tav="6">
+				<cim lat="47,526607" lng="21,591631" m3="3" tm3="0" nsz="3" id="147" utca="KISHEGYESI ÚT" hsz="   123." irsz="4031" csh="8" munka="453102" megj="13" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,525034" lng="21,677573" m3="5" tm3="5" nsz="3" id="54" utca="FEHÉRGYARMAT U" hsz="    29." irsz="4034" csh="8" munka="452921" megj="14" />
+			</fordulo>
+		</auto>
+		<auto rendszam="JBE-803" kapacitas="5" elsofuvar="1" delelott="7" delutan="6" index="1" sofor="Krizsán Sándor" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="19">
+				<cim lat="47,481378" lng="21,683736" m3="5" tm3="0" nsz="1" id="45" utca="MÓRABÓRA U" hsz="    20." irsz="4002" csh="40" munka="452907" megj="6-8ig,Mpályi végeán Relax centernél balra, megint balra, jobboldalt a 4. ház" />
+			</fordulo>
+			<fordulo tav="11">
+				<cim lat="47,503169" lng="21,652295" m3="5" tm3="5" nsz="2" id="129" utca="KISDOBOS U" hsz="    12." irsz="4030" csh="8" munka="453063" megj="12ig" />
+			</fordulo>
+			<fordulo tav="11">
+				<cim lat="47,502292" lng="21,650631" m3="5" tm3="5" nsz="2" id="15" utca="DOBVERő U" hsz="   4/B." irsz="4030" csh="10" munka="452786" megj="12ig" />
+			</fordulo>
+			<fordulo tav="3">
+				<cim lat="47,503965" lng="21,614948" m3="5" tm3="4" nsz="2" id="68" utca="KANÁLIS U" hsz="   115." irsz="4030" csh="8" munka="452948" megj="12ig" />
+			</fordulo>
+			<fordulo tav="2">
+				<cim lat="47,503428" lng="21,611404" m3="5" tm3="4" nsz="2" id="122" utca="TÉGLÁSKERT U" hsz="    73." irsz="4030" csh="36" munka="453046" megj="12ig" />
+			</fordulo>
+			<fordulo tav="2">
+				<cim lat="47,50383" lng="21,609681" m3="5" tm3="5" nsz="2" id="87" utca="BALATON U" hsz="    93." irsz="4030" csh="8" munka="452978" megj="12ig   ha nincs senki 91 alá csengetni, jobb oldali szomszéd" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,588694" lng="21,598724" m3="10" tm3="0" nsz="2" id="126" utca="HARSTEIN KERT" hsz="    74." irsz="4001" csh="10" munka="453059" megj="12 ig , Harstein kert u. 74   alá kell menni. Új ház tégla kerítés nagykapun be tudtok menni" />
+			</fordulo>
+			<fordulo tav="9">
+				<cim lat="47,534898" lng="21,580801" m3="5" tm3="3" nsz="3" id="189" utca="KUNHALOM U" hsz="    31." irsz="4031" csh="8" munka="453205" megj="12" />
+			</fordulo>
+			<fordulo tav="8">
+				<cim lat="47,531566" lng="21,580341" m3="5" tm3="4" nsz="3" id="62" utca="BARCASÁG U" hsz="    35." irsz="4031" csh="25" munka="452936" megj="bm.  kicsi kocsi menjen" />
+			</fordulo>
+			<fordulo tav="8">
+				<cim lat="47,531566" lng="21,580341" m3="5" tm3="10" nsz="3" id="69" utca="BARCASÁG U" hsz="    47." irsz="4031" csh="10" munka="452953" megj="12" />
+			</fordulo>
+			<fordulo tav="13">
+				<cim lat="47,496843" lng="21,662019" m3="5" tm3="0" nsz="3" id="169" utca="SZÉNA TÉR" hsz="     3." irsz="4030" csh="60" munka="453153" megj="12" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,496218" lng="21,686847" m3="5" tm3="0" nsz="3" id="111" utca="SIKLÓ U" hsz="    42." irsz="4030" csh="25" munka="453028" megj="12 a 44 szám alá beszólni" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,528639" lng="21,661267" m3="5" tm3="0" nsz="3" id="180" utca="BÍBIC U" hsz="    26." irsz="4034" csh="30" munka="453178" megj="12" />
+			</fordulo>
+		</auto>
+		<auto rendszam="JBE-804" kapacitas="5" elsofuvar="1" delelott="6" delutan="6" index="15" sofor="Sápi Lajos" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="15">
+				<cim lat="47,524492" lng="21,663747" m3="5" tm3="5" nsz="1" id="2" utca="ÚJ U" hsz="    52." irsz="4034" csh="8" munka="452201" megj="6-8 ig" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,520421" lng="21,668572" m3="5" tm3="5" nsz="2" id="25" utca="KNÉZICH KÁROLY U" hsz="    13." irsz="4034" csh="30" munka="452848" megj="12ig" />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,519322" lng="21,67231" m3="5" tm3="10" nsz="2" id="150" utca="BÁLINT ZOLTÁN U" hsz="    17." irsz="4034" csh="8" munka="453106" megj="12 ig  kis kocsi menjen !!" />
+			</fordulo>
+			<fordulo tav="13">
+				<cim lat="47,489908" lng="21,661483" m3="5" tm3="5" nsz="2" id="152" utca="LENCZ U" hsz="    42." irsz="4030" csh="8" munka="453111" megj="12 ig  első ház" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,496455" lng="21,66484" m3="5" tm3="5" nsz="2" id="149" utca="CSERESZNYE U" hsz="    21." irsz="4030" csh="8" munka="453104" megj="12ig" />
+			</fordulo>
+			<fordulo tav="12">
+				<cim lat="47,502072" lng="21,657522" m3="5" tm3="5" nsz="2" id="60" utca="PAPRIKA U" hsz="     6." irsz="4030" csh="8" munka="452930" megj="12ig  4  sz.  alá kell menni" />
+			</fordulo>
+			<fordulo tav="10">
+				<cim lat="47,497733" lng="21,647992" m3="3" tm3="2" nsz="2" id="95" utca="BIRSALMA U" hsz="    30." irsz="4030" csh="8" munka="452993" megj="12ig" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,556904" lng="21,666312" m3="5" tm3="5" nsz="3" id="181" utca="KőRÖSI CSOMA U" hsz="    24." irsz="4033" csh="24" munka="453180" megj="12" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,557565" lng="21,665829" m3="5" tm3="0" nsz="3" id="72" utca="VÁLYI NAGY TIBOR U" hsz="    34." irsz="4033" csh="10" munka="452956" megj="bm  kapu nyitva, 8után" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="3" id="172" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="32" munka="453158" megj="12 Lávai László Csereiérdűlő lilafehérkerítés Tel:_716-172 30mcső" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="5" tm3="10" nsz="3" id="182" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="24" munka="453183" megj="12 Gellén Imréné Borszőlő 24 Tel:720-355 3cső" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="3" id="185" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="16" munka="453195" megj="12 Kegyes István Kékperjéből első balra barna kerítés Tel:716-892 2cső" />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,52361" lng="21,66847" m3="5" tm3="4" nsz="3" id="115" utca="SZARVAS U" hsz="    12." irsz="4034" csh="8" munka="453036" megj="12  12/a kell menni !!!  fehér rácsos kerítés-hez kell menni" />
+			</fordulo>
+		</auto>
+		<auto rendszam="JGS-045" kapacitas="5" elsofuvar="1" delelott="6" delutan="6" index="7" sofor="Jobbágy István" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="8">
+				<cim lat="47,531566" lng="21,580341" m3="3" tm3="3" nsz="1" id="17" utca="BARCASÁG U" hsz="     6." irsz="4031" csh="25" munka="452788" megj="8 ig" />
+			</fordulo>
+			<fordulo tav="9">
+				<cim lat="47,534898" lng="21,580801" m3="5" tm3="2" nsz="2" id="61" utca="KUNHALOM U" hsz="    55." irsz="4031" csh="8" munka="452931" megj="bm." />
+			</fordulo>
+			<fordulo tav="9">
+				<cim lat="47,534093" lng="21,577224" m3="5" tm3="0" nsz="2" id="123" utca="ÉRMELLÉK U" hsz="     9." irsz="4031" csh="16" munka="453050" megj="12ig" />
+			</fordulo>
+			<fordulo tav="2">
+				<cim lat="47,503428" lng="21,611404" m3="5" tm3="5" nsz="2" id="99" utca="TÉGLÁSKERT U" hsz="    90." irsz="4030" csh="25" munka="453005" megj="12" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,523843" lng="21,67834" m3="5" tm3="0" nsz="2" id="128" utca="CSENGER U" hsz="  24/B." irsz="4030" csh="8" munka="453062" megj="12ig" />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,525806" lng="21,671906" m3="5" tm3="3" nsz="2" id="104" utca="HÓVIRÁG U" hsz="     7." irsz="4034" csh="30" munka="453013" megj="12ig  ha szembe állunnk a lakással akkor bal !!!! oldali lakás" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,522916" lng="21,662042" m3="3" tm3="2" nsz="2" id="160" utca="KERESZTESI U" hsz="    61." irsz="4034" csh="16" munka="453134" megj="12ig" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="3" id="187" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="24" munka="453198" megj="12 Sass Jenő Felsőpércsi 104/a  3cső  20/4545-116" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="3" id="174" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="8" munka="453162" megj="12 Kerek Gyuláné Jáger-Kékperje sarok Tel:70/701-34-91  1cső" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,55454" lng="21,659839" m3="4" tm3="1" nsz="3" id="139" utca="KARD U" hsz="    98." irsz="4033" csh="8" munka="453092" megj="12" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,556904" lng="21,666312" m3="5" tm3="5" nsz="3" id="162" utca="KőRÖSI CSOMA U" hsz="   7/B." irsz="4033" csh="8" munka="453140" megj="12" />
+			</fordulo>
+			<fordulo tav="12">
+				<cim lat="47,521998" lng="21,649835" m3="5" tm3="0" nsz="3" id="71" utca="VÁGÓHÍD U" hsz="  24/B." irsz="4034" csh="20" munka="452955" megj="14(minél később)  Húsiparral szemben" />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,508602" lng="21,678403" m3="5" tm3="10" nsz="3" id="1" utca="DIÓSZEGI ÚT" hsz="    15." irsz="4030" csh="10" munka="451150" megj="1  kocsi" />
+			</fordulo>
+		</auto>
+		<auto rendszam="JNS-276" kapacitas="5" elsofuvar="1" delelott="14" delutan="10" index="3" sofor="Losonczy  Tamás" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="0">
+				<cim lat="47,605124" lng="21,59618" m3="5" tm3="0" nsz="1" id="7" utca="NAGYSZENTGYÖRGY U" hsz="    60." irsz="4225" csh="32" munka="452569" megj="6-8ig minél hamarabb" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,602842" lng="21,603796" m3="5" tm3="0" nsz="2" id="3" utca="ZSINDELY U" hsz="    21." irsz="4225" csh="40" munka="452224" megj="12ig" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,605124" lng="21,59618" m3="5" tm3="0" nsz="2" id="8" utca="NAGYSZENTGYÖRGY U" hsz="    10." irsz="4225" csh="8" munka="452678" megj="bm" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,606761" lng="21,603017" m3="5" tm3="0" nsz="2" id="9" utca="ERDőHÁT U" hsz="    26." irsz="4225" csh="8" munka="452689" megj="12ig kapu nyitva lakatot  visszapattintani!!!" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,603386" lng="21,597447" m3="4" tm3="0" nsz="2" id="10" utca="ALSÓJÓZSAI U" hsz="    22." irsz="4225" csh="16" munka="452712" megj="12ig" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,605124" lng="21,59618" m3="5" tm3="0" nsz="2" id="11" utca="NAGYSZENTGYÖRGY U" hsz="    34." irsz="4225" csh="16" munka="452725" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,609114" lng="21,608219" m3="5" tm3="0" nsz="2" id="13" utca="HATHÁZ U" hsz="    82." irsz="4225" csh="10" munka="452743" megj="12ig&#xA;ÜRESEN MENJETEK !!!! kapu nyitva ha nem mennek ki kutyákat seprűvel elzavarni!! amúgy nem harapnak!" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,607568" lng="21,58692" m3="5" tm3="0" nsz="2" id="19" utca="MIHÁLYLAKI U" hsz="   2/A." irsz="4225" csh="26" munka="452794" megj="bm. (Kőműves)!!!" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,602842" lng="21,603796" m3="5" tm3="0" nsz="2" id="22" utca="ZSINDELY U" hsz="     8." irsz="4225" csh="32" munka="452814" megj="bm bemehettek  de a kocsival csak a beállóig lehet !!!!!! beton marad egyben !!!  OLVASNI" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,608241" lng="21,582422" m3="5" tm3="0" nsz="2" id="23" utca="KASTÉLY U" hsz="  13/A." irsz="4225" csh="10" munka="452825" megj="12ig" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,606354" lng="21,578085" m3="5" tm3="0" nsz="2" id="27" utca="CSONKATORONY U" hsz="    11." irsz="4225" csh="30" munka="452852" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,606761" lng="21,603017" m3="3" tm3="0" nsz="2" id="29" utca="ERDőHÁT U" hsz="    27." irsz="4225" csh="24" munka="452862" megj="12ig kaput segíteni bezárni!!!!!!!" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,594953" lng="21,546551" m3="3" tm3="0" nsz="2" id="40" utca="RÓZSAVÖLGY U" hsz="   182." irsz="4225" csh="24" munka="452899" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,608364" lng="21,609857" m3="5" tm3="0" nsz="2" id="56" utca="SZőLőHEGY U" hsz="    19." irsz="4225" csh="8" munka="452924" megj="12 bemehettek" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,59240833" lng="21,57400833" m3="5" tm3="0" nsz="2" id="58" utca="FÉNY U" hsz="     1." irsz="4225" csh="25" munka="452927" megj="12ig" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,60113889" lng="21,57066667" m3="4" tm3="0" nsz="3" id="5" utca="ÉRSEK U" hsz="    21." irsz="4225" csh="16" munka="452343" megj="bm." />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,600202" lng="21,582212" m3="3" tm3="0" nsz="3" id="6" utca="BOCSKAI ISTVÁN ÚT" hsz="     5." irsz="4225" csh="16" munka="452532" megj="12 Tócos u 1 alá kell menni" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,602842" lng="21,603796" m3="5" tm3="0" nsz="3" id="21" utca="ZSINDELY U" hsz="     4." irsz="4225" csh="8" munka="452804" megj="12" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,597899" lng="21,565165" m3="5" tm3="0" nsz="3" id="30" utca="HADVEZÉR U" hsz="    36." irsz="4225" csh="50" munka="452866" megj="12" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,600831" lng="21,60329" m3="5" tm3="0" nsz="3" id="32" utca="HOMOKHÁT U" hsz="  21/B." irsz="4225" csh="16" munka="452886" megj="két kanyar" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,600831" lng="21,60329" m3="5" tm3="0" nsz="3" id="33" utca="HOMOKHÁT U" hsz="  21/B." irsz="4225" csh="16" munka="452887" megj="két kanyar" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,602842" lng="21,603796" m3="5" tm3="0" nsz="3" id="38" utca="ZSINDELY U" hsz="     9." irsz="4225" csh="24" munka="452896" megj="hátul" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,602842" lng="21,603796" m3="5" tm3="0" nsz="3" id="39" utca="ZSINDELY U" hsz="     9." irsz="4225" csh="24" munka="452897" megj="hátul" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,606807" lng="21,591126" m3="5" tm3="0" nsz="3" id="41" utca="BERKENYE U" hsz="    29." irsz="4225" csh="8" munka="452902" megj="bm. bemehettek0" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,606354" lng="21,578085" m3="5" tm3="0" nsz="3" id="83" utca="CSONKATORONY U" hsz="     9." irsz="4225" csh="8" munka="452973" megj="12" />
+			</fordulo>
+		</auto>
+		<auto rendszam="KDD-260" kapacitas="5" elsofuvar="2" delelott="4" delutan="7" index="6" sofor="Hajdu István" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="17">
+				<cim lat="47,514294" lng="21,67898" m3="5" tm3="2" nsz="1" id="86" utca="REMÉNY U" hsz="    12." irsz="4034" csh="8" munka="452976" megj="8ig" />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,518254" lng="21,670228" m3="3" tm3="5" nsz="1" id="118" utca="JÁMBOR LAJOS U" hsz="    32." irsz="4034" csh="20" munka="453039" megj="8ig" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,523843" lng="21,67834" m3="5" tm3="5" nsz="2" id="135" utca="CSENGER U" hsz="    18." irsz="4030" csh="10" munka="453087" megj="12ig" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="2" id="98" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="8" munka="453004" megj="12ig  Somogyi Katalin  Kinizsi nyomda előtzti utca balra buszfordulónál és ott a 2. sárga ház 1cső  30-974-36 66" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="4" tm3="10" nsz="2" id="137" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="8" munka="453090" megj="12 Kovács Tamás Felsőpércsi 85 patakparton balra és 3. ház teL.20/4332289  1cső" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,510185" lng="21,702203" m3="3" tm3="0" nsz="2" id="155" utca="CSENDES U" hsz="    10." irsz="4034" csh="24" munka="453116" megj="12ig" />
+			</fordulo>
+			<fordulo tav="20">
+				<cim lat="47,501085" lng="21,691765" m3="5" tm3="0" nsz="3" id="51" utca="FőZő U" hsz="     3." irsz="4002" csh="15" munka="452917" megj="12  A Diószegi út felől kell megközelíteni." />
+			</fordulo>
+			<fordulo tav="26">
+				<cim lat="47,584012" lng="21,684669" m3="5" tm3="3" nsz="3" id="133" utca="APAFA" hsz="   8/M." irsz="4033" csh="8" munka="453080" megj="13  Lőtér utcából balra egy kis utca hosszan végig menni,utca végén fekete drótkerítés, vakolatlan ház" />
+			</fordulo>
+			<fordulo tav="26">
+				<cim lat="47,585892" lng="21,683594" m3="5" tm3="0" nsz="3" id="37" utca="AKÁCMÉZ U" hsz="    21." irsz="4002" csh="24" munka="452895" megj="12" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,52399" lng="21,659565" m3="3" tm3="3" nsz="3" id="97" utca="HÉT VEZÉR U" hsz="    15." irsz="4034" csh="8" munka="452998" megj="bm. bemehettek zárjtok vissza a kaput" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,524492" lng="21,663747" m3="2" tm3="2" nsz="3" id="199" utca="ÚJ U" hsz="    31." irsz="4034" csh="16" munka="453264" megj="12" />
+			</fordulo>
+			<fordulo tav="2">
+				<cim lat="47,50383" lng="21,609681" m3="5" tm3="0" nsz="3" id="175" utca="BALATON U" hsz="    91." irsz="4030" csh="10" munka="453166" megj="12" />
+			</fordulo>
+			<fordulo tav="6">
+				<cim lat="47,510003" lng="21,627435" m3="5" tm3="0" nsz="3" id="186" utca="EPRESKERT U" hsz="    22." irsz="4030" csh="20" munka="453196" megj="bm" />
+			</fordulo>
+		</auto>
+		<auto rendszam="KDD-542" kapacitas="5" elsofuvar="1" delelott="6" delutan="6" index="10" sofor="Szentesi János" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="18">
+				<cim lat="47,525034" lng="21,677573" m3="5" tm3="5" nsz="1" id="84" utca="FEHÉRGYARMAT U" hsz="    27." irsz="4034" csh="8" munka="452974" megj="8 ig" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,49277" lng="21,687833" m3="5" tm3="3" nsz="2" id="96" utca="HULLÁM U" hsz="     8." irsz="4002" csh="16" munka="452995" megj="12ig" />
+			</fordulo>
+			<fordulo tav="20">
+				<cim lat="47,501085" lng="21,691765" m3="5" tm3="4" nsz="2" id="92" utca="FőZő U" hsz="     4." irsz="4002" csh="24" munka="452990" megj="12" />
+			</fordulo>
+			<fordulo tav="20">
+				<cim lat="47,503413" lng="21,692137" m3="4" tm3="2" nsz="2" id="106" utca="ZELLER U" hsz="    17." irsz="4002" csh="16" munka="453017" megj="bm" />
+			</fordulo>
+			<fordulo tav="32">
+				<cim lat="47,600833" lng="21,704167" m3="5" tm3="2" nsz="2" id="154" utca="SZőLő U" hsz="    14." irsz="4014" csh="8" munka="453114" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="26">
+				<cim lat="47,584012" lng="21,684669" m3="5" tm3="3" nsz="2" id="138" utca="APAFA" hsz="    39." irsz="4002" csh="16" munka="453091" megj="12ig Tsz után balra, 200mt menni utána jobbra az első ház (Haladás út) fehér ház vörös palakerítés" />
+			</fordulo>
+			<fordulo tav="6">
+				<cim lat="47,509412" lng="21,630017" m3="2" tm3="2" nsz="2" id="24" utca="MIKEPÉRCSI ÚT" hsz="   148." irsz="4030" csh="10" munka="452827" megj="12ig" />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,518254" lng="21,670228" m3="5" tm3="5" nsz="3" id="146" utca="JÁMBOR LAJOS U" hsz="    19." irsz="4034" csh="8" munka="453100" megj="12" />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,522943" lng="21,673235" m3="5" tm3="0" nsz="3" id="47" utca="LÉTAI ÚT" hsz="    30." irsz="4034" csh="16" munka="452909" megj="14  csengessetek!" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,522178" lng="21,668379" m3="3" tm3="4" nsz="3" id="203" utca="VADLIBA U" hsz="    25." irsz="4034" csh="8" munka="453275" megj="12  be lehet állni" />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,522943" lng="21,673235" m3="5" tm3="6" nsz="3" id="156" utca="LÉTAI ÚT" hsz="  39/A." irsz="4034" csh="8" munka="453121" megj="12" />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,52361" lng="21,66847" m3="3" tm3="1" nsz="3" id="183" utca="SZARVAS U" hsz="    15." irsz="4034" csh="8" munka="453185" megj="12" />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,526549" lng="21,669197" m3="5" tm3="3" nsz="3" id="136" utca="GÁSPÁR ENDRE U" hsz="    19." irsz="4034" csh="8" munka="453088" megj="bm. nyitva a kapu Rézmetsző felől   Teljesen kiűriteni !!!!!" />
+			</fordulo>
+		</auto>
+		<auto rendszam="JLZ-679" kapacitas="10" elsofuvar="1" delelott="5" delutan="7" index="4" sofor="Erdei András" seged="Heveli Imre" lizing="0" uzemanyag="0">
+			<fordulo tav="13">
+				<cim lat="47,493508" lng="21,660074" m3="10" tm3="0" nsz="1" id="18" utca="SZEGED U" hsz="    29." irsz="4030" csh="10" munka="452791" megj="8ig" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,49558" lng="21,66484" m3="10" tm3="0" nsz="2" id="90" utca="VENYIGE U" hsz="    19." irsz="4030" csh="30" munka="452983" megj="12ig  bemehettek" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,498194" lng="21,66423" m3="10" tm3="0" nsz="2" id="75" utca="KÖSZMÉTE U" hsz="   3/A." irsz="4030" csh="16" munka="452962" megj="12ig" />
+			</fordulo>
+			<fordulo tav="13">
+				<cim lat="47,498963" lng="21,661739" m3="10" tm3="6" nsz="2" id="100" utca="RIBIZLI U" hsz="    29." irsz="4030" csh="20" munka="453006" megj="12ig" />
+			</fordulo>
+			<fordulo tav="12">
+				<cim lat="47,502072" lng="21,657522" m3="10" tm3="7" nsz="2" id="89" utca="PAPRIKA U" hsz="    20." irsz="4030" csh="40" munka="452982" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="13">
+				<cim lat="47,494442" lng="21,659254" m3="10" tm3="0" nsz="2" id="20" utca="KORCSOLYÁS U" hsz="    24." irsz="4030" csh="8" munka="452797" megj="12ig" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,55078" lng="21,672942" m3="10" tm3="5" nsz="3" id="151" utca="ACSÁDI ÚT" hsz="    23." irsz="4033" csh="20" munka="453107" megj="12" />
+			</fordulo>
+			<fordulo tav="20">
+				<cim lat="47,55889" lng="21,669006" m3="10" tm3="0" nsz="3" id="73" utca="SIMON ISTVÁN U" hsz="   8/A." irsz="4033" csh="10" munka="452957" megj="bm kiskapu nyitva  8/A alá kell menni  kaput nyitva hagyják" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,557501" lng="21,660964" m3="10" tm3="10" nsz="3" id="178" utca="HETÉNYI JÁNOS U" hsz="    24." irsz="4033" csh="10" munka="453172" megj="bm" />
+			</fordulo>
+			<fordulo tav="32">
+				<cim lat="47,576804" lng="21,480091" m3="10" tm3="10" nsz="3" id="202" utca="ARATÓ U" hsz="    39." irsz="4063" csh="30" munka="453273" megj="12" />
+			</fordulo>
+			<fordulo tav="32">
+				<cim lat="47,57976" lng="21,479086" m3="10" tm3="10" nsz="3" id="163" utca="KASTÉLYKERT U" hsz="   1/A." irsz="4063" csh="30" munka="453141" megj="12" />
+			</fordulo>
+			<fordulo tav="34">
+				<cim lat="47,584131" lng="21,476028" m3="10" tm3="0" nsz="3" id="171" utca="NAGYHÁT U" hsz="     2." irsz="4063" csh="10" munka="453157" megj="bm" />
+			</fordulo>
+			<fordulo tav="3">
+				<cim lat="47,504419" lng="21,613167" m3="10" tm3="5" nsz="3" id="188" utca="SZEPESI U" hsz="   105." irsz="4030" csh="10" munka="453201" megj="12" />
+			</fordulo>
+		</auto>
+		<auto rendszam="KOB-968" kapacitas="10" elsofuvar="1" delelott="5" delutan="7" index="13" sofor="Tompa László" seged="Bakó Gyula" lizing="0" uzemanyag="0">
+			<fordulo tav="18">
+				<cim lat="47,52153889" lng="21,68074722" m3="10" tm3="0" nsz="1" id="34" utca="NAGYSZALONTA U" hsz="   9/A." irsz="4034" csh="10" munka="452888" megj="9ig nagybánya utcával párhuzamosan buszmegáló előtt balra jobbról 4. ház mészköves narancssárga ház" />
+			</fordulo>
+			<fordulo tav="7">
+				<cim lat="47,474683" lng="21,589844" m3="10" tm3="0" nsz="2" id="165" utca="SÁRGA DűLő" hsz="  17/B." irsz="4002" csh="40" munka="453144" megj="12ig reggel" />
+			</fordulo>
+			<fordulo tav="13">
+				<cim lat="47,489908" lng="21,661483" m3="10" tm3="6" nsz="2" id="110" utca="LENCZ U" hsz="    16." irsz="4030" csh="8" munka="453025" megj="12ig" />
+			</fordulo>
+			<fordulo tav="10">
+				<cim lat="47,497733" lng="21,647992" m3="10" tm3="8" nsz="2" id="85" utca="BIRSALMA U" hsz="    34." irsz="4030" csh="10" munka="452975" megj="12ig" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,517671" lng="21,666932" m3="10" tm3="6" nsz="2" id="48" utca="SCHWEIDEL JOZSEF U" hsz="     7." irsz="4030" csh="10" munka="452910" megj="12ig nagykapu nyitva bnemehettek" />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,518254" lng="21,670228" m3="10" tm3="8" nsz="2" id="70" utca="JÁMBOR LAJOS U" hsz="  98/B." irsz="4034" csh="10" munka="452954" megj="ha nincs senki kapu nyitva" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="10" tm3="10" nsz="3" id="159" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="16" munka="453132" megj="12 Rózsa György Vámospércsin Anita transz parkolója végén lévő cserepes ház Tel:30/420-0-620 2cső" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="10" tm3="10" nsz="3" id="177" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="8" munka="453169" megj="14 Csige Imre fóliás 11 tel:30/4320-139  1cső" />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,522943" lng="21,673235" m3="10" tm3="10" nsz="3" id="0" utca="LÉTAI ÚT" hsz="      ." irsz="4034" csh="10" munka="451125" megj="megkell kérdezni , hogy melyik akna ? KINIZSI NYOMDA&#xA;Hétfőtől  csütörtökig:8-15:30-ig&#xA;Péntek:8-14-ig&#xA;ÜRES KOCSIVAL KELL MENNI!!!" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,496356" lng="21,663399" m3="10" tm3="0" nsz="3" id="184" utca="BODZA U" hsz="    17." irsz="4030" csh="20" munka="453190" megj="12" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,497535" lng="21,663545" m3="10" tm3="0" nsz="3" id="206" utca="JEGENYE U" hsz="     4." irsz="4030" csh="35" munka="453292" megj="14" />
+			</fordulo>
+			<fordulo tav="13">
+				<cim lat="47,498426" lng="21,659032" m3="10" tm3="10" nsz="3" id="192" utca="MUSKOTÁLY U" hsz="     6." irsz="4030" csh="10" munka="453227" megj="bm   pékség" />
+			</fordulo>
+			<fordulo tav="10">
+				<cim lat="47,494732" lng="21,64521" m3="10" tm3="0" nsz="3" id="179" utca="TÜDőS KLÁRA U" hsz="    28." irsz="4030" csh="10" munka="453175" megj="12" />
+			</fordulo>
+		</auto>
+		<auto rendszam="LMB-038" kapacitas="10" elsofuvar="1" delelott="4" delutan="8" index="5" sofor="Kelemen Zsolt" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="10">
+				<cim lat="47,535657" lng="21,572221" m3="10" tm3="7" nsz="1" id="26" utca="HARSONA U" hsz="    28." irsz="4031" csh="10" munka="452849" megj="8 ig ÜRESEN MENJETEK" />
+			</fordulo>
+			<fordulo tav="10">
+				<cim lat="47,535657" lng="21,572221" m3="10" tm3="8" nsz="2" id="65" utca="HARSONA U" hsz="    17." irsz="4031" csh="30" munka="452941" megj="12ig" />
+			</fordulo>
+			<fordulo tav="26">
+				<cim lat="47,584012" lng="21,684669" m3="4" tm3="2" nsz="2" id="49" utca="APAFA" hsz="   8/H." irsz="4033" csh="8" munka="452911" megj="12ig  sorompó Lőtér utcán a postaládáknál balra, utca közepén zöld kerítéses ház  kerekes kút névtábla kivan téve" />
+				<cim lat="47,561573" lng="21,653499" m3="10" tm3="10" nsz="2" id="143" utca="LőTÉR U" hsz="     5." irsz="4033" csh="10" munka="453096" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="3">
+				<cim lat="47,500405" lng="21,614162" m3="10" tm3="0" nsz="2" id="166" utca="HORGÁSZ U" hsz="    48." irsz="4030" csh="32" munka="453145" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="26">
+				<cim lat="47,586722" lng="21,682933" m3="10" tm3="10" nsz="3" id="198" utca="GÁSPÁRKERT U" hsz="    22." irsz="4002" csh="25" munka="453260" megj="14" />
+			</fordulo>
+			<fordulo tav="32">
+				<cim lat="47,600833" lng="21,704167" m3="10" tm3="0" nsz="3" id="167" utca="SZőLő U" hsz="     8." irsz="4014" csh="8" munka="453147" megj="bm." />
+			</fordulo>
+			<fordulo tav="27">
+				<cim lat="47,588147" lng="21,686983" m3="10" tm3="0" nsz="3" id="194" utca="SALAKOS U" hsz="   9/B." irsz="4002" csh="10" munka="453243" megj="12 !!  mixereshez" />
+			</fordulo>
+			<fordulo tav="27">
+				<cim lat="47,589375" lng="21,682714" m3="10" tm3="0" nsz="3" id="116" utca="MÉHÉSZFÖLD U" hsz="    17." irsz="4002" csh="10" munka="453037" megj="12" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,556904" lng="21,666312" m3="10" tm3="0" nsz="3" id="148" utca="KőRÖSI CSOMA U" hsz="    42." irsz="4033" csh="40" munka="453103" megj="15 bemászni nem lehet" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,556904" lng="21,666312" m3="10" tm3="8" nsz="3" id="196" utca="KőRÖSI CSOMA U" hsz="    12." irsz="4033" csh="10" munka="453258" megj="12-17" />
+			</fordulo>
+			<fordulo tav="25">
+				<cim lat="47,534915" lng="21,494174" m3="10" tm3="0" nsz="3" id="161" utca="KOCSIS U" hsz="     3." irsz="4002" csh="20" munka="453136" megj="12" />
+				<cim lat="47,534915" lng="21,494174" m3="10" tm3="0" nsz="3" id="117" utca="KOCSIS U" hsz="    22." irsz="4002" csh="30" munka="453038" megj="12" />
+			</fordulo>
+		</auto>
+		<auto rendszam="KHK-583" kapacitas="12" elsofuvar="1" delelott="5" delutan="7" index="0" sofor="Hegedüs Mihály" seged="Iván Sándor" lizing="0" uzemanyag="0">
+			<fordulo tav="12">
+				<cim lat="47,500072" lng="21,654654" m3="10" tm3="10" nsz="1" id="4" utca="POHL FERENC U" hsz="    62." irsz="4030" csh="10" munka="452316" megj="8ig" />
+			</fordulo>
+			<fordulo tav="12">
+				<cim lat="47,500072" lng="21,654654" m3="10" tm3="0" nsz="2" id="108" utca="POHL FERENC U" hsz="    74." irsz="4030" csh="40" munka="453020" megj="kapu nyitva" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,496218" lng="21,686847" m3="10" tm3="0" nsz="2" id="50" utca="SIKLÓ U" hsz="    54." irsz="4030" csh="20" munka="452913" megj="bm bemehettek" />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,499408" lng="21,67816" m3="10" tm3="7" nsz="2" id="67" utca="CSÁRDA U" hsz="    93." irsz="4030" csh="10" munka="452947" megj="12ig bemehettek. Kőkerítés és palakerítés között, piros kapu ," />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,508602" lng="21,678403" m3="10" tm3="10" nsz="2" id="101" utca="DIÓSZEGI ÚT" hsz="      ." irsz="4030" csh="10" munka="453008" megj="7-15-ig 3 kanyar" />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,508602" lng="21,678403" m3="10" tm3="10" nsz="2" id="102" utca="DIÓSZEGI ÚT" hsz="      ." irsz="4030" csh="10" munka="453009" megj="7-15-ig 3 kanyar" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,55454" lng="21,659839" m3="10" tm3="0" nsz="3" id="173" utca="KARD U" hsz="     3." irsz="4033" csh="10" munka="453160" megj="bm" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,557501" lng="21,660964" m3="10" tm3="0" nsz="3" id="158" utca="HETÉNYI JÁNOS U" hsz="    21." irsz="4033" csh="10" munka="453126" megj="12" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,529236" lng="21,681532" m3="10" tm3="2" nsz="3" id="52" utca="KÉRÉSZ U" hsz="    19." irsz="4034" csh="8" munka="452919" megj="14" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,523843" lng="21,67834" m3="10" tm3="0" nsz="3" id="153" utca="CSENGER U" hsz="    23." irsz="4030" csh="15" munka="453112" megj="ha nincs senki bemehettek" />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,524742" lng="21,674428" m3="10" tm3="2" nsz="3" id="66" utca="ASZTALOS U" hsz="  44/3." irsz="4034" csh="20" munka="452942" megj="12 bm Aknára ne álljatok rá !" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,520744" lng="21,667512" m3="10" tm3="10" nsz="3" id="124" utca="őZ U" hsz="    19." irsz="4034" csh="20" munka="453053" megj="12 két kocsi" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,520744" lng="21,667512" m3="10" tm3="10" nsz="3" id="125" utca="őZ U" hsz="    19." irsz="4034" csh="20" munka="453054" megj="12 két kocsi" />
+			</fordulo>
+		</auto>
+		<auto rendszam="JSZ-683" kapacitas="15" elsofuvar="1" delelott="5" delutan="8" index="9" sofor="Szabó Bálint" seged="Barta Jenő" lizing="0" uzemanyag="0">
+			<fordulo tav="25">
+				<cim lat="47,536582" lng="21,496474" m3="10" tm3="10" nsz="1" id="14" utca="HINTÓS U" hsz="      ." irsz="4002" csh="10" munka="452775" megj="8 ig Hintós utca előtt balra téglatörmelékkel feltöltött földút 2. ház osb-s kerítés" />
+			</fordulo>
+			<fordulo tav="25">
+				<cim lat="47,534915" lng="21,494174" m3="10" tm3="0" nsz="2" id="119" utca="KOCSIS U" hsz="    20." irsz="4002" csh="10" munka="453041" megj="12ig" />
+			</fordulo>
+			<fordulo tav="25">
+				<cim lat="47,538187" lng="21,493592" m3="10" tm3="0" nsz="2" id="79" utca="NYÁRFÁS U" hsz="    18." irsz="4063" csh="20" munka="452966" megj="7-12ig két kocsi megy" />
+				<cim lat="47,538187" lng="21,493592" m3="10" tm3="5" nsz="2" id="36" utca="NYÁRFÁS U" hsz="    16." irsz="4002" csh="20" munka="452894" megj="12ig" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,548948" lng="21,659064" m3="10" tm3="5" nsz="2" id="131" utca="SÁMSONI ÚT" hsz=" 121/B." irsz="4033" csh="10" munka="453073" megj="bm. kapu nyitva, a 121/b/1 alá kell menni" />
+				<cim lat="47,557121" lng="21,65881" m3="10" tm3="10" nsz="2" id="43" utca="ZÓLYOM U" hsz="     1." irsz="4033" csh="10" munka="452905" megj="12ig" />
+			</fordulo>
+			<fordulo tav="25">
+				<cim lat="47,536789" lng="21,493445" m3="10" tm3="4" nsz="3" id="121" utca="KISKÚT U" hsz="    16." irsz="4002" csh="10" munka="453045" megj="bm. két kocsi!! de a VILLANYÓRASZEKRÉNYre és A KERÍTÉSRE VIGYÁZZatok ! ! ! két kocsi (szelvényt otthagyni!) papírt a postaládába!!!bedobnii" />
+				<cim lat="47,536789" lng="21,493445" m3="10" tm3="4" nsz="3" id="120" utca="KISKÚT U" hsz="    16." irsz="4002" csh="10" munka="453044" megj="bm. két kocsi!! de a VILLANYÓRASZEKRÉNYre és A KERÍTÉSRE VIGYÁZZatok ! ! ! két kocsi (szelvényt otthagyni!) papírt a postaládába!!!bedobnii" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,517281" lng="21,662392" m3="10" tm3="0" nsz="3" id="201" utca="KOSÁRFONÓ U" hsz="    22." irsz="4030" csh="40" munka="453270" megj="13" />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,508602" lng="21,678403" m3="10" tm3="10" nsz="3" id="190" utca="DIÓSZEGI ÚT" hsz="      ." irsz="4030" csh="8" munka="453217" megj="12 A Pince presszóhoz kell menni." />
+			</fordulo>
+			<fordulo tav="13">
+				<cim lat="47,518166" lng="21,659465" m3="10" tm3="0" nsz="3" id="204" utca="KÁNTOR U" hsz="     6." irsz="4030" csh="40" munka="453278" megj="12" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,519533" lng="21,663052" m3="10" tm3="0" nsz="3" id="44" utca="PANDÚR U" hsz="    20." irsz="4030" csh="20" munka="452906" megj="14" />
+			</fordulo>
+			<fordulo tav="3">
+				<cim lat="47,503965" lng="21,614948" m3="10" tm3="0" nsz="3" id="59" utca="KANÁLIS U" hsz="    61." irsz="4030" csh="40" munka="452929" megj="12" />
+			</fordulo>
+			<fordulo tav="3">
+				<cim lat="47,504419" lng="21,613167" m3="10" tm3="8" nsz="3" id="205" utca="SZEPESI U" hsz="    41." irsz="4030" csh="40" munka="453288" megj="12  sötétedés előtt kell menni. Az esőzés miatt most nem lehet az udvarra beállni ! ! !" />
+			</fordulo>
+		</auto>
+		<auto rendszam="KPY-372" kapacitas="15" elsofuvar="1" delelott="4" delutan="7" index="11" sofor="Hegedűs István" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="18">
+				<cim lat="47,557501" lng="21,660964" m3="10" tm3="10" nsz="1" id="46" utca="HETÉNYI JÁNOS U" hsz="    20." irsz="4033" csh="10" munka="452908" megj="8 ig" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,557501" lng="21,660964" m3="10" tm3="0" nsz="2" id="93" utca="HETÉNYI JÁNOS U" hsz="    10." irsz="4033" csh="10" munka="452991" megj="12 ig" />
+			</fordulo>
+			<fordulo tav="20">
+				<cim lat="47,559541" lng="21,669143" m3="10" tm3="0" nsz="2" id="140" utca="VASTORONY U" hsz="     4." irsz="4033" csh="10" munka="453093" megj="12ig 4 szám alá kell menni két kocsi megy" />
+			</fordulo>
+			<fordulo tav="16">
+				<cim lat="47,484985" lng="21,673435" m3="10" tm3="4" nsz="2" id="64" utca="PACIKERT U" hsz="    29." irsz="4002" csh="20" munka="452940" megj="12ig" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,492112" lng="21,664002" m3="10" tm3="0" nsz="2" id="112" utca="KISTELEK U" hsz="     3." irsz="4030" csh="36" munka="453029" megj="12ig" />
+			</fordulo>
+			<fordulo tav="30">
+				<cim lat="47,474192" lng="21,732239" m3="10" tm3="0" nsz="3" id="105" utca="BÜKK U" hsz="    29." irsz="4079" csh="20" munka="453016" megj="bm." />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,500538" lng="21,685323" m3="10" tm3="10" nsz="3" id="200" utca="BICZÓKERT U" hsz="    24." irsz="4002" csh="10" munka="453266" megj="Shelly kanyarnál söröző  &quot; Aranygóóóól&quot;" />
+			</fordulo>
+			<fordulo tav="8">
+				<cim lat="47,531566" lng="21,580341" m3="10" tm3="8" nsz="3" id="170" utca="BARCASÁG U" hsz="    42." irsz="4031" csh="10" munka="453156" megj="12" />
+			</fordulo>
+			<fordulo tav="9">
+				<cim lat="47,528015" lng="21,573251" m3="10" tm3="0" nsz="3" id="197" utca="BALÁSHÁZY JÁNOS U" hsz="  16/A." irsz="4031" csh="30" munka="453259" megj="12" />
+			</fordulo>
+			<fordulo tav="2">
+				<cim lat="47,501293" lng="21,611837" m3="10" tm3="10" nsz="3" id="193" utca="PÁKÁSZ U" hsz="     8." irsz="4030" csh="20" munka="453232" megj="12  új betonra ne álljatok rá!!!!!!!!!!!!!!!!!!!&#xA;tolókapu nyitva  kutya nem harap" />
+			</fordulo>
+			<fordulo tav="2">
+				<cim lat="47,50196" lng="21,61057" m3="10" tm3="10" nsz="3" id="55" utca="CSORDÁS FERENC U" hsz="    15." irsz="4030" csh="30" munka="452922" megj="bm. kapu nyitva bemehettek" />
+			</fordulo>
+			<fordulo tav="10">
+				<cim lat="47,496874" lng="21,646497" m3="10" tm3="5" nsz="3" id="144" utca="VADALMA U" hsz="      ." irsz="4030" csh="8" munka="453097" megj="14 minnél később&#xA;tó mellett mogyoró színő ház&#xA;0535/77 ki van téve az ablakba" />
+			</fordulo>
+		</auto>
+	</autok>
+	<cimek />
+	<szamok KEF="10" KDE="44" KDU="50" TEF="6" TDE="28" TDU="44" Km3="467" Tm3="780" Jm3="117" EFJ="1" DEJ="14" DUJ="10" EFDeb="16" DEDeb="72" DUDeb="94" KEFU="0" KDEU="0" KDUU="0" TEFU="0" TDEU="0" TDUU="0" Km3U="0" Tm3U="0" />
+</mapping>

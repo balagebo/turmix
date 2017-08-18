@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="66b0ee79-cd86-4231-868a-be038b8f2ff5" name="Balage@CHARISMA 2009-09-17 12:31:55" runUser="Charisma\Balage" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="4809e1f7-9bfd-4e5c-abf5-f305684fc184">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="E:\Visual Studio Projects\TurmixWeb\TestResults\Balage_CHARISMA 2009-09-17 12_31_55">
+      <DeploymentItem filename="E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\itextsharp.dll" />
+      <DeploymentItem filename="E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\TurmixLog.exe" />
+      <DeploymentItem filename="E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\MySql.Data.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="8" executed="7" passed="5" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="1" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-09-17T12:31:55.9629538+02:00" queuing="2009-09-17T12:31:56.4309546+02:00" start="2009-09-17T12:31:56.5245547+02:00" finish="2009-09-17T12:32:04.9261698+02:00" />
+  <TestDefinitions>
+    <UnitTest name="GetLatLngProbTest" storage="e:\visual studio projects\turmixweb\turmixtest\bin\debug\turmixtest.dll" id="9b0d8319-c67d-5934-bdf1-de44cedae15a">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="5c10d09a-3c54-4b6d-8e4f-b83cdf07cd0c" />
+      <TestMethod codeBase="E:\Visual Studio Projects\TurmixWeb\TurmixTest\bin\Debug\TurmixTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TurmixTest.DataUtilTest, TurmixTest" name="GetLatLngProbTest" />
+    </UnitTest>
+    <UnitTest name="DeleteCarTest" storage="e:\visual studio projects\turmixweb\turmixtest\bin\debug\turmixtest.dll" id="2916c876-a0a1-fdac-227e-6df33a9f41b5">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="e215048f-f6f2-45b8-93d9-97536197db8c" />
+      <TestMethod codeBase="E:\Visual Studio Projects\TurmixWeb\TurmixTest\bin\Debug\TurmixTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TurmixTest.DataUtilTest, TurmixTest" name="DeleteCarTest" />
+    </UnitTest>
+    <UnitTest name="GetCarsTest" storage="e:\visual studio projects\turmixweb\turmixtest\bin\debug\turmixtest.dll" id="39389300-1832-da98-f424-2528338fff93">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="66f7fede-3f84-4051-9dd6-7a70e686cf60" />
+      <TestMethod codeBase="E:\Visual Studio Projects\TurmixWeb\TurmixTest\bin\Debug\TurmixTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TurmixTest.DataUtilTest, TurmixTest" name="GetCarsTest" />
+    </UnitTest>
+    <UnitTest name="GetLatLngTest" storage="e:\visual studio projects\turmixweb\turmixtest\bin\debug\turmixtest.dll" id="c0c4b864-6bca-831e-00b2-eaca89421a43">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="3f726234-79d2-404e-9da4-25279df013fe" />
+      <TestMethod codeBase="E:\Visual Studio Projects\TurmixWeb\TurmixTest\bin\Debug\TurmixTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TurmixTest.DataUtilTest, TurmixTest" name="GetLatLngTest" />
+    </UnitTest>
+    <OrderedTest name="OrderedTest1" storage="e:\visual studio projects\turmixweb\turmixtest\orderedtest1.orderedtest" id="6b336e31-3fe8-43da-aa2c-95fcfbb426ce">
+      <Css projectStructure="" iteration="" />
+      <Execution timeOut="2147483647" id="93b36e29-ebf1-432e-b269-6243c3f8bc6c" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestLinks>
+        <TestLink id="e5a9e0d1-6730-facc-4751-ceb942a71fc3" name="InsertCarTest" storage="bin\debug\turmixtest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="39389300-1832-da98-f424-2528338fff93" name="GetCarsTest" storage="bin\debug\turmixtest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="e855a315-18b1-79d3-a395-2667e2daef04" name="InsertLatLngTest" storage="bin\debug\turmixtest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="c0c4b864-6bca-831e-00b2-eaca89421a43" name="GetLatLngTest" storage="bin\debug\turmixtest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="9b0d8319-c67d-5934-bdf1-de44cedae15a" name="GetLatLngProbTest" storage="bin\debug\turmixtest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="a58d7a99-7d20-b895-51b9-93f0ab0794b3" name="GetUtcakTest" storage="bin\debug\turmixtest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="2916c876-a0a1-fdac-227e-6df33a9f41b5" name="DeleteCarTest" storage="bin\debug\turmixtest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+      </TestLinks>
+    </OrderedTest>
+    <UnitTest name="GetUtcakTest" storage="e:\visual studio projects\turmixweb\turmixtest\bin\debug\turmixtest.dll" id="a58d7a99-7d20-b895-51b9-93f0ab0794b3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="96e267cf-30fc-44db-8b75-50e5e68b8c40" />
+      <TestMethod codeBase="E:\Visual Studio Projects\TurmixWeb\TurmixTest\bin\Debug\TurmixTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TurmixTest.DataUtilTest, TurmixTest" name="GetUtcakTest" />
+    </UnitTest>
+    <UnitTest name="InsertCarTest" storage="e:\visual studio projects\turmixweb\turmixtest\bin\debug\turmixtest.dll" id="e5a9e0d1-6730-facc-4751-ceb942a71fc3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="E:\Visual Studio Projects\TurmixWeb\TurmixTest\bin\Debug\TurmixTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TurmixTest.DataUtilTest, TurmixTest" name="InsertCarTest" />
+    </UnitTest>
+    <UnitTest name="InsertLatLngTest" storage="e:\visual studio projects\turmixweb\turmixtest\bin\debug\turmixtest.dll" id="e855a315-18b1-79d3-a395-2667e2daef04">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="E:\Visual Studio Projects\TurmixWeb\TurmixTest\bin\Debug\TurmixTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TurmixTest.DataUtilTest, TurmixTest" name="InsertLatLngTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6b336e31-3fe8-43da-aa2c-95fcfbb426ce" executionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <TestEntries>
+        <TestEntry testId="e5a9e0d1-6730-facc-4751-ceb942a71fc3" executionId="7d4b5f63-fb56-4d6e-81ba-6f5db50cb596" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+        <TestEntry testId="39389300-1832-da98-f424-2528338fff93" executionId="e0d1951b-402c-4540-b260-cf47582f5da7" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+        <TestEntry testId="e855a315-18b1-79d3-a395-2667e2daef04" executionId="2b7989ee-3580-4d56-8b06-412976f78eb8" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+        <TestEntry testId="c0c4b864-6bca-831e-00b2-eaca89421a43" executionId="06b8fcfe-443b-4cfe-b534-1a658183e9cd" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+        <TestEntry testId="9b0d8319-c67d-5934-bdf1-de44cedae15a" executionId="2c9ed9aa-98a8-4564-8cbc-ac8f67ad6a02" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+        <TestEntry testId="a58d7a99-7d20-b895-51b9-93f0ab0794b3" executionId="48f8fc6e-4b9d-46b5-be4d-3e461caf4180" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+        <TestEntry testId="2916c876-a0a1-fdac-227e-6df33a9f41b5" executionId="2f3108be-4a78-4db9-9a32-b5387ceccc46" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+      </TestEntries>
+    </TestEntry>
+  </TestEntries>
+  <Results>
+    <TestResultAggregation executionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testId="6b336e31-3fe8-43da-aa2c-95fcfbb426ce" testName="OrderedTest1" computerName="CHARISMA" duration="00:00:08.3522532" startTime="2009-09-17T12:31:56.5401548+02:00" endTime="2009-09-17T12:32:04.8949697+02:00" testType="ec4800e8-40e5-4ab3-8510-b8bf29b1904d" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Counters error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="1" disconnected="0" warning="0" passed="5" completed="0" inProgress="0" pending="0" />
+      <InnerResults>
+        <UnitTestResult executionId="7d4b5f63-fb56-4d6e-81ba-6f5db50cb596" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testId="e5a9e0d1-6730-facc-4751-ceb942a71fc3" testName="InsertCarTest" computerName="CHARISMA" duration="00:00:00.4738885" startTime="2009-09-17T12:31:56.5401548+02:00" endTime="2009-09-17T12:31:57.3045561+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+          <Output>
+          </Output>
+        </UnitTestResult>
+        <UnitTestResult executionId="e0d1951b-402c-4540-b260-cf47582f5da7" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testId="39389300-1832-da98-f424-2528338fff93" testName="GetCarsTest" computerName="CHARISMA" duration="00:00:00.0047549" startTime="2009-09-17T12:31:57.3045561+02:00" endTime="2009-09-17T12:31:57.3045561+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+          <Output>
+          </Output>
+        </UnitTestResult>
+        <UnitTestResult executionId="2b7989ee-3580-4d56-8b06-412976f78eb8" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testId="e855a315-18b1-79d3-a395-2667e2daef04" testName="InsertLatLngTest" computerName="CHARISMA" duration="00:00:07.3111907" startTime="2009-09-17T12:31:57.3201561+02:00" endTime="2009-09-17T12:32:04.6297692+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+          <Output>
+          </Output>
+        </UnitTestResult>
+        <UnitTestResult executionId="06b8fcfe-443b-4cfe-b534-1a658183e9cd" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testId="c0c4b864-6bca-831e-00b2-eaca89421a43" testName="GetLatLngTest" computerName="CHARISMA" duration="00:00:00.0045023" startTime="2009-09-17T12:32:04.6297692+02:00" endTime="2009-09-17T12:32:04.6453693+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+          <Output>
+          </Output>
+        </UnitTestResult>
+        <UnitTestResult executionId="2c9ed9aa-98a8-4564-8cbc-ac8f67ad6a02" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testId="9b0d8319-c67d-5934-bdf1-de44cedae15a" testName="GetLatLngProbTest" computerName="CHARISMA" duration="00:00:00.2136026" startTime="2009-09-17T12:32:04.6453693+02:00" endTime="2009-09-17T12:32:04.8637697+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+          <Output>
+          </Output>
+        </UnitTestResult>
+        <UnitTestResult executionId="48f8fc6e-4b9d-46b5-be4d-3e461caf4180" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testId="a58d7a99-7d20-b895-51b9-93f0ab0794b3" testName="GetUtcakTest" computerName="CHARISMA" duration="00:00:00.0177467" startTime="2009-09-17T12:32:04.8637697+02:00" endTime="2009-09-17T12:32:04.8949697+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+          <Output>
+            <ErrorInfo>
+              <Message>Assert.AreEqual failed. Expected:&lt;(null)&gt;. Actual:&lt;System.Collections.Generic.List`1[System.String]&gt;. </Message>
+              <StackTrace>   at TurmixTest.DataUtilTest.GetUtcakTest() in E:\Visual Studio Projects\TurmixWeb\TurmixTest\DataUtilTest.cs:line 106
+</StackTrace>
+            </ErrorInfo>
+          </Output>
+        </UnitTestResult>
+        <TestResult executionId="2f3108be-4a78-4db9-9a32-b5387ceccc46" parentExecutionId="93b36e29-ebf1-432e-b269-6243c3f8bc6c" testId="2916c876-a0a1-fdac-227e-6df33a9f41b5" testName="DeleteCarTest" computerName="CHARISMA" duration="00:00:00" startTime="0001-01-01T01:00:00.0000000+01:00" endTime="0001-01-01T01:00:00.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+      </InnerResults>
+    </TestResultAggregation>
+  </Results>
+</TestRun>

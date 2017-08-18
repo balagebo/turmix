@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapping date="2009.09.02.">
+		<mappedData>
+				<vehicle idString="JBE-146" capacity="5" maxFirstPeriod="1" maxSecondPeriod="5" maxThirdPeriod="8" vehicleIndex="5" driver="Szentesi Zsolt" helper="" leasingCost="0" fuelIntake="0" />
+				<vehicle idString="JBE-803" capacity="5" maxFirstPeriod="1" maxSecondPeriod="5" maxThirdPeriod="8" vehicleIndex="8" driver="Krizsán Sándor" helper="" leasingCost="0" fuelIntake="0" />
+				<vehicle idString="JGS-045" capacity="5" maxFirstPeriod="1" maxSecondPeriod="5" maxThirdPeriod="7" vehicleIndex="10" driver="Kovács László" helper="" leasingCost="0" fuelIntake="0" />
+				<vehicle idString="JNS-276" capacity="5" maxFirstPeriod="1" maxSecondPeriod="16" maxThirdPeriod="8" vehicleIndex="11" driver="Losonczy  Tamás" helper="" leasingCost="100000" fuelIntake="0">
+						<workUnitGroup distance="0">
+								<workUnit lat="47,604864" lng="21,603586" workCapacity="5" realm3="0" period="1" id="68" street="MONOSTORERDŐ U" house="61." zip="4225" pipe="32" sheetNo="477087" prob="False"><![CDATA[8ig mindenképpen menjetek!!!]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,600202" lng="21,582212" workCapacity="5" realm3="0" period="2" id="59" street="BOCSKAI ISTVÁN ÚT" house="29." zip="4225" pipe="16" sheetNo="476813" prob="False"><![CDATA[8-12-ig ]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,605542" lng="21,584735" workCapacity="3" realm3="0" period="2" id="60" street="OKTÓBER 6. U" house="21." zip="4225" pipe="30" sheetNo="477013" prob="False"><![CDATA[12ig]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,606354" lng="21,578085" workCapacity="5" realm3="0" period="2" id="62" street="CSONKATORONY U" house="9." zip="4225" pipe="8" sheetNo="477154" prob="False"><![CDATA[BM ]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,605124" lng="21,59618" workCapacity="5" realm3="0" period="2" id="64" street="NAGYSZENTGYÖRGY U" house="77." zip="4225" pipe="30" sheetNo="477109" prob="False"><![CDATA[12ig a kutya nem hamis]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,600831" lng="21,60329" workCapacity="5" realm3="0" period="2" id="65" street="HOMOKHÁT U" house="51." zip="4225" pipe="8" sheetNo="477147" prob="True"><![CDATA[8-12-IG két kanyar kis kocsi]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,600831" lng="21,60329" workCapacity="5" realm3="0" period="2" id="66" street="HOMOKHÁT U" house="51." zip="4225" pipe="8" sheetNo="477145" prob="True"><![CDATA[8-12-IG két kanyar kis kocsi]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,606761" lng="21,603017" workCapacity="3" realm3="0" period="2" id="70" street="ERDŐHÁT U" house="27." zip="4225" pipe="24" sheetNo="477059" prob="False"><![CDATA[12ig. kaput segíteni bezárni!!!!!!! ]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,608241" lng="21,582422" workCapacity="4" realm3="0" period="2" id="87" street="KASTÉLY U" house="9." zip="4225" pipe="8" sheetNo="476448" prob="False"><![CDATA[12ig]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,606013" lng="21,586321" workCapacity="5" realm3="0" period="2" id="101" street="TELEK U" house="52." zip="4225" pipe="16" sheetNo="477104" prob="False"><![CDATA[12ig]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,606013" lng="21,586321" workCapacity="3" realm3="0" period="2" id="102" street="TELEK U" house="32." zip="4225" pipe="8" sheetNo="476706" prob="False"><![CDATA[bm.]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,606761" lng="21,603017" workCapacity="5" realm3="10" period="2" id="128" street="ERDŐHÁT U" house="16." zip="4225" pipe="30" sheetNo="477097" prob="False"><![CDATA[6-10-ig  16/a alá kell menni ]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,608241" lng="21,582422" workCapacity="5" realm3="0" period="2" id="152" street="KASTÉLY U" house="73." zip="4225" pipe="8" sheetNo="477076" prob="False"><![CDATA[12-ig  kapu nyitva bemehettek  Legutolsó ház bal oldalt az erdő alatt,  ]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,594953" lng="21,546551" workCapacity="5" realm3="0" period="2" id="155" street="RÓZSAVÖLGY U" house="228/F." zip="4225" pipe="10" sheetNo="477033" prob="False"><![CDATA[12ig két kanyar van]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,594953" lng="21,546551" workCapacity="5" realm3="0" period="2" id="156" street="RÓZSAVÖLGY U" house="228/F." zip="4225" pipe="10" sheetNo="477030" prob="False"><![CDATA[12ig két kanyar van]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,600202" lng="21,582212" workCapacity="5" realm3="0" period="2" id="159" street="BOCSKAI ISTVÁN ÚT" house="4/B." zip="4225" pipe="8" sheetNo="477391" prob="False"><![CDATA[8-12-ig  ha nincs senkiszomszédban 6 szám  lesz a kapukulcs]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,594953" lng="21,546551" workCapacity="5" realm3="0" period="2" id="161" street="RÓZSAVÖLGY U" house="166/A." zip="4225" pipe="8" sheetNo="477035" prob="False"><![CDATA[bm ]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,606929" lng="21,589234" workCapacity="5" realm3="0" period="3" id="61" street="BODAI U" house="28." zip="4225" pipe="30" sheetNo="477151" prob="False"><![CDATA[12]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,605124" lng="21,59618" workCapacity="3" realm3="0" period="3" id="63" street="NAGYSZENTGYÖRGY U" house="47." zip="4225" pipe="20" sheetNo="477174" prob="False"><![CDATA[12]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,602842" lng="21,603796" workCapacity="5" realm3="0" period="3" id="67" street="ZSINDELY U" house="9." zip="4225" pipe="24" sheetNo="477121" prob="False"><![CDATA[bm ELŐRE ]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,606761" lng="21,603017" workCapacity="5" realm3="0" period="3" id="69" street="ERDŐHÁT U" house="29." zip="4225" pipe="24" sheetNo="477112" prob="False"><![CDATA[bm OLDALKAPU NYITVA LESZ  HATHÁZ FELŐL]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,605547" lng="21,594474" workCapacity="5" realm3="0" period="3" id="93" street="KISERDŐ U" house="104." zip="4225" pipe="8" sheetNo="477431" prob="False"><![CDATA[bm]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,606013" lng="21,586321" workCapacity="5" realm3="0" period="3" id="96" street="TELEK U" house="15." zip="4225" pipe="8" sheetNo="477186" prob="False"><![CDATA[12 ]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,606354" lng="21,578085" workCapacity="3" realm3="0" period="3" id="138" street="CSONKATORONY U" house="18." zip="4225" pipe="16" sheetNo="477158" prob="False"><![CDATA[12 ha sár van akkor 20m cső kell,egyébként 1 cső elég]]></workUnit>
+						</workUnitGroup>
+						<workUnitGroup distance="0">
+								<workUnit lat="47,608006" lng="21,584722" workCapacity="5" realm3="0" period="3" id="165" street="KERTEKALJA U" house="22." zip="4225" pipe="20" sheetNo="477163" prob="False"><![CDATA[bm. bemehettek ]]></workUnit>
+						</workUnitGroup>
+				</vehicle>
+				<vehicle idString="KDD-542" capacity="5" maxFirstPeriod="2" maxSecondPeriod="5" maxThirdPeriod="8" vehicleIndex="3" driver="Szentesi János" helper="" leasingCost="0" fuelIntake="0" />
+				<vehicle idString="KGA-512" capacity="5" maxFirstPeriod="1" maxSecondPeriod="5" maxThirdPeriod="8" vehicleIndex="7" driver="Varga Róbert" helper="" leasingCost="0" fuelIntake="0" />
+				<vehicle idString="LMB-038" capacity="5" maxFirstPeriod="1" maxSecondPeriod="5" maxThirdPeriod="8" vehicleIndex="9" driver="Hegedűs András" helper="" leasingCost="0" fuelIntake="0" />
+				<vehicle idString="JSZ-683" capacity="10" maxFirstPeriod="1" maxSecondPeriod="6" maxThirdPeriod="6" vehicleIndex="6" driver="Erdei András" helper="Heveli Imre" leasingCost="0" fuelIntake="0" />
+				<vehicle idString="KAX-589" capacity="10" maxFirstPeriod="1" maxSecondPeriod="5" maxThirdPeriod="6" vehicleIndex="1" driver="Sápi Lajos" helper="Szabó László" leasingCost="0" fuelIntake="0" />
+				<vehicle idString="KOB-968" capacity="10" maxFirstPeriod="1" maxSecondPeriod="6" maxThirdPeriod="6" vehicleIndex="0" driver="Makó István" helper="Bakó Gyula" leasingCost="0" fuelIntake="0" />
+				<vehicle idString="KHK-583" capacity="12" maxFirstPeriod="2" maxSecondPeriod="6" maxThirdPeriod="6" vehicleIndex="2" driver="Losonczi Péter" helper="Iván Sándor" leasingCost="0" fuelIntake="0" />
+				<vehicle idString="JLZ-679" capacity="15" maxFirstPeriod="1" maxSecondPeriod="6" maxThirdPeriod="6" vehicleIndex="4" driver="Szabó Bálint" helper="Barta Jenő" leasingCost="0" fuelIntake="0" />
+		</mappedData>
+		<unmappedData>
+				<workUnit lat="47,500405" lng="21,614162" workCapacity="10" realm3="8" period="1" id="12" street="HORGÁSZ U" house="25." zip="4030" pipe="40" sheetNo="477192" prob="False"><![CDATA[8ig]]></workUnit>
+				<workUnit lat="47,522916" lng="21,662042" workCapacity="5" realm3="2" period="1" id="24" street="KERESZTESI U" house="3." zip="4034" pipe="8" sheetNo="476995" prob="False"><![CDATA[6-8 ig]]></workUnit>
+				<workUnit lat="47,517849" lng="21,663007" workCapacity="3" realm3="0" period="1" id="26" street="BIHARI U" house="13." zip="4034" pipe="10" sheetNo="477061" prob="False"><![CDATA[8ig akár 5 kor is]]></workUnit>
+				<workUnit lat="47,514885" lng="21,640584" workCapacity="5" realm3="0" period="1" id="28" street="HOMOKKERT U" house="25/A." zip="4030" pipe="18" sheetNo="477601" prob="True"><![CDATA[6-8ig  25/b alá kell minél hamarabb!! CSAKIS ÉS KIZÁRÓLAG KICSI AUTÓ MERT A NAGY NEM FÉR BE AZ UTCÁBA]]></workUnit>
+				<workUnit lat="47,496455" lng="21,66484" workCapacity="10" realm3="0" period="1" id="34" street="CSERESZNYE U" house="6." zip="4030" pipe="50" sheetNo="477211" prob="False"><![CDATA[6-8-ig]]></workUnit>
+				<workUnit lat="47,533248" lng="21,581847" workCapacity="5" realm3="5" period="1" id="48" street="HARGITA U" house="14." zip="4031" pipe="8" sheetNo="477028" prob="False"><![CDATA[8 ig kiapu nyitva bemehettek]]></workUnit>
+				<workUnit lat="47,530942" lng="21,585583" workCapacity="5" realm3="5" period="1" id="50" street="TEGEZ U" house="86." zip="4031" pipe="32" sheetNo="477072" prob="False"><![CDATA[6-8-ig ]]></workUnit>
+				<workUnit lat="47,489908" lng="21,661483" workCapacity="5" realm3="6" period="1" id="72" street="LENCZ U" house="16." zip="4030" pipe="8" sheetNo="477230" prob="True"><![CDATA[6-8-ig csak kicsi autó ]]></workUnit>
+				<workUnit lat="47,530167" lng="21,643842" workCapacity="10" realm3="0" period="1" id="94" street="UNGVÁRIKERT U" house="36." zip="4030" pipe="10" sheetNo="476941" prob="False"><![CDATA[8ig minél hamarabb]]></workUnit>
+				<workUnit lat="47,557501" lng="21,660964" workCapacity="10" realm3="0" period="1" id="98" street="HETÉNYI JÁNOS U" house="2." zip="4033" pipe="10" sheetNo="476606" prob="False"><![CDATA[6-8-ig ]]></workUnit>
+				<workUnit lat="47,503428" lng="21,611404" workCapacity="10" realm3="0" period="1" id="108" street="TÉGLÁSKERT U" house="93." zip="4030" pipe="10" sheetNo="476919" prob="False"><![CDATA[8 ig minél hamarabb]]></workUnit>
+				<workUnit lat="47,525806" lng="21,671906" workCapacity="5" realm3="5" period="1" id="113" street="HÓVIRÁG U" house="28." zip="4034" pipe="24" sheetNo="477103" prob="False"><![CDATA[8 ig]]></workUnit>
+				<workUnit lat="47,548948" lng="21,659064" workCapacity="10" realm3="5" period="1" id="121" street="SÁMSONI ÚT" house="121/B." zip="4028" pipe="10" sheetNo="476631" prob="False"><![CDATA[6-8-ig]]></workUnit>
+				<workUnit lat="47,55078" lng="21,672942" workCapacity="10" realm3="5" period="2" id="1" street="ACSÁDI ÚT" house="23." zip="4033" pipe="20" sheetNo="477644" prob="False"><![CDATA[12-ig ]]></workUnit>
+				<workUnit lat="47,556904" lng="21,666312" workCapacity="10" realm3="0" period="2" id="4" street="KŐRÖSI CSOMA U" house="28." zip="4033" pipe="20" sheetNo="477459" prob="False"><![CDATA[12ig kiskapu nyitva]]></workUnit>
+				<workUnit lat="47,55889" lng="21,669006" workCapacity="5" realm3="0" period="2" id="6" street="SIMON ISTVÁN U" house="11." zip="4033" pipe="20" sheetNo="477510" prob="False"><![CDATA[8-12ig]]></workUnit>
+				<workUnit lat="47,536385" lng="21,653355" workCapacity="10" realm3="0" period="2" id="8" street="KINCSESHEGY U" house="3." zip="4033" pipe="8" sheetNo="477139" prob="False"><![CDATA[12-IG ]]></workUnit>
+				<workUnit lat="47,536385" lng="21,653355" workCapacity="5" realm3="0" period="2" id="9" street="KINCSESHEGY U" house="3." zip="4033" pipe="8" sheetNo="477393" prob="False"><![CDATA[12-IG ]]></workUnit>
+				<workUnit lat="47,514294" lng="21,67898" workCapacity="5" realm3="2" period="2" id="14" street="REMÉNY U" house="83." zip="4034" pipe="24" sheetNo="477369" prob="False"><![CDATA[12ig ha nincsenek otthon akkor  81 szám alá szoljatok be]]></workUnit>
+				<workUnit lat="47,514294" lng="21,67898" workCapacity="5" realm3="4" period="2" id="15" street="REMÉNY U" house="52." zip="4034" pipe="8" sheetNo="477491" prob="False"><![CDATA[12-ig ]]></workUnit>
+				<workUnit lat="47,514801" lng="21,676398" workCapacity="10" realm3="10" period="2" id="16" street="BAYK ANDRÁS U" house="29." zip="4034" pipe="40" sheetNo="477376" prob="False"><![CDATA[8-12-ig ]]></workUnit>
+				<workUnit lat="47,528639" lng="21,661267" workCapacity="3" realm3="0" period="2" id="18" street="BÍBIC U" house="14." zip="4034" pipe="16" sheetNo="477606" prob="False"><![CDATA[6-10-IG MINÉL HAMARABB MERT VEZETNÉK A VIZET AZ UTCÁBAN   Rezeda 3 alá kell menni !! két akna és csak a kissebiket kell elvinni]]></workUnit>
+				<workUnit lat="47,526191" lng="21,659979" workCapacity="10" realm3="0" period="2" id="19" street="BÍRÓ U" house="9." zip="4034" pipe="30" sheetNo="477377" prob="False"><![CDATA[12ig]]></workUnit>
+				<workUnit lat="47,500072" lng="21,654654" workCapacity="10" realm3="0" period="2" id="29" street="POHL FERENC U" house="64." zip="4030" pipe="10" sheetNo="477493" prob="False"><![CDATA[12  ig]]></workUnit>
+				<workUnit lat="47,498426" lng="21,659032" workCapacity="10" realm3="0" period="2" id="30" street="MUSKOTÁLY U" house="12." zip="4030" pipe="40" sheetNo="477465" prob="False"><![CDATA[6-12ig üres kocsival menni!!!]]></workUnit>
+				<workUnit lat="47,498507" lng="21,660183" workCapacity="10" realm3="0" period="2" id="31" street="MÁLNA U" house="20." zip="4030" pipe="30" sheetNo="477640" prob="False"><![CDATA[12 ig ]]></workUnit>
+				<workUnit lat="47,496455" lng="21,66484" workCapacity="10" realm3="0" period="2" id="36" street="CSERESZNYE U" house="43." zip="4030" pipe="10" sheetNo="477450" prob="False"><![CDATA[12-ig ]]></workUnit>
+				<workUnit lat="47,496544" lng="21,66603" workCapacity="10" realm3="0" period="2" id="37" street="RINGLÓ U" house="11." zip="4030" pipe="30" sheetNo="477458" prob="False"><![CDATA[12-ig  üres kocsival menjetek ]]></workUnit>
+				<workUnit lat="47,494442" lng="21,659254" workCapacity="10" realm3="0" period="2" id="39" street="KORCSOLYÁS U" house="4." zip="4030" pipe="40" sheetNo="477332" prob="False"><![CDATA[12-ig két kocsi megy ]]></workUnit>
+				<workUnit lat="47,502406" lng="21,657867" workCapacity="5" realm3="3" period="2" id="41" street="MONOSTORPÁLYI ÚT" house="107." zip="4030" pipe="8" sheetNo="477292" prob="False"><![CDATA[12 ig nagykapu nyitva minél hamarabb!! ha nincsenek otthon akkor a tolókapu nyitva]]></workUnit>
+				<workUnit lat="47,500405" lng="21,614162" workCapacity="10" realm3="0" period="2" id="43" street="HORGÁSZ U" house="9." zip="4030" pipe="20" sheetNo="477618" prob="False"><![CDATA[12ig  jobboldali kapun belehat menni]]></workUnit>
+				<workUnit lat="47,500405" lng="21,614162" workCapacity="5" realm3="5" period="2" id="44" street="HORGÁSZ U" house="11." zip="4030" pipe="8" sheetNo="477193" prob="True"><![CDATA[12ig AVIA MENJEN !!!! be lehet állni]]></workUnit>
+				<workUnit lat="47,531566" lng="21,580341" workCapacity="3" realm3="3" period="2" id="45" street="BARCASÁG U" house="11." zip="4031" pipe="8" sheetNo="477385" prob="False"><![CDATA[8-12-IG]]></workUnit>
+				<workUnit lat="47,534898" lng="21,580801" workCapacity="5" realm3="7" period="2" id="46" street="KUNHALOM U" house="97." zip="4031" pipe="20" sheetNo="476795" prob="False"><![CDATA[8-12-IG ]]></workUnit>
+				<workUnit lat="47,510003" lng="21,627435" workCapacity="5" realm3="0" period="2" id="53" street="EPRESKERT U" house="73." zip="4030" pipe="20" sheetNo="477594" prob="False"><![CDATA[12 ig]]></workUnit>
+				<workUnit lat="47,524492" lng="21,663747" workCapacity="3" realm3="0" period="2" id="54" street="ÚJ U" house="12." zip="4034" pipe="10" sheetNo="477371" prob="False"><![CDATA[9-12-ig Csuka 7 alá csengetni]]></workUnit>
+				<workUnit lat="47,496186" lng="21,660559" workCapacity="10" realm3="0" period="2" id="55" street="CSUTORÁS U" house="14." zip="4030" pipe="40" sheetNo="477578" prob="False"><![CDATA[12 IG !!!]]></workUnit>
+				<workUnit lat="47,52228" lng="21,677303" workCapacity="10" realm3="10" period="2" id="56" street="NAGYECSED U" house="20." zip="4030" pipe="10" sheetNo="476735" prob="False"><![CDATA[bm. bolt mellé kell menni]]></workUnit>
+				<workUnit lat="47,58063" lng="21,485258" workCapacity="5" realm3="4" period="2" id="57" street="LÁTÓKÉP U" house="22." zip="4063" pipe="24" sheetNo="477196" prob="False"><![CDATA[12 ig]]></workUnit>
+				<workUnit lat="47,57976" lng="21,479086" workCapacity="5" realm3="5" period="2" id="58" street="KASTÉLYKERT U" house="32." zip="4063" pipe="16" sheetNo="477488" prob="False"><![CDATA[6-10ig]]></workUnit>
+				<workUnit lat="47,522943" lng="21,673235" workCapacity="10" realm3="10" period="2" id="71" street="LÉTAI ÚT" house="." zip="4034" pipe="10" sheetNo="476680" prob="False"><![CDATA[megkell kérdezni , hogy melyik akna ? KINIZSI NYOMDA Hétfőtől  csütörtökig:8-15:30-ig Péntek:8-14-ig ÜRES KOCSIVAL KELL MENNI!!!]]></workUnit>
+				<workUnit lat="47,499944" lng="21,649335" workCapacity="2" realm3="2" period="2" id="81" street="ALMA U" house="79." zip="4030" pipe="8" sheetNo="477439" prob="False"><![CDATA[8-12ig bemehettek mellé kell állni]]></workUnit>
+				<workUnit lat="47,584012" lng="21,684669" workCapacity="4" realm3="2" period="2" id="82" street="APAFA" house="8/H." zip="4033" pipe="8" sheetNo="477418" prob="False"><![CDATA[12 ig  sorompó Lőtér utcán a postaládáknál balra, utca közepén zöld kerítéses ház  kerekes kút névtábla kivan téve]]></workUnit>
+				<workUnit lat="47,520066" lng="21,669794" workCapacity="10" realm3="7" period="2" id="84" street="LAHNER U" house="37." zip="4030" pipe="10" sheetNo="477498" prob="False"><![CDATA[CSATORNÁZNAK!!! ezért minél hamarabb VAGY 17 MINDENKÉPP meg kell csinálni!!!]]></workUnit>
+				<workUnit lat="47,522943" lng="21,673235" workCapacity="5" realm3="10" period="2" id="85" street="LÉTAI ÚT" house="." zip="4034" pipe="8" sheetNo="477430" prob="False"><![CDATA[12ig  Nagyecsed u 15 alá kell menni ]]></workUnit>
+				<workUnit lat="47,492833" lng="21,665927" workCapacity="10" realm3="0" period="2" id="89" street="SZENTES U" house="19." zip="4030" pipe="10" sheetNo="477423" prob="False"><![CDATA[12 ig kapu nyitva bemehettek]]></workUnit>
+				<workUnit lat="47,520066" lng="21,669794" workCapacity="5" realm3="4" period="2" id="92" street="LAHNER U" house="1/H." zip="4030" pipe="20" sheetNo="477478" prob="False"><![CDATA[12ig kapu nyitva]]></workUnit>
+				<workUnit lat="47,537104" lng="21,487506" workCapacity="10" realm3="0" period="2" id="95" street="KÖR U" house="14." zip="4063" pipe="10" sheetNo="477436" prob="False"><![CDATA[12ig]]></workUnit>
+				<workUnit lat="47,510935" lng="21,653554" workCapacity="5" realm3="0" period="2" id="97" street="BORZÁN GÁSPÁR U" house="20." zip="4030" pipe="8" sheetNo="477300" prob="False"><![CDATA[12-ig ]]></workUnit>
+				<workUnit lat="47,531189" lng="21,573517" workCapacity="10" realm3="7" period="2" id="99" street="LANT U" house="5/A." zip="4031" pipe="40" sheetNo="477575" prob="False"><![CDATA[12ig!!!!]]></workUnit>
+				<workUnit lat="47,520505" lng="21,636953" workCapacity="5" realm3="0" period="2" id="100" street="LÓNYAY U" house="23." zip="4030" pipe="10" sheetNo="477647" prob="True"><![CDATA[12 csak kicsi kocsi mehet]]></workUnit>
+				<workUnit lat="47,484419" lng="21,668034" workCapacity="5" realm3="3" period="2" id="111" street="POSZÁTA U" house="39." zip="4002" pipe="8" sheetNo="477440" prob="False"><![CDATA[12ig]]></workUnit>
+				<workUnit lat="47,552937" lng="21,665744" workCapacity="10" realm3="8" period="2" id="112" street="ŐRMESTER U" house="7/B." zip="4028" pipe="10" sheetNo="477443" prob="False"><![CDATA[12ig]]></workUnit>
+				<workUnit lat="47,550882" lng="21,657355" workCapacity="10" realm3="0" period="2" id="114" street="GYALOG U" house="24." zip="4033" pipe="10" sheetNo="477469" prob="False"><![CDATA[12-ig ]]></workUnit>
+				<workUnit lat="47,556515" lng="21,658696" workCapacity="5" realm3="2" period="2" id="122" street="GYŰRŰ U" house="15." zip="4033" pipe="8" sheetNo="477435" prob="False"><![CDATA[12ig]]></workUnit>
+				<workUnit lat="47,597199" lng="21,601932" workCapacity="10" realm3="0" period="2" id="127" street="DOMOKOS MÁRTON KERT" house="77/D." zip="4001" pipe="10" sheetNo="477650" prob="False"><![CDATA[12-ig  !!!!!!!!!!!!PONTOS IDŐBETARTÁS!!!!!!!!!! CSAK DÉLIG!!!!!!!!!FONTOS!!!!!a volt  paridicsom üzem után a bolt helyére  kell menni ! a bolt már bezárt a helyén kertes ház]]></workUnit>
+				<workUnit lat="47,489908" lng="21,661483" workCapacity="10" realm3="9" period="2" id="129" street="LENCZ U" house="60." zip="4030" pipe="8" sheetNo="477622" prob="False"><![CDATA[8-12-IG ]]></workUnit>
+				<workUnit lat="47,576469" lng="21,690083" workCapacity="10" realm3="0" period="2" id="132" street="SONKOLY U" house="11/A." zip="4002" pipe="20" sheetNo="477429" prob="False"><![CDATA[12ig . Salakosból-Sonkoly utca jobbról 2. ház ikerház első fele papírt a villanyóra szekrénybe rakjátok, nem lehet beállni nagy kapu nyitva]]></workUnit>
+				<workUnit lat="47,588147" lng="21,686983" workCapacity="2" realm3="0" period="2" id="135" street="SALAKOS U" house="44." zip="4002" pipe="8" sheetNo="477451" prob="False"><![CDATA[12 ig]]></workUnit>
+				<workUnit lat="47,508602" lng="21,678403" workCapacity="10" realm3="10" period="2" id="139" street="DIÓSZEGI ÚT" house="15." zip="4030" pipe="10" sheetNo="476712" prob="False"><![CDATA[12ig   két akna portást keressék ]]></workUnit>
+				<workUnit lat="47,474192" lng="21,732239" workCapacity="10" realm3="5" period="2" id="140" street="BÜKK U" house="1." zip="4079" pipe="10" sheetNo="476746" prob="False"><![CDATA[munkarend változás miatt a szállítást 7-11 ig elkell végezni   egy nagy kocsi megy]]></workUnit>
+				<workUnit lat="47,47306" lng="21,734663" workCapacity="10" realm3="0" period="2" id="144" street="FÜRJ U" house="30." zip="4079" pipe="8" sheetNo="477610" prob="False"><![CDATA[8-12-ig tolatva álljatok be ha nincs senki bemehettek]]></workUnit>
+				<workUnit lat="47,584012" lng="21,684669" workCapacity="5" realm3="10" period="2" id="146" street="APAFA" house="." zip="4002" pipe="8" sheetNo="477484" prob="False"><![CDATA[12ig Apáterdő utca 25.szám (régi Haladás utca)  alá kell menni]]></workUnit>
+				<workUnit lat="47,489076" lng="21,663913" workCapacity="5" realm3="5" period="2" id="149" street="DOBOZ U" house="1." zip="4030" pipe="16" sheetNo="477338" prob="False"><![CDATA[8-12-IG ]]></workUnit>
+				<workUnit lat="47,497595" lng="21,693802" workCapacity="5" realm3="0" period="2" id="154" street="KÓRÓ U" house="20." zip="4002" pipe="8" sheetNo="477040" prob="False"><![CDATA[12-IG ]]></workUnit>
+				<workUnit lat="47,489908" lng="21,661483" workCapacity="10" realm3="0" period="2" id="157" street="LENCZ U" house="1/C." zip="4030" pipe="10" sheetNo="477370" prob="False"><![CDATA[8-12ig]]></workUnit>
+				<workUnit lat="47,555786" lng="21,663101" workCapacity="4" realm3="4" period="2" id="160" street="ZOVÁNYI JENŐ U" house="1/B." zip="4033" pipe="8" sheetNo="477175" prob="False"><![CDATA[8-12-ig  dudálni !!!!]]></workUnit>
+				<workUnit lat="47,472362" lng="21,73186" workCapacity="5" realm3="10" period="2" id="162" street="BÁNK" house="." zip="4079" pipe="10" sheetNo="477462" prob="False"><![CDATA[12ig minél hamarabb az új utcában 2. ház jhobboldalon]]></workUnit>
+				<workUnit lat="47,588147" lng="21,686983" workCapacity="5" realm3="0" period="2" id="163" street="SALAKOS U" house="74." zip="4002" pipe="8" sheetNo="477464" prob="False"><![CDATA[12ig Salakos 72-76 alá kell menni.]]></workUnit>
+				<workUnit lat="0" lng="0" workCapacity="10" realm3="0" period="2" id="170" street="MÓKUS U" house="." zip="4002" pipe="10" sheetNo="477597" prob="False"><![CDATA[12-ig mókus utca tamás tanya ]]></workUnit>
+				<workUnit lat="0" lng="0" workCapacity="5" realm3="0" period="2" id="171" street="FAGYAL U" house="4." zip="4002" pipe="10" sheetNo="477124" prob="False"><![CDATA[8-12-IG ]]></workUnit>
+				<workUnit lat="47,531563" lng="21,694261" workCapacity="5" realm3="10" period="2" id="173" street="KÉKSZŐLŐ U." house="9." zip="4033" pipe="0" sheetNo="477172" prob="False"><![CDATA[zsupos imre sáfrány 27  06-20-397-94-39  3cső]]></workUnit>
+				<workUnit lat="47,52883" lng="21,675866" workCapacity="10" realm3="0" period="3" id="0" street="SZÉLSŐ U" house="36/B." zip="4034" pipe="30" sheetNo="477206" prob="False"><![CDATA[14 inkább később!]]></workUnit>
+				<workUnit lat="47,557501" lng="21,660964" workCapacity="10" realm3="10" period="3" id="2" street="HETÉNYI JÁNOS U" house="24." zip="4033" pipe="10" sheetNo="477553" prob="False"><![CDATA[bm]]></workUnit>
+				<workUnit lat="47,557501" lng="21,660964" workCapacity="5" realm3="0" period="3" id="3" street="HETÉNYI JÁNOS U" house="30." zip="4033" pipe="16" sheetNo="477526" prob="False"><![CDATA[bm.  figy.a hátsó aknát kell szippantani !!! ]]></workUnit>
+				<workUnit lat="47,557565" lng="21,665829" workCapacity="5" realm3="0" period="3" id="5" street="VÁLYI NAGY TIBOR U" house="26." zip="4033" pipe="8" sheetNo="477508" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,556904" lng="21,666312" workCapacity="10" realm3="10" period="3" id="7" street="KŐRÖSI CSOMA U" house="54." zip="4033" pipe="10" sheetNo="477419" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,528781" lng="21,679944" workCapacity="10" realm3="0" period="3" id="10" street="MÉZES-HEGY U" house="7." zip="4034" pipe="30" sheetNo="477389" prob="False"><![CDATA[14 a nevet ellenőrizd   ikerház baloldala]]></workUnit>
+				<workUnit lat="47,525636" lng="21,66954" workCapacity="5" realm3="4" period="3" id="11" street="RÉZMETSZŐ U" house="4." zip="4034" pipe="8" sheetNo="477368" prob="False"><![CDATA[12 hosszan csengetni]]></workUnit>
+				<workUnit lat="47,527183" lng="21,667246" workCapacity="4" realm3="0" period="3" id="13" street="ERKEL FERENC U" house="6." zip="4034" pipe="20" sheetNo="477605" prob="False"><![CDATA[14 ]]></workUnit>
+				<workUnit lat="47,519322" lng="21,67231" workCapacity="5" realm3="5" period="3" id="17" street="BÁLINT ZOLTÁN U" house="36." zip="4034" pipe="20" sheetNo="477543" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,522682" lng="21,666043" workCapacity="5" realm3="5" period="3" id="20" street="DÉVAI U" house="31." zip="4034" pipe="8" sheetNo="477482" prob="False"><![CDATA[12 Kerecsen felől]]></workUnit>
+				<workUnit lat="47,524492" lng="21,663747" workCapacity="3" realm3="3" period="3" id="21" street="ÚJ U" house="13." zip="4034" pipe="8" sheetNo="477565" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,522682" lng="21,666043" workCapacity="5" realm3="0" period="3" id="22" street="DÉVAI U" house="56." zip="4034" pipe="8" sheetNo="477631" prob="False"><![CDATA[14]]></workUnit>
+				<workUnit lat="47,522682" lng="21,666043" workCapacity="5" realm3="3" period="3" id="23" street="DÉVAI U" house="24." zip="4034" pipe="30" sheetNo="477507" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,520421" lng="21,668572" workCapacity="5" realm3="0" period="3" id="25" street="KNÉZICH KÁROLY U" house="37." zip="4034" pipe="20" sheetNo="477390" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,514885" lng="21,640584" workCapacity="10" realm3="0" period="3" id="27" street="HOMOKKERT U" house="30." zip="4030" pipe="35" sheetNo="477259" prob="False"><![CDATA[12 alá kell menni.]]></workUnit>
+				<workUnit lat="47,498963" lng="21,661739" workCapacity="10" realm3="10" period="3" id="32" street="RIBIZLI U" house="8." zip="4030" pipe="10" sheetNo="477410" prob="False"><![CDATA[9 után !!bm ]]></workUnit>
+				<workUnit lat="47,497535" lng="21,663545" workCapacity="10" realm3="0" period="3" id="33" street="JEGENYE U" house="32-34." zip="4030" pipe="20" sheetNo="477113" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,496455" lng="21,66484" workCapacity="10" realm3="0" period="3" id="35" street="CSERESZNYE U" house="25." zip="4030" pipe="40" sheetNo="477511" prob="False"><![CDATA[bm bemehettek nem állhattok be ]]></workUnit>
+				<workUnit lat="47,49558" lng="21,66484" workCapacity="10" realm3="0" period="3" id="38" street="VENYIGE U" house="12." zip="4030" pipe="36" sheetNo="477638" prob="False"><![CDATA[bm. Kulcs:Monostorpályi 62. alatt található]]></workUnit>
+				<workUnit lat="47,494533" lng="21,660767" workCapacity="5" realm3="5" period="3" id="40" street="TÉL U" house="12." zip="4030" pipe="8" sheetNo="477535" prob="False"><![CDATA[ bm, ha nincs senki bemehettek a reteszt felhúzni]]></workUnit>
+				<workUnit lat="47,504419" lng="21,613167" workCapacity="5" realm3="0" period="3" id="42" street="SZEPESI U" house="59." zip="4030" pipe="8" sheetNo="477612" prob="False"><![CDATA[12    59/a alá kell menni]]></workUnit>
+				<workUnit lat="47,53098" lng="21,582335" workCapacity="2" realm3="2" period="3" id="47" street="PÓSA U" house="47." zip="4031" pipe="8" sheetNo="477613" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,533248" lng="21,581847" workCapacity="5" realm3="0" period="3" id="49" street="HARGITA U" house="5." zip="4031" pipe="8" sheetNo="477547" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,524742" lng="21,674428" workCapacity="5" realm3="0" period="3" id="51" street="ASZTALOS U" house="30." zip="4034" pipe="10" sheetNo="477566" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,498507" lng="21,660183" workCapacity="5" realm3="4" period="3" id="52" street="MÁLNA U" house="30." zip="4030" pipe="35" sheetNo="477546" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,526607" lng="21,591631" workCapacity="5" realm3="2" period="3" id="73" street="KISHEGYESI ÚT" house="209." zip="4031" pipe="8" sheetNo="477523" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,532987" lng="21,577687" workCapacity="10" realm3="5" period="3" id="74" street="GYULAI U" house="26." zip="4031" pipe="40" sheetNo="477540" prob="False"><![CDATA[14]]></workUnit>
+				<workUnit lat="47,492888" lng="21,666841" workCapacity="10" realm3="7" period="3" id="75" street="DOROZSMA U" house="10." zip="4030" pipe="10" sheetNo="477607" prob="False"><![CDATA[12 ]]></workUnit>
+				<workUnit lat="47,528639" lng="21,661267" workCapacity="5" realm3="5" period="3" id="76" street="BÍBIC U" house="18." zip="4034" pipe="16" sheetNo="477485" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,523843" lng="21,67834" workCapacity="10" realm3="0" period="3" id="77" street="CSENGER U" house="14." zip="4030" pipe="20" sheetNo="477541" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,555786" lng="21,663101" workCapacity="5" realm3="4" period="3" id="78" street="ZOVÁNYI JENŐ U" house="2/A." zip="4033" pipe="10" sheetNo="477608" prob="False"><![CDATA[12     mind a két aknát csináld meg ]]></workUnit>
+				<workUnit lat="47,53098" lng="21,582335" workCapacity="5" realm3="0" period="3" id="79" street="PÓSA U" house="72." zip="4031" pipe="8" sheetNo="477577" prob="False"><![CDATA[13  két kocsi megy ]]></workUnit>
+				<workUnit lat="47,53098" lng="21,582335" workCapacity="10" realm3="0" period="3" id="80" street="PÓSA U" house="72." zip="4031" pipe="8" sheetNo="477576" prob="False"><![CDATA[13  két kocsi megy ]]></workUnit>
+				<workUnit lat="47,502406" lng="21,657867" workCapacity="10" realm3="5" period="3" id="83" street="MONOSTORPÁLYI ÚT" house="193." zip="4030" pipe="8" sheetNo="477584" prob="False"><![CDATA[12  szóljatok be a boltba és világosba menjetek 10m3-t elvinni!!!!]]></workUnit>
+				<workUnit lat="47,509453" lng="21,656253" workCapacity="5" realm3="4" period="3" id="86" street="SZÉL U" house="1." zip="4030" pipe="8" sheetNo="477339" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,513592" lng="21,667154" workCapacity="5" realm3="5" period="3" id="88" street="LŐPOROS U" house="3." zip="4034" pipe="8" sheetNo="477538" prob="False"><![CDATA[12 kulcs a postaládában lesz]]></workUnit>
+				<workUnit lat="47,522916" lng="21,662042" workCapacity="5" realm3="3" period="3" id="90" street="KERESZTESI U" house="92-94." zip="4034" pipe="16" sheetNo="477556" prob="False"><![CDATA[14]]></workUnit>
+				<workUnit lat="47,536583" lng="21,490293" workCapacity="10" realm3="9" period="3" id="91" street="KALÁSZ U" house="9." zip="4063" pipe="10" sheetNo="477549" prob="False"><![CDATA[bm, kapu nyítva ]]></workUnit>
+				<workUnit lat="47,499528" lng="21,657737" workCapacity="5" realm3="5" period="3" id="103" street="MAROKSZEDŐ U" house="12." zip="4030" pipe="35" sheetNo="477378" prob="False"><![CDATA[ 14 kapu nyitva hátsó akna ]]></workUnit>
+				<workUnit lat="47,531516" lng="21,687916" workCapacity="5" realm3="6" period="3" id="104" street="VÁMOSPÉRCSI ÚT" house="3." zip="4034" pipe="16" sheetNo="477599" prob="False"><![CDATA[12 Pillangó 2 alá kell beszólni ha nincs otthon senki. Olcsó ruhák ]]></workUnit>
+				<workUnit lat="47,484419" lng="21,668034" workCapacity="5" realm3="5" period="3" id="105" street="POSZÁTA U" house="9." zip="4002" pipe="16" sheetNo="477285" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,52883" lng="21,675866" workCapacity="10" realm3="10" period="3" id="106" street="SZÉLSŐ U" house="32." zip="4034" pipe="8" sheetNo="477495" prob="False"><![CDATA[bm ------->32/b   <<< ---- alá kell menni ellenőrizd nehogy rosszat csinálj meg !!!kint van az akna  Hernádi 32/a  30/3431243 füzfa alatti TÖRÖK 32/b 30/3900971]]></workUnit>
+				<workUnit lat="47,497381" lng="21,656868" workCapacity="10" realm3="6" period="3" id="107" street="PUTTONY U" house="47." zip="4030" pipe="10" sheetNo="477392" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,484985" lng="21,673435" workCapacity="5" realm3="5" period="3" id="109" street="PACIKERT U" house="130." zip="4002" pipe="8" sheetNo="477274" prob="True"><![CDATA[12  csak kicsi kocsi!!!!]]></workUnit>
+				<workUnit lat="47,499408" lng="21,67816" workCapacity="10" realm3="10" period="3" id="110" street="CSÁRDA U" house="21/A." zip="4030" pipe="10" sheetNo="477454" prob="False"><![CDATA[bm bemehettek, be kell tolatni a zsákutcába fa kerités,]]></workUnit>
+				<workUnit lat="47,484419" lng="21,668034" workCapacity="10" realm3="10" period="3" id="115" street="POSZÁTA U" house="33." zip="4002" pipe="30" sheetNo="476961" prob="False"><![CDATA[14]]></workUnit>
+				<workUnit lat="47,558667" lng="21,657863" workCapacity="10" realm3="5" period="3" id="116" street="GOLYÓ U" house="19." zip="4033" pipe="10" sheetNo="477525" prob="False"><![CDATA[bm Töltény u 18 szám alá kell menni  nagykapu nyitva, bemehetsz!]]></workUnit>
+				<workUnit lat="47,524367" lng="21,660601" workCapacity="4" realm3="4" period="3" id="117" street="KORSÓ U" house="20." zip="4034" pipe="8" sheetNo="477415" prob="False"><![CDATA[bm kapu nyitva]]></workUnit>
+				<workUnit lat="47,52867" lng="21,660776" workCapacity="5" realm3="2" period="3" id="118" street="PILLANGÓ U" house="15." zip="4034" pipe="20" sheetNo="477626" prob="False"><![CDATA[14  ha nincs senki akkor a szembe-szomszédnál van a kulcs]]></workUnit>
+				<workUnit lat="47,599006" lng="21,708214" workCapacity="5" realm3="2" period="3" id="119" street="TANK U" house="73." zip="4014" pipe="16" sheetNo="477512" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,530167" lng="21,643842" workCapacity="10" realm3="6" period="3" id="120" street="UNGVÁRIKERT U" house="22." zip="4034" pipe="10" sheetNo="477502" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,500416" lng="21,676579" workCapacity="10" realm3="0" period="3" id="123" street="BEGÓNIA U" house="15." zip="4002" pipe="30" sheetNo="477506" prob="False"><![CDATA[12  Begónia 15 szám   kapu nyítva]]></workUnit>
+				<workUnit lat="47,500387" lng="21,690318" workCapacity="2" realm3="1" period="3" id="124" street="ÜDEKERT U" house="12." zip="4002" pipe="24" sheetNo="477620" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,508602" lng="21,678403" workCapacity="10" realm3="10" period="3" id="125" street="DIÓSZEGI ÚT" house="." zip="4030" pipe="8" sheetNo="477299" prob="False"><![CDATA[12 A Pince presszóhoz kell menni.]]></workUnit>
+				<workUnit lat="47,497758" lng="21,687635" workCapacity="10" realm3="5" period="3" id="126" street="MEDOK U" house="16." zip="4002" pipe="30" sheetNo="477380" prob="False"><![CDATA[14  minél később  a  16 sz és a 18 alá]]></workUnit>
+				<workUnit lat="47,499611" lng="21,688896" workCapacity="10" realm3="0" period="3" id="130" street="BICZÓ ISTVÁN KERT" house="91/C-D." zip="4002" pipe="20" sheetNo="477479" prob="False"><![CDATA[bm két kocsi  pacikert utcán a domb után a 77 szám egy kék ház és ez mögötte van, ]]></workUnit>
+				<workUnit lat="47,528624" lng="21,678717" workCapacity="5" realm3="0" period="3" id="131" street="HEGYKÖZ U" house="21." zip="4034" pipe="8" sheetNo="477501" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,494732" lng="21,64521" workCapacity="5" realm3="0" period="3" id="133" street="TÜDŐS KLÁRA U" house="26/B." zip="4030" pipe="16" sheetNo="477614" prob="False"><![CDATA[14 MINÉL KÉSŐBB ]]></workUnit>
+				<workUnit lat="47,497733" lng="21,647992" workCapacity="3" realm3="4" period="3" id="134" street="BIRSALMA U" house="10." zip="4030" pipe="8" sheetNo="477611" prob="False"><![CDATA[12  mogyoró utca felől kell menni a csatornázás miatt]]></workUnit>
+				<workUnit lat="47,524742" lng="21,674428" workCapacity="5" realm3="5" period="3" id="136" street="ASZTALOS U" house="40/1." zip="4034" pipe="8" sheetNo="477227" prob="False"><![CDATA[ bm bemehettek nyitva kulcs postaláda tetején]]></workUnit>
+				<workUnit lat="47,499944" lng="21,649335" workCapacity="10" realm3="8" period="3" id="137" street="ALMA U" house="24/F." zip="4030" pipe="8" sheetNo="477487" prob="False"><![CDATA[bm a nagykaput kissé  meglökni picit erőteljesen sárgaház az ikerház 3. lakása  akácdeszka kerítés mahagóni színű ]]></workUnit>
+				<workUnit lat="47,473577" lng="21,733396" workCapacity="10" realm3="0" period="3" id="141" street="FÁCÁN U" house="7." zip="4079" pipe="25" sheetNo="477503" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,473181" lng="21,736412" workCapacity="5" realm3="4" period="3" id="142" street="SZÁRCSA U" house="26." zip="4079" pipe="48" sheetNo="477018" prob="False"><![CDATA[14]]></workUnit>
+				<workUnit lat="47,47306" lng="21,734663" workCapacity="5" realm3="0" period="3" id="143" street="FÜRJ U" house="9." zip="4079" pipe="8" sheetNo="477580" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,584012" lng="21,684669" workCapacity="3" realm3="10" period="3" id="145" street="APAFA" house="." zip="4002" pipe="16" sheetNo="477559" prob="False"><![CDATA[12 Tsz keresztül majd egyből jobbra 200-300m előre nagy diófanál Apáterdő 19.]]></workUnit>
+				<workUnit lat="47,584012" lng="21,684669" workCapacity="3" realm3="10" period="3" id="147" street="APAFA" house="." zip="4002" pipe="8" sheetNo="477350" prob="False"><![CDATA[12  TSZ mögött jobbra a negyedik utca balra. Piros vas kapu az utca elején. Fólia sátraknál van a ház. ]]></workUnit>
+				<workUnit lat="47,497733" lng="21,647992" workCapacity="10" realm3="0" period="3" id="148" street="BIRSALMA U" house="43." zip="4030" pipe="10" sheetNo="477448" prob="False"><![CDATA[bm  turmixos kocsi ne menjen]]></workUnit>
+				<workUnit lat="47,524742" lng="21,674428" workCapacity="10" realm3="10" period="3" id="150" street="ASZTALOS U" house="44/2." zip="4034" pipe="20" sheetNo="477544" prob="False"><![CDATA[12 ez a 44/B , bemehettek de nem állhattok be MINDET elvinni!!!]]></workUnit>
+				<workUnit lat="47,474586" lng="21,730914" workCapacity="10" realm3="0" period="3" id="151" street="FOGOLY U" house="25." zip="4079" pipe="40" sheetNo="477649" prob="False"><![CDATA[14]]></workUnit>
+				<workUnit lat="47,576804" lng="21,480091" workCapacity="5" realm3="5" period="3" id="153" street="ARATÓ U" house="47." zip="4063" pipe="16" sheetNo="477551" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,584986" lng="21,683631" workCapacity="5" realm3="0" period="3" id="158" street="VIRÁGMÉZ U" house="12." zip="4002" pipe="30" sheetNo="477413" prob="False"><![CDATA[12]]></workUnit>
+				<workUnit lat="47,522943" lng="21,673235" workCapacity="5" realm3="10" period="3" id="164" street="LÉTAI ÚT" house="." zip="4034" pipe="10" sheetNo="477463" prob="False"><![CDATA[ bm mindet elvinni  Nagyszalonta 7. kinn van az akna nincs kerités bemehettek, nincs kerítés papírt hagyni!!!]]></workUnit>
+				<workUnit lat="47,528752" lng="21,680586" workCapacity="5" realm3="0" period="3" id="166" street="PIPÓ-HEGY U" house="18/B." zip="4034" pipe="8" sheetNo="477425" prob="False"><![CDATA[bm minél hamarabb!!]]></workUnit>
+				<workUnit lat="47,511655" lng="21,664608" workCapacity="5" realm3="5" period="3" id="167" street="OLAJFA U" house="." zip="4030" pipe="8" sheetNo="477096" prob="False"><![CDATA[14   ikerház narancssárga szinű felső meg vilásgos sárga szinű! drót kerités  DEÉP Kft szemben,  magyar zászló van az előkertben]]></workUnit>
+				<workUnit lat="47,511655" lng="21,664608" workCapacity="5" realm3="5" period="3" id="168" street="OLAJFA U" house="." zip="4030" pipe="8" sheetNo="477646" prob="False"><![CDATA[bm 0582/146 ki van írva az ablakra nagy számokkal]]></workUnit>
+				<workUnit lat="47,511655" lng="21,664608" workCapacity="5" realm3="5" period="3" id="169" street="OLAJFA U" house="." zip="4030" pipe="8" sheetNo="477552" prob="False"><![CDATA[12ásodik utcán az első ház barna kővel van kirakva ikerház ha szembe állsz vele a jobb oldali része]]></workUnit>
+				<workUnit lat="47,531563" lng="21,694261" workCapacity="5" realm3="10" period="3" id="172" street="KÉKSZŐLŐ U." house="9." zip="4033" pipe="0" sheetNo="477477" prob="False"><![CDATA[12 seffer csabáné nőszirom u 7  06-52-715-165   2cső ]]></workUnit>
+		</unmappedData>
+</mapping>

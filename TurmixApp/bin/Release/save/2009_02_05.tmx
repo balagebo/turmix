@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapping date="2009. 02. 05." u1="0" u2="7" u3="64">
+	<auto rendszam="IZM-225" kapacitas="5" elsofuvar="1" delelott="8" delutan="3" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="18,9273790243465">
+				<id>12</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="26,5951474467789">
+				<id>44</id>
+			</fuvar>
+			<fuvar hossz="15,0335435541989">
+				<id>94</id>
+			</fuvar>
+			<fuvar hossz="18,9255367878412">
+				<id>128</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="IZM-226" kapacitas="5" elsofuvar="1" delelott="6" delutan="5" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="18,9431129696438">
+				<id>31</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="17,8265020506754">
+				<id>101</id>
+			</fuvar>
+			<fuvar hossz="16,9499393729052">
+				<id>159</id>
+			</fuvar>
+			<fuvar hossz="18,7319708806989">
+				<id>3</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="JBE-803" kapacitas="5" elsofuvar="1" delelott="6" delutan="5" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="7,53927933040075">
+				<id>50</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="19,4611353185375">
+				<id>0</id>
+			</fuvar>
+			<fuvar hossz="18,9176428025037">
+				<id>18</id>
+			</fuvar>
+			<fuvar hossz="15,6625824354011">
+				<id>136</id>
+			</fuvar>
+			<fuvar hossz="33,1888657011434">
+				<id>133</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="JBE-804" kapacitas="5" elsofuvar="1" delelott="5" delutan="6" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="14,7309486460634">
+				<id>109</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="16,5511106954363">
+				<id>95</id>
+			</fuvar>
+			<fuvar hossz="17,7184271502295">
+				<id>42</id>
+			</fuvar>
+			<fuvar hossz="2,58505709692384">
+				<id>57</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>24</id>
+			</fuvar>
+			<fuvar hossz="0" />
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="JNS-276" kapacitas="5" elsofuvar="1" delelott="13" delutan="26" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="0">
+				<id>56</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="0">
+				<id>49</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>59</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>61</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>67</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>88</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>90</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>106</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>111</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>143</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>149</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>155</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>177</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>181</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="0">
+				<id>5</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>11</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>13</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>14</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>19</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>25</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>30</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>32</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>41</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>64</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>70</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>78</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>89</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>93</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>98</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>100</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>120</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>138</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>146</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>147</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>150</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>160</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>164</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>165</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>182</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>188</id>
+			</fuvar>
+		</delutan>
+	</auto>
+	<auto rendszam="KDD-260" kapacitas="5" elsofuvar="1" delelott="5" delutan="6" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="15,4936642187539">
+				<id>34</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="18,5338307512698">
+				<id>81</id>
+			</fuvar>
+			<fuvar hossz="16,3157372216194">
+				<id>129</id>
+			</fuvar>
+			<fuvar hossz="15,4221978594158">
+				<id>28</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="KDD-542" kapacitas="5" elsofuvar="1" delelott="6" delutan="4" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="9,10957766469466">
+				<id>168</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="17,2407824028829">
+				<id>121</id>
+			</fuvar>
+			<fuvar hossz="14,9593375382077">
+				<id>145</id>
+			</fuvar>
+			<fuvar hossz="17,5671240218323">
+				<id>99</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="KGA-512" kapacitas="5" elsofuvar="1" delelott="5" delutan="5" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="12,4430782610611">
+				<id>65</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="14,7634764602594">
+				<id>8</id>
+			</fuvar>
+			<fuvar hossz="9,73384988056323">
+				<id>152</id>
+			</fuvar>
+			<fuvar hossz="29,6173767826863">
+				<id>82</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="KOB-968" kapacitas="10" elsofuvar="1" delelott="5" delutan="6" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="13,4864013916879">
+				<id>85</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="21,617948386627">
+				<id>54</id>
+			</fuvar>
+			<fuvar hossz="21,617948386627">
+				<id>76</id>
+			</fuvar>
+			<fuvar hossz="15,4221978594158">
+				<id>180</id>
+			</fuvar>
+			<fuvar hossz="19,351402850737">
+				<id>20</id>
+			</fuvar>
+			<fuvar hossz="17,1814056508014">
+				<id>167</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="KPW-518" kapacitas="10" elsofuvar="1" delelott="5" delutan="6" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="15,6536408306469">
+				<id>191</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="18,9273790243465">
+				<id>156</id>
+			</fuvar>
+			<fuvar hossz="21,617948386627">
+				<id>127</id>
+			</fuvar>
+			<fuvar hossz="16,9631528749104">
+				<id>174</id>
+			</fuvar>
+			<fuvar hossz="14,2410389311074">
+				<id>169</id>
+			</fuvar>
+			<fuvar hossz="13,622951699539">
+				<id>137</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="KHK-583" kapacitas="12" elsofuvar="1" delelott="6" delutan="5" ber="54,55">
+		<elsofuvar>
+			<fuvar hossz="0">
+				<id>58</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="36,3145085869706">
+				<id>62</id>
+				<id>112</id>
+				<id>131</id>
+				<id>118</id>
+			</fuvar>
+			<fuvar hossz="21,7047921062702">
+				<id>124</id>
+				<id>158</id>
+			</fuvar>
+			<fuvar hossz="30,464685884845">
+				<id>39</id>
+				<id>97</id>
+			</fuvar>
+			<fuvar hossz="30,0768589887058">
+				<id>115</id>
+				<id>2</id>
+			</fuvar>
+			<fuvar hossz="17,1814056508014">
+				<id>183</id>
+			</fuvar>
+			<fuvar hossz="16,5767177119442">
+				<id>148</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="KWP-051" kapacitas="12" elsofuvar="0" delelott="9" delutan="2" ber="54,55">
+		<elsofuvar />
+		<delelott>
+			<fuvar hossz="24,6414532622872">
+				<id>161</id>
+				<id>1</id>
+			</fuvar>
+			<fuvar hossz="16,6386727434973">
+				<id>17</id>
+				<id>43</id>
+			</fuvar>
+			<fuvar hossz="19,351402850737">
+				<id>173</id>
+				<id>132</id>
+			</fuvar>
+			<fuvar hossz="12,4217945750398">
+				<id>122</id>
+				<id>104</id>
+			</fuvar>
+			<fuvar hossz="9,40871166223888">
+				<id>51</id>
+				<id>66</id>
+			</fuvar>
+			<fuvar hossz="13,9101512720174">
+				<id>114</id>
+			</fuvar>
+			<fuvar hossz="13,3353932246354">
+				<id>141</id>
+			</fuvar>
+			<fuvar hossz="15,4221978594158">
+				<id>142</id>
+			</fuvar>
+			<fuvar hossz="14,3592329816171">
+				<id>189</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="JGS-045" kapacitas="5" elsofuvar="1" delelott="6" delutan="5" ber="109,1">
+		<elsofuvar>
+			<fuvar hossz="15,6536408306469">
+				<id>126</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="7,53927933040075">
+				<id>125</id>
+			</fuvar>
+			<fuvar hossz="7,53927933040075">
+				<id>157</id>
+			</fuvar>
+			<fuvar hossz="9,16490974814332">
+				<id>151</id>
+			</fuvar>
+			<fuvar hossz="7,53927933040075">
+				<id>33</id>
+			</fuvar>
+			<fuvar hossz="2,00781954752072">
+				<id>91</id>
+			</fuvar>
+			<fuvar hossz="8,88599708067028">
+				<id>21</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="KAX-589" kapacitas="10" elsofuvar="1" delelott="5" delutan="6" ber="109,1">
+		<elsofuvar>
+			<fuvar hossz="2,71934204171536">
+				<id>96</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="9,18634124013954">
+				<id>40</id>
+			</fuvar>
+			<fuvar hossz="1,80417787494687">
+				<id>79</id>
+			</fuvar>
+			<fuvar hossz="10,1167469899359">
+				<id>135</id>
+			</fuvar>
+			<fuvar hossz="10,032197181575">
+				<id>186</id>
+			</fuvar>
+			<fuvar hossz="9,95869448319213">
+				<id>63</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+</mapping>

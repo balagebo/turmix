@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapping date="2009. 01. 17." u1 = "0" u2 = "0" u3 = "0">
+	<auto rendszam="JBE-803" kapacitas="5" elsofuvar="0" delelott="6" delutan="3">
+		<elsofuvar />
+		<delelott>
+			<fuvar hossz="19,0569670615274">
+				<id>10</id>
+			</fuvar>
+			<fuvar hossz="17,7314234342499">
+				<id>0</id>
+			</fuvar>
+			<fuvar hossz="16,9499393729052">
+				<id>8</id>
+			</fuvar>
+			<fuvar hossz="15,6536408306469">
+				<id>18</id>
+			</fuvar>
+			<fuvar hossz="20,27640526493">
+				<id>15</id>
+			</fuvar>
+			<fuvar hossz="14,0489757661829">
+				<id>20</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="17,6121677202482">
+				<id>9</id>
+			</fuvar>
+			<fuvar hossz="21,617948386627">
+				<id>16</id>
+			</fuvar>
+			<fuvar hossz="31,7531008431555">
+				<id>4</id>
+			</fuvar>
+		</delutan>
+	</auto>
+	<auto rendszam="JBE-804" kapacitas="5" elsofuvar="0" delelott="8" delutan="5">
+		<elsofuvar />
+		<delelott>
+			<fuvar hossz="0">
+				<id>1</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>11</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>12</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>13</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>14</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>17</id>
+			</fuvar>
+			<fuvar hossz="17,3825404542827">
+				<id>2</id>
+			</fuvar>
+			<fuvar hossz="17,3825404542827">
+				<id>19</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="0">
+				<id>3</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>5</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>6</id>
+			</fuvar>
+			<fuvar hossz="16,9499393729052">
+				<id>7</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>21</id>
+			</fuvar>
+		</delutan>
+	</auto>
+</mapping>

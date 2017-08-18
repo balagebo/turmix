@@ -1,0 +1,36 @@
+﻿<mapping date = "2009.07.18." ><autok><auto rendszam = "JBE-803"  kapacitas = "5"  elsofuvar = "1"  delelott = "5"  delutan = "6"  index = "3"  sofor = "Krizsán Sándor"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "17"  >
+<cim lat = "47,524742"  lng = "21,674428"  m3 = "4"  tm3 = "5"  nsz = "1"  id = "5"  utca = "ASZTALOS U"  hsz = "    35."  irsz = "4034"  csh = "45"  munka = "467665"  megj = "bm 35/4   alá kell menni"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,557121"  lng = "21,65881"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "1"  utca = "TÖLTÉNY U"  hsz = "    16."  irsz = "4033"  csh = "8"  munka = "467269"  megj = "bm."  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,559135"  lng = "21,665106"  m3 = "5"  tm3 = "3"  nsz = "3"  id = "3"  utca = "BAJONETT U"  hsz = "     7."  irsz = "4033"  csh = "8"  munka = "467574"  megj = "10"  /></fordulo>
+</auto>
+<auto rendszam = "JGS-045"  kapacitas = "5"  elsofuvar = "1"  delelott = "5"  delutan = "6"  index = "1"  sofor = "Kovács László"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "14"  >
+<cim lat = "47,523355"  lng = "21,660438"  m3 = "10"  tm3 = "0"  nsz = "1"  id = "0"  utca = "CSOBOLYÓ U"  hsz = "     4."  irsz = "4034"  csh = "45"  munka = "467020"  megj = "6-8ig"  /></fordulo>
+<fordulo tav = "3"  >
+<cim lat = "47,504419"  lng = "21,613167"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "9"  utca = "SZEPESI U"  hsz = "    58."  irsz = "4030"  csh = "8"  munka = "467940"  megj = "bm"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,494628"  lng = "21,674976"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "12"  utca = "GYÉKÉNY U"  hsz = "     8."  irsz = "4002"  csh = "24"  munka = "468027"  megj = "bm de ha lehet minnél hamarabb a gyékény utcába betolatni a 8 sz. egy kanadai faház a vaskapu elhúzható a kis utcával szemben és az 5 m-t elvinni!"  /></fordulo>
+<fordulo tav = "20"  >
+<cim lat = "47,496838"  lng = "21,692818"  m3 = "2"  tm3 = "0"  nsz = "2"  id = "11"  utca = "GYÖMBÉR U"  hsz = "    63."  irsz = "4002"  csh = "40"  munka = "468007"  megj = "bm"  /></fordulo>
+<fordulo tav = "23"  >
+<cim lat = "47,5345"  lng = "21,69746944"  m3 = "5"  tm3 = "10"  nsz = "3"  id = "6"  utca = "ZUZMARA"  hsz = ""  irsz = "4033"  csh = "10"  munka = "467786"  megj = "bm, Mózsa Sándor,zúzmara utcán befelé a 6. dűlő,jobbra a második zöld tetős ház,30-90309-70,10m cső"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,505063"  lng = "21,68101"  m3 = "5"  tm3 = "1"  nsz = "3"  id = "10"  utca = "REKETTYE U"  hsz = "    27."  irsz = "4002"  csh = "8"  munka = "467989"  megj = "bm, bemehettek kapu nyitva  27. szám alá kell menni"  /></fordulo>
+</auto>
+<auto rendszam = "JNS-276"  kapacitas = "5"  elsofuvar = "0"  delelott = "2"  delutan = "2"  index = "2"  sofor = "Krizsán Sándor"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "0"  >
+<cim lat = "47,604864"  lng = "21,603586"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "7"  utca = "MONOSTORERDő U"  hsz = "    27."  irsz = "4225"  csh = "8"  munka = "467874"  megj = "bm"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,598797"  lng = "21,582615"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "8"  utca = "UNOKAKERT U"  hsz = "    12."  irsz = "4225"  csh = "32"  munka = "467879"  megj = "bm,csengessen!!!"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,605124"  lng = "21,59618"  m3 = "3"  tm3 = "0"  nsz = "3"  id = "2"  utca = "NAGYSZENTGYÖRGY U"  hsz = "    86."  irsz = "4225"  csh = "30"  munka = "467562"  megj = "bm"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,602842"  lng = "21,603796"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "4"  utca = "ZSINDELY U"  hsz = "     8."  irsz = "4225"  csh = "32"  munka = "467617"  megj = "bm bemehettek  de a kocsival csak a beállóig lehet !!!!!! beton marad egyben !!!  OLVASNI"  /></fordulo>
+</auto>
+</autok>
+<cimek>
+</cimek>
+<szamok KEF = "1"  KDE= "2"  KDU = "4"  TEF = "1"  TDE = "1"  TDU = "0"  Km3 = "31"  Tm3 = "20"  Jm3 = "18"  EFJ = "0"  DEJ = "2"  DUJ = "2"  EFDeb = "2"  DEDeb = "3"  DUDeb = "4"  KEFU = "0"  KDEU = "0"  KDUU = "0"  TEFU = "0"  TDEU = "0"  TDUU = "0"  Km3U = "0"  Tm3U = "0"  /></mapping>

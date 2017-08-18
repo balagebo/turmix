@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="60825ad0-37d5-4090-8c91-27860e7b5a8e" name="Balage@CHARISMA 2009-09-17 12:15:55" runUser="Charisma\Balage" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="4809e1f7-9bfd-4e5c-abf5-f305684fc184">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="E:\Visual Studio Projects\TurmixWeb\TestResults\Balage_CHARISMA 2009-09-17 12_15_55">
+      <DeploymentItem filename="E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\itextsharp.dll" />
+      <DeploymentItem filename="E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\TurmixLog.exe" />
+      <DeploymentItem filename="E:\Visual Studio Projects\TurmixWeb\TurmixApp\bin\Debug\MySql.Data.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-09-17T12:15:55.3198490+02:00" queuing="2009-09-17T12:16:02.1012368+02:00" start="2009-09-17T12:16:02.6572686+02:00" finish="2009-09-17T12:16:06.6004942+02:00" />
+  <TestDefinitions>
+    <UnitTest name="GetCarsTest" storage="e:\visual studio projects\turmixweb\turmixtest\bin\debug\turmixtest.dll" id="39389300-1832-da98-f424-2528338fff93">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="965be6ad-d33d-4793-99b8-05fc5ee9b1fa" />
+      <TestMethod codeBase="E:\Visual Studio Projects\TurmixWeb\TurmixTest\bin\Debug\TurmixTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TurmixTest.DataUtilTest, TurmixTest" name="GetCarsTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="39389300-1832-da98-f424-2528338fff93" executionId="965be6ad-d33d-4793-99b8-05fc5ee9b1fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="965be6ad-d33d-4793-99b8-05fc5ee9b1fa" testId="39389300-1832-da98-f424-2528338fff93" testName="GetCarsTest" computerName="CHARISMA" duration="00:00:02.6490176" startTime="2009-09-17T12:16:02.8302785+02:00" endTime="2009-09-17T12:16:06.5074889+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreNotEqual failed. Expected any value except:&lt;-1&gt;. Actual:&lt;-1&gt;. </Message>
+          <StackTrace>   at TurmixTest.DataUtilTest.GetCarsTest() in E:\Visual Studio Projects\TurmixWeb\TurmixTest\DataUtilTest.cs:line 144
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

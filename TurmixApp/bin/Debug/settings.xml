@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <settings>
+    <dbHost>cpc-009</dbHost>
+    <dbName>turmix</dbName>
+    <dbUser>dev</dbUser>
+    <dbPass>dev</dbPass>
+  </settings>

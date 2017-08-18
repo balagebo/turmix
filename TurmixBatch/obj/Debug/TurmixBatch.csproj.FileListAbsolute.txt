@@ -1,0 +1,14 @@
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\bin\Debug\TurmixBatch.exe
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\bin\Debug\TurmixBatch.pdb
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Debug\TurmixBatch.Form1.resources
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Debug\TurmixBatch.Properties.Resources.resources
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Debug\TurmixBatch.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Debug\TurmixBatch.exe
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Debug\TurmixBatch.pdb
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\bin\Debug\TurmixBatch.exe.config
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\bin\Debug\TurmixLog.exe
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\bin\Debug\itextsharp.dll
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\bin\Debug\TurmixLog.pdb
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Debug\TurmixBatch.MassOpenDialog.resources
+E:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Debug\TurmixBatch.DataForm.resources

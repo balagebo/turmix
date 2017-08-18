@@ -1,0 +1,16 @@
+E:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Debug\TurmixUtils.Properties.Resources.resources
+E:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Debug\TurmixUtils.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\TurmixWeb\TurmixUtils\bin\Debug\TurmixUtils.dll
+E:\Visual Studio Projects\TurmixWeb\TurmixUtils\bin\Debug\TurmixUtils.pdb
+E:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Debug\TurmixUtils.dll
+E:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Debug\TurmixUtils.pdb
+E:\Visual Studio Projects\TurmixWeb\TurmixUtils\bin\Debug\TurmixUtils.dll.config
+d:\Visual Studio Projects\TurmixWeb\TurmixUtils\bin\Debug\TurmixUtils.dll.config
+d:\Visual Studio Projects\TurmixWeb\TurmixUtils\bin\Debug\TurmixUtils.dll
+d:\Visual Studio Projects\TurmixWeb\TurmixUtils\bin\Debug\TurmixUtils.pdb
+d:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Debug\TurmixUtils.Properties.Resources.resources
+d:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Debug\TurmixUtils.csproj.GenerateResource.Cache
+d:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Debug\TurmixUtils.dll
+d:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Debug\TurmixUtils.pdb
+D:\Visual Studio Projects\TurmixWeb\TurmixUtils\obj\Debug\TurmixUtils.csprojResolveAssemblyReference.cache

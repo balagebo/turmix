@@ -1,0 +1,213 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Kiosztás</title>
+    <style type = "text/css">
+		.dummy {visibility : hidden; }
+		.blacklabel {font: bold 8pt 'Tahoma'; color:#000000}
+		.whitelabel {font: bold 8pt 'Tahoma' ; color:#ffffff}
+		.infotext {font: bold 8pt 'Tahoma';}
+		.infodiv {font: bold 8pt 'Tahoma'; position:absolute; padding: 5px; left:0px; top:0px; visibility:hidden; width:100%; background-color:#000000; color:#dddddd}
+    </style>
+    
+    <script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAHPO8khju_5JVJygevE6ZXxQI5-XfCLk7rxmsF33zWXJ0GDtZcRQ3lyUW477hPeCJyyWirk-_IT92kA"
+            type="text/javascript"></script>
+            
+	<script src = "labeledmarker.js" type = "text/javascript"></script> 
+ 
+    <script type="text/javascript">
+
+	var map;
+	var idCounter = 0;
+	var lastMarker, addmarker;
+	var markers = new Array(), infos = new Array();
+	var pseudoMarker;
+	var center;
+	var activeGroup = 1;
+	var distance;
+	var urito;
+	var hosszu = 6;
+	var elsoIcon = 'images/elso.png';
+	var deIcon = 'images/de.png';
+	var duIcon = 'images/blu.png';
+	var infoKey = 81; //q
+	var position;
+	var infomode = false;
+	var problemGroup = false;
+	var autotype = 0;
+	var tx = 0, ty = 0;
+	var addingMarker = null, destMarker = null;
+	var addingLatLng;
+	var gdir;
+	
+	var utca = '';
+	
+    function initialize() {
+      
+      try {
+      
+      if (GBrowserIsCompatible()) {
+        pseudoMarker = new GMarker(new GLatLng(0, 0));
+        center = new GLatLng(47.53227005016189, 21.64478302001953);
+        urito = new GLatLng(47.501306, 21.601979);
+        map = new GMap2(document.getElementById('map_canvas'));
+        map.setCenter(center, 12);
+        map.savePosition();
+        map.id = 'map';
+        
+        map.addControl(new GSmallMapControl());
+        markers.push(center);
+        gdir = new GDirections(map);
+        beginFoldAdditiveMode(0);
+      }
+      }
+      catch (err) {
+        alert(err + ':: A térkép nem jeleníthető meg.\nKérem ellenőrizze a hálózati kapcsolatot.');
+      }
+    }
+    
+    
+    function centerMap() {
+      map.returnToSavedPosition();
+    }
+    
+    function beginFoldAdditiveMode(id) {
+      addmarker = id ? id : -1;
+      
+      var destIcon = new GIcon(G_DEFAULT_ICON);
+      destIcon.iconAnchor = new GPoint(16, 16);
+      destIcon.image = 'images/dest.png';
+      
+      destMarker = new LabeledMarker(markers[id], {icon : destIcon, clickable : false, labelText : '', labelClass : 'whitelabel' });
+      map.addOverlay(destMarker);
+      map.openInfoWindowHtml(markers[id],'<span class = "infotext">EZ AZ!!</span>');
+      
+      GEvent.addListener(map, 'click', function(overlay, latlng, overlaylatlng) {       
+        if (overlay == null) {
+          var micon = new GIcon(G_DEFAULT_ICON);
+          micon.iconAnchor = new GPoint(16, 16);
+          
+          var markerOptions = {icon : micon, clickable : true, labelText : '', 
+            labelClass : 'whitelabel', labelOffset : new GSize(-11, -7)
+          };
+          
+          
+          if (addingMarker != null)
+            map.removeOverlay(addingMarker);
+          addingMarker = new LabeledMarker(latlng, markerOptions);  
+          
+          map.addOverlay(addingMarker);
+           map.openInfoWindowHtml(latlng,'<span class = "infotext"><p>Földútpont rögzítése</p><input type = "button" value = "OK" id = "he" onclick = ' + 
+           '"getDistance()"/>' + 
+           '<input type = "button" value = "Mégse" onclick = "endAdding()"/></span>',         
+          {
+          onOpenFn: function() {
+            
+          },
+          onCloseFn : function() {
+              endAdding();
+            }
+          });
+          }
+      });
+      map.old = GDraggableObject.getDraggableCursor();
+      map.oldrag = GDraggableObject.getDraggingCursor();
+      
+      map.getDragObject().setDraggableCursor('crosshair');
+      map.getDragObject().setDraggingCursor('crosshair');
+    }
+    
+    function beginAdditiveMode(id, utcanev) {
+      
+      addmarker = id ? id : -1;
+      utca = utcanev ? utcanev : '';
+      
+      document.getElementById('info').style.visibility = 'visible';
+      GEvent.addListener(map, 'click', function(overlay, latlng, overlaylatlng) {       
+        if (overlay == null) {
+          var micon = new GIcon(G_DEFAULT_ICON);
+          micon.iconAnchor = new GPoint(16, 16);
+          
+          var markerOptions = {icon : micon, clickable : true, labelText : '', 
+            labelClass : 'whitelabel', labelOffset : new GSize(-11, -7)
+          };
+          if (addingMarker != null)
+            map.removeOverlay(addingMarker);
+          addingMarker = new LabeledMarker(latlng, markerOptions);  
+          
+          map.addOverlay(addingMarker);
+          map.openInfoWindowHtml(latlng,'<span class = "infotext"><p>Utca neve:</p><input type = "text" id = "street"/><input type = "button" value = "OK" onclick = "doSubmit(false)"/></span>',         
+          {
+          onOpenFn: function() {
+            document.getElementById('street').value = utca;
+          },
+          onCloseFn : function() {
+              endAdding();
+            }
+          });
+          
+        }
+      });
+      map.old = GDraggableObject.getDraggableCursor();
+      map.oldrag = GDraggableObject.getDraggingCursor();
+      
+      map.getDragObject().setDraggableCursor('crosshair');
+      map.getDragObject().setDraggingCursor('crosshair');
+    }
+    
+    function endAdditiveMode() {
+      document.getElementById('info').style.visibility = 'hidden';
+      endAdding();
+      if (destMarker != null) {
+        map.removeOverlay(destMarker);
+      }
+      destMarker = null;
+      GEvent.clearListeners(map, 'click');
+      map.getDragObject().setDraggableCursor(map.old);
+      map.getDragObject().setDraggingCursor(map.oldrag);
+      map.returnToSavedPosition();
+      
+    }
+    
+    function endAdding() {
+      if (addingMarker != null) {
+        map.removeOverlay(addingMarker);
+      }
+      
+      map.closeInfoWindow();
+      addingMarker = null;
+       
+    }
+
+    
+    function doSubmit(fold) {
+      var elem = fold ? 'distance' : 'streetclick';
+      document.getElementById(elem).click();
+      
+      if (addingMarker != null) {
+        map.removeOverlay(addingMarker);
+      }
+      if (destMarker != null) {
+        map.removeOverlay(destMarker);
+      }
+      map.closeInfoWindow();
+    }
+    
+    function getDistance() {
+
+      document.getElementById('distance').value = addingMarker.getLatLng().distanceFrom(urito) + '&' + destMarker.getLatLng().distanceFrom(addingMarker.getLatLng());
+      doSubmit(true);
+
+    }
+  
+
+    </script>
+  </head>
+  <body onload="initialize()" onunload="GUnload()" style = "background-color: #f2efe9; margin:0px;" >
+    <div id="map_canvas" style="width: 800px; height: 600px;"></div>
+  	
+  	<input class = "dummy" id="streetclick" type="button" />
+  	<input class = "dummy" id="distance" type="button" />
+  	</p>
+  </body>
+</html>

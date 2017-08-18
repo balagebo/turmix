@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapping date="2009.05.23.">
+	<autok>
+		<auto rendszam="KGA-512" kapacitas="5" elsofuvar="0" delelott="1" delutan="3" index="0" sofor="Sápi Lajos" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="0">
+				<cim lat="47,600831" lng="21,60329" m3="5" tm3="0" nsz="2" id="3" utca="HOMOKHÁT U" hsz="      ." irsz="4225" csh="16" munka="454907" megj="de hatul volt birkatelep 52/b 4 kanyar van" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,600831" lng="21,60329" m3="5" tm3="0" nsz="3" id="2" utca="HOMOKHÁT U" hsz="      ." irsz="4225" csh="16" munka="454906" megj="de hatul volt birkatelep 52/b 4 kanyar van" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,600831" lng="21,60329" m3="5" tm3="0" nsz="3" id="4" utca="HOMOKHÁT U" hsz="      ." irsz="4225" csh="16" munka="454908" megj="de hatul volt birkatelep 52/b 4 kanyar van" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,600831" lng="21,60329" m3="5" tm3="0" nsz="3" id="5" utca="HOMOKHÁT U" hsz="      ." irsz="4225" csh="16" munka="454909" megj="de hatul volt birkatelep 52/b 4 kanyar van" />
+			</fordulo>
+		</auto>
+	</autok>
+	<cimek>
+		<cim lat="47,584012" lng="21,684669" m3="5" tm3="10" nsz="2" id="8" utca="APAFA" hsz="      ." irsz="4002" csh="8" munka="455209" megj="12ig  Tsz udvaron a hátsó kapunál jobbra menni a földúton, 1. utca balra Gesztenye sor, jobb oldalban a 2. ház, piros Linab tető, törtfehér színű, szembe vele vele piros ház" />
+		<cim lat="47,524742" lng="21,674428" m3="4" tm3="5" nsz="2" id="9" utca="ASZTALOS U" hsz="    35." irsz="4034" csh="45" munka="455310" megj="35/4   alá kell menni" />
+		<cim lat="47,508602" lng="21,678403" m3="5" tm3="10" nsz="2" id="13" utca="DIÓSZEGI ÚT" hsz="   205." irsz="4030" csh="40" munka="455743" megj="bm. CSAK NAGY KOCSI MEHET  !!!!!!! Sherly kanyar Leander étterem Pontosan betartani az időpontot 6-10 vagy 16" />
+		<cim lat="47,521278" lng="21,678237" m3="5" tm3="4" nsz="3" id="0" utca="NAGYBÁNYA U" hsz="    24." irsz="4030" csh="8" munka="454186" megj="bm" />
+		<cim lat="47,507129" lng="21,675838" m3="5" tm3="5" nsz="3" id="1" utca="TISZAFA U" hsz="    12." irsz="4002" csh="15" munka="454718" megj="bm." />
+		<cim lat="47,531563" lng="21,694261" m3="3" tm3="10" nsz="3" id="6" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="8" munka="455109" megj="bm. Csizmadia József Füzesdűlő közepén zöld ház zöld kerítés Tel:20/25-26-923  1cső" />
+		<cim lat="47,584986" lng="21,683631" m3="3" tm3="3" nsz="3" id="7" utca="VIRÁGMÉZ U" hsz="    15." irsz="4002" csh="8" munka="455170" megj="bm." />
+		<cim lat="47,499528" lng="21,657737" m3="5" tm3="4" nsz="3" id="10" utca="MAROKSZEDő U" hsz="    22." irsz="4030" csh="8" munka="455415" megj="bm." />
+		<cim lat="47,52691" lng="21,661336" m3="1" tm3="1" nsz="3" id="11" utca="STROMFELD AURÉL U" hsz="   2/A." irsz="4034" csh="8" munka="455610" megj="bm." />
+		<cim lat="47,497733" lng="21,647992" m3="5" tm3="4" nsz="3" id="12" utca="BIRSALMA U" hsz="    57." irsz="4030" csh="16" munka="455639" megj="bemehettek" />
+	</cimek>
+	<szamok KEF="0" KDE="3" KDU="7" TEF="0" TDE="0" TDU="0" Km3="41" Tm3="0" Jm3="20" EFJ="0" DEJ="1" DUJ="3" EFDeb="0" DEDeb="3" DUDeb="7" KEFU="0" KDEU="3" KDUU="7" TEFU="0" TDEU="0" TDUU="0" Km3U="41" Tm3U="0" />
+</mapping>

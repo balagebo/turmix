@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4F4D2ED6-7F07-4A6B-98DF-F22B02B60A13}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TurmixLog</RootNamespace>
+    <AssemblyName>TurmixLog</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>true</GenerateManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>96ADF99E8311DA1AB49FE9E079AD017EABF8B221</ManifestCertificateThumbprint>
+    <ManifestKeyFile>TurmixApp_TemporaryKey.pfx</ManifestKeyFile>
+    <SignManifests>false</SignManifests>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>E:\Visual Studio Projects\TurmixWeb\TurmixApp\target\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ProductName>Turmix Logisztika 2</ProductName>
+    <PublisherName>Turmix Bt</PublisherName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>Tumix Logisztika Telepítés</WebPage>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.1.2.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Net">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppLogger.cs" />
+    <Compile Include="AbstractAdatPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbstractAdatPanel.Designer.cs">
+      <DependentUpon>AbstractAdatPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutoAdatPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoAdatPanel.Designer.cs">
+      <DependentUpon>AutoAdatPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BatchProcessor.cs" />
+    <Compile Include="CustomXmlTextWriter.cs" />
+    <Compile Include="DataUtil_MySQL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FoldutPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FoldutPanel.Designer.cs">
+      <DependentUpon>FoldutPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LatLngPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LatLngPanel.Designer.cs">
+      <DependentUpon>LatLngPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\MainForm_demo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logic\MainForm_demo.Designer.cs">
+      <DependentUpon>MainForm_demo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\WorkerThread.cs" />
+    <Compile Include="Model\Auto.cs" />
+    <Compile Include="Model\CimOsszesito.cs" />
+    <Compile Include="Model\GLatLng.cs" />
+    <Compile Include="Panels\AboutTurmixLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\AboutTurmixLog.Designer.cs">
+      <DependentUpon>AboutTurmixLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\CarDataGridPane.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\CarDataGridPane.Designer.cs">
+      <DependentUpon>CarDataGridPane.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CarGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CarGrid.Designer.cs">
+      <DependentUpon>CarGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CimPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CimPanel.Designer.cs">
+      <DependentUpon>CimPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\CimVariacio.cs" />
+    <Compile Include="Panels\DataUpdater.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\DataUpdater.Designer.cs">
+      <DependentUpon>DataUpdater.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\EntitySaver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\MunkalapPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\MunkalapPanel.Designer.cs">
+      <DependentUpon>MunkalapPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\ProblemasCimPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\ProblemasCimPanel.Designer.cs">
+      <DependentUpon>ProblemasCimPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\StaffPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\StaffPanel.Designer.cs">
+      <DependentUpon>StaffPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Fuvar.cs" />
+    <Compile Include="Panels\MissingData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\MissingData.Designer.cs">
+      <DependentUpon>MissingData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\AddressChooserPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\AddressChooserPanel.Designer.cs">
+      <DependentUpon>AddressChooserPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\MunkaAdat.cs" />
+    <Compile Include="Panels\MunkalapSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\MunkalapSelector.Designer.cs">
+      <DependentUpon>MunkalapSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\NapszakCorrector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\NapszakCorrector.Designer.cs">
+      <DependentUpon>NapszakCorrector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NapszakManager.cs" />
+    <Compile Include="Panels\ZeroLatLng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\ZeroLatLng.Designer.cs">
+      <DependentUpon>ZeroLatLng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PdfMerge.cs" />
+    <Compile Include="Panels\PrintProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\PrintProgress.Designer.cs">
+      <DependentUpon>PrintProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\PrintTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\PrintTemplate.Designer.cs">
+      <DependentUpon>PrintTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProblemCimPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProblemCimPanel.Designer.cs">
+      <DependentUpon>ProblemCimPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProblemUtcaPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProblemUtcaPanel.Designer.cs">
+      <DependentUpon>ProblemUtcaPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AbstractAdatPanel.resx">
+      <DependentUpon>AbstractAdatPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FoldutPanel.resx">
+      <DependentUpon>FoldutPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LatLngPanel.resx">
+      <DependentUpon>LatLngPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logic\MainForm_demo.resx">
+      <DependentUpon>MainForm_demo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\AboutTurmixLog.resx">
+      <DependentUpon>AboutTurmixLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\CarDataGridPane.resx">
+      <DependentUpon>CarDataGridPane.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CimPanel.resx">
+      <DependentUpon>CimPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\DataUpdater.resx">
+      <DependentUpon>DataUpdater.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\MunkalapPanel.resx">
+      <DependentUpon>MunkalapPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\ProblemasCimPanel.resx">
+      <DependentUpon>ProblemasCimPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\StaffPanel.resx">
+      <DependentUpon>StaffPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\MissingData.resx">
+      <DependentUpon>MissingData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\AddressChooserPanel.resx">
+      <DependentUpon>AddressChooserPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\MunkalapSelector.resx">
+      <DependentUpon>MunkalapSelector.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\NapszakCorrector.resx">
+      <DependentUpon>NapszakCorrector.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\PrintProgress.resx">
+      <DependentUpon>PrintProgress.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\PrintTemplate.resx">
+      <DependentUpon>PrintTemplate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\ZeroLatLng.resx">
+      <DependentUpon>ZeroLatLng.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\SettingsPanel.resx">
+      <DependentUpon>SettingsPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\UjAuto.resx">
+      <DependentUpon>UjAuto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CimGyujto.resx">
+      <DependentUpon>CimGyujto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\ZeroCso.resx">
+      <DependentUpon>ZeroCso.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Repository.cs" />
+    <Compile Include="Panels\SettingsPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\SettingsPanel.Designer.cs">
+      <DependentUpon>SettingsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\UjAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\UjAuto.Designer.cs">
+      <DependentUpon>UjAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CimGyujto.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CimGyujto.Designer.cs">
+      <DependentUpon>CimGyujto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\UtilityMethods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\ZeroCso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\ZeroCso.Designer.cs">
+      <DependentUpon>ZeroCso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SoundPlayer.cs" />
+    <Compile Include="TenylegesM3Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TenylegesM3Panel.Designer.cs">
+      <DependentUpon>TenylegesM3Panel.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\fileicon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\nagyauto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\allauto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\kisauto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\set.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\alert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\allauto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisauto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nagyauto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\set.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\images\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="app.ico" />
+    <None Include="bin\Debug\resources\images\warning.png" />
+    <None Include="bin\Debug\resources\images\trans.png" />
+    <None Include="bin\Debug\resources\images\logo.png" />
+    <None Include="bin\Debug\resources\images\hang.png" />
+    <None Include="bin\Debug\resources\images\sound.png" />
+    <None Include="bin\Debug\resource\img\sound.png" />
+    <None Include="bin\Debug\resource\img\settings.png" />
+    <None Include="bin\Debug\resource\img\set.png" />
+    <None Include="bin\Debug\resource\img\save.png" />
+    <None Include="bin\Debug\resource\img\open.png" />
+    <None Include="bin\Debug\resource\img\nagyauto.png" />
+    <None Include="bin\Debug\resource\img\logo.png" />
+    <None Include="bin\Debug\resource\img\kisauto.png" />
+    <None Include="bin\Debug\resource\img\hang.png" />
+    <None Include="bin\Debug\resource\img\back.png" />
+    <None Include="bin\Debug\resource\img\allauto.png" />
+    <None Include="bin\Debug\resource\img\alert.png" />
+    <None Include="Resources\hang.png" />
+    <None Include="Resources\Sounds.png" />
+    <None Include="Resources\sound.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\TurmixUtils\TurmixUtils.csproj">
+      <Project>{C1D05A74-5008-4392-A07F-6B2A647875BE}</Project>
+      <Name>TurmixUtils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

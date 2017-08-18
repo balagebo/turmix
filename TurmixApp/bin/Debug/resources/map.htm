@@ -1,0 +1,673 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Kiosztás</title>
+    <style type = "text/css">
+		.dummy {visibility : hidden; }
+		.blacklabel {font: bold 8pt 'Tahoma'; color:#000000}
+		.whitelabel {font: bold 8pt 'Tahoma' ; color:#ffffff}
+		.infotext {font: bold 8pt 'Tahoma';}
+		.infodiv {font: bold 8pt 'Tahoma'; position:absolute; padding: 5px; left:0px; top:0px; visibility:hidden; width:100%; background-color:#000000; color:#dddddd}
+    </style>
+    
+    <script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAHPO8khju_5JVJygevE6ZXxQI5-XfCLk7rxmsF33zWXJ0GDtZcRQ3lyUW477hPeCJyyWirk-_IT92kA"
+            type="text/javascript"></script>
+            
+	<script src = "labeledmarker.js" type = "text/javascript"></script> 
+ 
+    <script type="text/javascript">
+
+	var map;
+	var idCounter = 0;
+	var lastMarker, addmarker;
+	var markers = new Array(), infos = new Array();
+	var pseudoMarker;
+	var center;
+	var activeGroup = 1;
+	var distance;
+	var urito;
+	var hosszu = 6;
+	var elsoIcon = 'images/elso.png';
+	var deIcon = 'images/de.png';
+	var duIcon = 'images/blu.png';
+	var infoKey = 81; //q
+	var position;
+	var infomode = false;
+	var problemGroup = false;
+	var autotype = 0;
+	var tx = 0, ty = 0;
+	var addingMarker = null, destMarker = null;
+	var addingLatLng;
+	var gdir;
+	
+	var utca = '';
+	
+    function initialize() {
+      
+      try {
+      
+      //if (GBrowserIsCompatible()) 
+	  {
+        pseudoMarker = new GMarker(new GLatLng(0, 0));
+        center = new GLatLng(47.53227005016189, 21.64478302001953);
+        urito = new GLatLng(47.501306, 21.601979);
+        map = new GMap2(document.getElementById('map_canvas'));
+        map.setCenter(center, 12);
+        map.savePosition();
+        map.id = 'map';
+        
+		GEvent.addListener(map, 'zoomend', function() {
+			for (var a = 0; a < markers.length; a++) {
+				markers[a].redraw();
+			}
+		});
+		
+        //map.addControl(new GSmallMapControl());
+
+       // gdir = new GDirections(map);
+        document.getElementById('loadready').click();
+      }
+      }
+      catch (err) {
+        alert('A térkép nem jelenítheto meg.\nKérem ellenorizze a hálózati kapcsolatot. Hiba:' + err.message + "\n" + err.description );
+      }
+    }
+    
+    function addMarker(lat, lng, m3, tenyleges, grnum, idval, kiosztott, cso, info, auto, fordulo, prob) {
+        var coords = new GLatLng(lat, lng);
+        var iconName = 'images/';
+        var myicon = new GIcon(G_DEFAULT_ICON);
+        var labeltx = tenyleges ? m3 + '/' + tenyleges : m3;
+		var lbl = tenyleges ? tenyleges : m3;
+		var offset = -8;
+		if (tenyleges) {
+      if (m3 >= 10 || tenyleges >= 10) {
+        offset = -16;
+      }
+      else {
+          offset = -10;
+        }
+    }
+		else {
+      if (m3 >= 10) {
+        offset = -8;
+      }
+      else {
+        offset = -5;
+      }
+    }
+   
+    iconName += m3 >= hosszu ? 'red' : 'green';
+    var markerImage = prob ? 'images/alert' : iconName;
+    
+    
+		myicon.image = markerImage + '.png';
+		myicon.shadow = null;
+		myicon.iconSize = new GSize(32, 32);
+		myicon.iconAnchor = new GPoint(16, 16);
+		
+        var markerOptions = {icon : myicon, clickable : true, labelText : labeltx, 
+			labelClass : (tenyleges ? 'blacklabel' : 'whitelabel'), labelOffset : new GSize(offset, -7)
+		};
+		
+        var marker = new LabeledMarker(coords, markerOptions);
+        marker.id = idval;
+        marker.group = grnum;
+        marker.proc = false;
+        marker.m3 = m3;
+        marker.done = kiosztott;
+        
+        marker.normalicon = iconName;
+        marker.info = info;
+        marker.label = labeltx;
+        marker.type = m3 >= hosszu ? 2 : 1;
+        marker.prob = prob;
+        marker.image = markerImage;
+        
+        
+        GEvent.addListener(marker, 'mouseover', function(latLng) {
+          this.setImage(this.image + '_over.png');
+          lastMarker = this.id;
+          document.getElementById('inf').click();
+        });
+        
+        GEvent.addListener(marker, 'mouseout', function(latLng) {
+			if (!this.proc) {      
+				this.setImage(this.image + '.png');
+			}
+        });
+        
+        GEvent.addListener(marker, 'mousedown', function(latLng) {     
+          if (window.event.button == 2) {
+              lastMarker = this.id;
+              document.getElementById('klikker').click();
+               
+          }
+          else {
+              this.proc = !this.proc;
+              lastMarker = this.id;
+              document.getElementById('hidden').click();   
+          }
+        });
+        
+        markers[idval] = marker;
+        
+        
+          map.addOverlay(marker);
+		  marker.redraw();
+          if ((grnum != activeGroup) || kiosztott)
+            marker.hide();
+		  
+			
+		  
+       
+        switch (grnum) {
+          case 1: 
+            iconName = elsoIcon;
+            break;
+          case 2: 
+            iconName = deIcon;
+            break;
+          case 3: 
+            iconName = duIcon;
+            break;
+        }
+        
+        myicon = new GIcon(G_DEFAULT_ICON);
+        myicon.image = iconName;
+        myicon.shadow = null;
+        myicon.iconSize = new GSize(32, 32);
+        myicon.iconAnchor = new GPoint(16, 16);
+        
+        markerOptions = {icon : myicon, clickable : true, labelText : (fordulo == -1 ? '' : (fordulo < 10 ? '<span style = visibility:hidden>b</span>' + fordulo : fordulo)), 
+          labelClass : 'whitelabel', labelOffset : new GSize(-11, -7)
+        };
+        
+        marker = new LabeledMarker(coords, markerOptions);
+        
+        marker.image = iconName;
+        marker.car = auto == -1 ? undefined : auto;
+        marker.fordulo = fordulo == -1 ? undefined : fordulo;  
+        marker.info = info;
+        marker.idnum = idval;
+        
+        
+        GEvent.addListener(marker, 'mouseover', function(latLng) {
+          this.setImage(marker.image + '_over.png');
+          lastMarker = this.idnum;
+          document.getElementById('inf').click();
+        });
+        GEvent.addListener(marker, 'mouseout', function(latLng) {
+          this.setImage(this.image + '.png');
+        });
+        
+        infos[idval] = marker;
+        
+        
+          map.addOverlay(marker);
+		  marker.redraw();
+          marker.hide();		  
+        
+    }
+    
+    function setLatLng(id, lat, lng) {
+      markers[id].setLatLng(new GLatLng(lat, lng));
+      infos[id].setLatLng(new GLatLng(lat, lng));
+      markers[id].hide();
+      undo(id);
+    }
+    
+    function setNagyM3(nagy) {
+      hosszu = nagy;
+    }
+    
+    function doid(id) {
+      markers[id].proc = true;
+      markers[id].setImage(markers[id].image + '_over.png');
+    }
+    
+    function dosome() {
+        return lastMarker;
+    }
+    
+    function getAddId() {
+        return addmarker;
+    }
+    
+    function deactivateOnly(id) {
+      markers[id].setImage(markers[id].image + '.png');
+    }
+    
+    function undo(id) {
+
+      markers[id].proc = false;
+      markers[id].done = false;
+      infos[id].car = undefined;
+      infos[id].fordulo = undefined;
+      
+      markers[id].image = markers[id].prob ? 'images/alert' : markers[id].normalicon;  
+      markers[id].setLabelText(markers[id].label);
+      markers[id].setImage(markers[id].image + '.png');
+
+        if (infomode) {
+        infos[id].hide();
+      }
+
+        if (problemGroup && !markers[id].prob)
+          return;
+  
+        if (markers[id].group == activeGroup && !infomode && (markers[id].type == autotype || autotype == 0)) {
+          markers[id].show();
+        }
+        
+      
+    }
+    
+    function reset() {
+      markers = new Array();
+      infos = new Array();
+      map.clearOverlays();
+      map.returnToSavedPosition();
+      idCounter = 0;
+      infomode = false;    
+      problemGroup = false;
+    }
+    
+    function centerTo(id, str) {
+      if (markers[id].getLatLng().lat() == 0) {
+        alert('A cím nem jelenítheto meg!');
+        return;
+      }
+      map.openInfoWindowHtml(markers[id].getLatLng(), '<b>' + str +'</b>');
+    }
+    
+    function showGroup(grnum) {
+		activeGroup = grnum;
+		if (problemGroup) {
+      showProblemGroup(true);
+      return;
+    }  
+		if (!infomode) {
+      for (var a = 0; a < markers.length; a++) {
+          
+          
+          if (markers[a].group == activeGroup && !markers[a].done && (markers[a].type == autotype || autotype == 0)) { 
+            markers[a].proc = false;
+            markers[a].show();
+          }
+          else
+            markers[a].hide();
+        
+      }
+      }
+    }
+    
+    function showProblemGroup(show) {
+      problemGroup = show;
+      if (!infomode) {
+      
+      if (show) {
+        for (var a = 0; a < markers.length; a++) {     
+            if (!markers[a].done && markers[a].prob && markers[a].group == activeGroup && (markers[a].type == autotype || autotype == 0)) { 
+              markers[a].proc = false;
+              markers[a].show();
+            }
+            else
+              markers[a].hide();
+          }
+        
+      }
+      else {
+        showGroup(activeGroup);
+      }
+      }
+    }
+    
+    function pseudoClick(num) {
+		
+      lastMarker = num;
+      markers[lastMarker].proc = !markers[lastMarker].proc;
+      document.getElementById('hidden').click();
+    }
+    
+    function hide(id, auto, fordulo) {
+    try {
+			markers[id].done = true;
+			markers[id].proc = false;
+			
+			
+			setAutoInfo(id, auto, fordulo);
+			
+			if (!infomode)
+        markers[id].hide();
+      else
+        infos[id].show();
+      }
+      catch(err) {
+      }
+    }
+    
+    function setAutoInfo(id, auto, fordulo) {
+
+			infos[id].car = auto;
+			infos[id].fordulo = fordulo;
+			infos[id].setLabelText(fordulo < 10 ? '<span style = visibility:hidden>b</span>' + fordulo : fordulo);
+    }
+    
+    function showInfo(auto) {
+      if (event.keyCode == infoKey && !infomode) {
+      try {
+      for (var a = 0; a < markers.length; a++) {
+          markers[a].hide();
+        if (infos[a].car == auto) {
+          
+          infos[a].show();
+                   
+        }
+        
+      }
+      }
+      catch(err) {
+        alert(err.message);
+        }
+      }
+    }
+    
+    function hideInfo() {
+      if (event.keyCode == infoKey && !infomode) {
+      try {
+        for (var a = 0; a < markers.length; a++) {
+          if (!infos[a].isHidden())
+            infos[a].hide();
+        }
+        showGroup(activeGroup);
+      }
+      catch(err) {
+        alert(err.message);
+        }
+        }
+   }
+   
+   function toggleInfoMode(mode) {
+    infomode = mode;
+    
+    if (mode) {
+      for (var a = 0; a < markers.length; a++) {  
+          markers[a].hide();
+      }
+      
+    }
+    else {
+      for (var a = 0; a < markers.length; a++) {  
+          infos[a].hide();
+        
+      }
+      showGroup(activeGroup);
+    }
+   }
+   
+   function showAutoInfo(auto) {
+     for (var a = 0; a < infos.length; a++) {
+        if (infos[a].car == auto) {
+          infos[a].show();
+        }
+        else {
+            infos[a].hide();
+        }
+      }
+   }
+
+   function showAutos(melyik) {
+      autotype = melyik;
+      showGroup(activeGroup);
+   }
+    
+    function setNormal(id) {
+      markers[id].prob = false;
+      markers[id].image = markers[id].normalicon;  
+      markers[id].setLabelText(markers[id].label);
+      markers[id].setImage(markers[id].image + '.png');
+    }
+    
+    function setJunction(id, prob) {
+      markers[id].image = 'images/junc' + (prob ? '_prob' : '');      
+      markers[id].setLabelText('');
+      markers[id].setImage(markers[id].image + '.png');
+    }
+    
+    function setProblematic(id, prob) {
+      markers[id].prob = prob;
+      markers[id].setLabelText(markers[id].label);
+        if (prob) {
+            
+            markers[id].image = 'images/alert';
+        } else {
+            markers[id].image = markers[id].normalicon;
+        }
+          markers[id].setImage(markers[id].image + '.png');
+         
+    }
+    
+    function centerMap() {
+      map.returnToSavedPosition();
+    }
+    
+    function cancelMod() {
+      map.closeInfoWindow(); 
+      addingMarker.setLatLng(addingMarker.oldPos);
+    }
+    
+    function beginFoldAdditiveMode(ucca, lat, lng, flat, flng) {
+      
+      utca = ucca;
+      
+      var destIcon = new GIcon(G_DEFAULT_ICON);
+      destIcon.iconAnchor = new GPoint(16, 16);
+      destIcon.image = 'images/dest.png';
+  
+      destMarker = new LabeledMarker(new GLatLng(lat, lng), {icon : destIcon, clickable : false, labelText : '', labelClass : 'whitelabel' });
+      map.addOverlay(destMarker);
+	  destMarker.redraw();
+      map.openInfoWindowHtml(destMarker.getLatLng(),'<span class = "infotext">' + ucca + '</span>');
+      
+      if (flat > 0 && flng > 0) {
+        destIcon = new GIcon(G_DEFAULT_ICON);
+        destIcon.iconAnchor = new GPoint(16, 16);
+               
+        addingMarker = new GMarker(new GLatLng(flat, flng), {icon : destIcon, draggable : true});
+        addingMarker.oldPos = addingMarker.getLatLng();
+        
+        GEvent.addListener(addingMarker, 'dragend', function(latlng) {
+           map.openInfoWindowHtml(latlng,'<span class = "infotext"><p>Földútpont módosítása</p><input type = "button" value = "OK" id = "he" onclick = ' + 
+             '"doSubmit(true)"/><input type = "button" value = "Mégse" onclick = "cancelMod()"/></span>',         
+            {
+            onOpenFn: function() {
+              
+            },
+            onCloseFn : function() {
+                cancelMod();
+              }
+            });
+        });
+        GEvent.addListener(addingMarker, 'dragstart', function(latlng) {
+           map.closeInfoWindow();
+        });
+        map.addOverlay(addingMarker);
+        
+      }
+      else {
+        GEvent.addListener(map, 'click', function(overlay, latlng, overlaylatlng) {       
+          if (overlay == null) {
+            var micon = new GIcon(G_DEFAULT_ICON);
+            micon.iconAnchor = new GPoint(16, 16);
+            
+            var markerOptions = {icon : micon, clickable : true, labelText : '', 
+              labelClass : 'whitelabel', labelOffset : new GSize(-11, -7)
+            };
+            
+            
+            if (addingMarker != null)
+              map.removeOverlay(addingMarker);
+            addingMarker = new LabeledMarker(latlng, markerOptions);  
+            
+            map.addOverlay(addingMarker);
+			addingMarker.redraw();
+             map.openInfoWindowHtml(latlng,'<span class = "infotext"><p>Földútpont rögzítése</p><input type = "button" value = "OK" id = "he" onclick = ' + 
+             '"doSubmit(true)"/>' + 
+             '<input type = "button" value = "Mégse" onclick = "endAdding()"/></span>',         
+            {
+            onOpenFn: function() {
+              
+            },
+            onCloseFn : function() {
+                endAdding();
+              }
+            });
+            }
+        });
+      }
+      map.old = GDraggableObject.getDraggableCursor();
+      map.oldrag = GDraggableObject.getDraggingCursor();
+      
+      map.getDragObject().setDraggableCursor('crosshair');
+      map.getDragObject().setDraggingCursor('crosshair');
+    }
+    
+    function beginAdditiveMode(id, utcanev) {
+      
+      addmarker = id ? id : -1;
+      utca = utcanev ? utcanev : '';
+      
+      document.getElementById('info').style.visibility = 'visible';
+      GEvent.addListener(map, 'click', function(overlay, latlng, overlaylatlng) {       
+        if (overlay == null) {
+          var micon = new GIcon(G_DEFAULT_ICON);
+          micon.iconAnchor = new GPoint(16, 16);
+          
+          var markerOptions = {icon : micon, clickable : true, labelText : '', 
+            labelClass : 'whitelabel', labelOffset : new GSize(-11, -7)
+          };
+          if (addingMarker != null)
+            map.removeOverlay(addingMarker);
+          addingMarker = new LabeledMarker(latlng, markerOptions);  
+          
+          map.addOverlay(addingMarker);
+		  addingMarker.redraw();
+          map.openInfoWindowHtml(latlng,'<span class = "infotext"><p>Utca neve:</p><input type = "text" id = "street"/><input type = "button" value = "OK" onclick = "doSubmit(false)"/></span>',         
+          {
+          onOpenFn: function() {
+            document.getElementById('street').value = utca;
+          },
+          onCloseFn : function() {
+              endAdding();
+            }
+          });
+          
+        }
+      });
+      map.old = GDraggableObject.getDraggableCursor();
+      map.oldrag = GDraggableObject.getDraggingCursor();
+      
+      map.getDragObject().setDraggableCursor('crosshair');
+      map.getDragObject().setDraggingCursor('crosshair');
+    }
+    
+    function endAdditiveMode() {
+      document.getElementById('info').style.visibility = 'hidden';
+      endAdding();
+      if (destMarker != null) {
+        map.removeOverlay(destMarker);
+      }
+      destMarker = null;
+      GEvent.clearListeners(map, 'click');
+      map.getDragObject().setDraggableCursor(map.old);
+      map.getDragObject().setDraggingCursor(map.oldrag);
+      map.returnToSavedPosition();
+      
+    }
+    
+    function endAdding() {
+      if (addingMarker != null) {
+        map.removeOverlay(addingMarker);
+      }
+      
+      map.closeInfoWindow();
+      addingMarker = null;
+       
+    }
+
+    
+    function doSubmit(fold) {
+      var elem = fold ? 'distance' : 'streetclick';
+      document.getElementById(elem).click();
+      
+      if (addingMarker != null) {
+        map.removeOverlay(addingMarker);
+      }
+      if (destMarker != null) {
+        map.removeOverlay(destMarker);
+      }
+      map.closeInfoWindow();
+    }
+    
+    
+    function getDistance() {
+
+      var dist = document.getElementById('distance').value = destMarker.getLatLng().distanceFrom(addingMarker.getLatLng());
+      //doSubmit(true);
+      return dist;
+    }
+    
+    function getAddCoords() {
+      return addingMarker.getLatLng().lat() + "&" + addingMarker.getLatLng().lng();
+    }
+    
+    function getAddCoordsRaw() {
+      return document.getElementById('street').value + "&" + addingMarker.getLatLng().lat() + "&" + addingMarker.getLatLng().lng();
+    }
+    
+    function over() {
+      document.getElementById('image').src = "images/close_over.png";
+    }
+    function out() {
+      document.getElementById('image').src = "images/close.png";
+    }
+    function closeInfo() {
+      document.getElementById('info').style.visibility = "hidden";
+    }
+    
+    function getUtca() {
+      return utca;
+    }
+
+    </script>
+  </head>
+  <body onload="initialize()" onunload="GUnload()" style = "background-color: #f2efe9; margin:0px;" >
+    <div id="map_canvas" style="width: 800px; height: 600px;"></div>
+  	<div id="info" class = "infodiv">
+  	<img src = "images/close.png" id = "image" onmouseover = "over()" onmouseout = out() onclick = "closeInfo()" 
+      style = "float:right; top:20px; right:20px; width = 20px; height = 20px;"/>
+  	<p>
+  	A koordináta-frissítési üzemmód segítségével a térképen megjelenítheto címek gyarapíthatók.<br/>Használat:<br/>
+  	1. Keresse meg a térképen a kívánt helyet, majd kattintson
+  	a bal egérgombbal!<br/> 
+  	2. A megjeleno ablakba írja be az utca nevét majd kattintson az OK gombra.<br/>Az utcanév tartalmazza a 'tér', 'köz', stb. megjelölést. 
+  	Az egyszeru 'utca' helyes megjelölése: 'u'<br/>Példák: Lapos Lajos tér, jóságpor út, példa u, NAgybetUS u<br/> 
+  	Ha javítani szeretne a pozíción, egyszeruen zárja
+  	be az ablakot és kattintson más helyre a térképen!<br/>
+  	3. Az adatbázis bovítésérol a felbukkanó
+  	ablak fog tájékoztatni. Amennyiben az utcanév szerepel az adatbázisban, a program az értékek frissítésére kérdez.<br/>
+  	Ezután további címek hasonlóan vihetok be. A bevitel az Eszközök menüben a Koordináta-frissítési üzemmódra való újbóli 
+  	kattintással fejezheto be.
+  	</p>
+  	</div>
+  	<p><input class = "dummy" id="hidden" type="button" />
+  	<input class = "dummy" id="loadready" type="button" />
+  	<input class = "dummy" id="klikker" type="button" />
+  	<input class = "dummy" id="inf" type="button" />
+  	<input class = "dummy" id="streetclick" type="button" />
+  	<input class = "dummy" id="distance" type="button" />
+  	</p>
+  </body>
+</html>

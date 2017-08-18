@@ -1,0 +1,23 @@
+!! Hiba : Input string was not in a correct format.
+Trace:   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.UInt16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.UInt16.Parse(String s)
+   at KategóriaDetektor.ConvertProgress.GetData(Int32 num) in E:\Visual Studio Projects\TurmixWeb\KategóriaDetektor\PrintProgress.cs:line 220
+!! Hiba : Input string was not in a correct format.
+Trace:   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.UInt16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.UInt16.Parse(String s)
+   at KategóriaDetektor.ConvertProgress.GetData(Int32 num) in E:\Visual Studio Projects\TurmixWeb\KategóriaDetektor\PrintProgress.cs:line 220
+!! Hiba : Input string was not in a correct format.
+Trace:   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.UInt16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.UInt16.Parse(String s)
+   at KategóriaDetektor.ConvertProgress.GetData(Int32 num) in E:\Visual Studio Projects\TurmixWeb\KategóriaDetektor\PrintProgress.cs:line 220
+!! Hiba : Input string was not in a correct format.
+Trace:   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.UInt16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.UInt16.Parse(String

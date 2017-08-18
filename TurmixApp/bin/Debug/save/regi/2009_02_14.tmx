@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapping date="2009.02.14." u1="0" u2="0" u3="0">
+	<auto rendszam="JBE-803" kapacitas="5" elsofuvar="0" delelott="5" delutan="5" ber="54,55">
+		<elsofuvar />
+		<delelott>
+			<fuvar hossz="16,8358350124446">
+				<id>16</id>
+			</fuvar>
+			<fuvar hossz="17,5475501611349">
+				<id>0</id>
+			</fuvar>
+			<fuvar hossz="16,9499393729052">
+				<id>13</id>
+			</fuvar>
+			<fuvar hossz="15,0335435541989">
+				<id>10</id>
+			</fuvar>
+			<fuvar hossz="13,9101512720174">
+				<id>25</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="31,7531008431555">
+				<id>11</id>
+			</fuvar>
+			<fuvar hossz="18,9273790243465">
+				<id>12</id>
+			</fuvar>
+			<fuvar hossz="19,0569670615274">
+				<id>15</id>
+			</fuvar>
+			<fuvar hossz="22,8728390898945">
+				<id>9</id>
+			</fuvar>
+			<fuvar hossz="18,401114050902">
+				<id>23</id>
+			</fuvar>
+		</delutan>
+	</auto>
+	<auto rendszam="JNS-276" kapacitas="5" elsofuvar="0" delelott="5" delutan="2" ber="54,55">
+		<elsofuvar />
+		<delelott>
+			<fuvar hossz="0">
+				<id>3</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>4</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>17</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>18</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>19</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="0">
+				<id>5</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>21</id>
+			</fuvar>
+		</delutan>
+	</auto>
+	<auto rendszam="KGA-512" kapacitas="5" elsofuvar="0" delelott="6" delutan="5" ber="54,55">
+		<elsofuvar />
+		<delelott>
+			<fuvar hossz="16,1611675077011">
+				<id>8</id>
+			</fuvar>
+			<fuvar hossz="16,1611675077011">
+				<id>24</id>
+			</fuvar>
+			<fuvar hossz="13,0479261058495">
+				<id>26</id>
+			</fuvar>
+			<fuvar hossz="13,5127327483558">
+				<id>20</id>
+			</fuvar>
+			<fuvar hossz="9,95869448319213">
+				<id>27</id>
+			</fuvar>
+			<fuvar hossz="10,2733276277647">
+				<id>1</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="29,6207165486697">
+				<id>2</id>
+			</fuvar>
+			<fuvar hossz="16,4920300612293">
+				<id>7</id>
+			</fuvar>
+			<fuvar hossz="16,4934963842967">
+				<id>14</id>
+			</fuvar>
+			<fuvar hossz="14,9242693322402">
+				<id>6</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>22</id>
+			</fuvar>
+		</delutan>
+	</auto>
+</mapping>

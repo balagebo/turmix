@@ -1,0 +1,429 @@
+﻿<mapping date = "2009.05.29." ><autok><auto rendszam = "IZM-225"  kapacitas = "5"  elsofuvar = "1"  delelott = "6"  delutan = "7"  index = "1"  sofor = "Kathi Imre"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "15"  >
+<cim lat = "47,518207"  lng = "21,66787"  m3 = "4"  tm3 = "2"  nsz = "1"  id = "29"  utca = "TÖRÖK IGNÁC U"  hsz = "     1."  irsz = "4030"  csh = "8"  munka = "456409"  megj = "12ig
+bemehettek a nagy kapun"  /></fordulo>
+<fordulo tav = "22"  >
+<cim lat = "47,531563"  lng = "21,694261"  m3 = "5"  tm3 = "10"  nsz = "2"  id = "148"  utca = "KÉKSZŐLŐ U."  hsz = "     9."  irsz = "4033"  csh = "16"  munka = "457118"  megj = "12 ig Sefer Csabáné
+Nőszirom 7.
+2 cső
+20/218 2303"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,520066"  lng = "21,669794"  m3 = "5"  tm3 = "5"  nsz = "2"  id = "101"  utca = "LAHNER U"  hsz = "   131."  irsz = "4034"  csh = "8"  munka = "457029"  megj = "12 ig"  /></fordulo>
+<fordulo tav = "13"  >
+<cim lat = "47,498507"  lng = "21,660183"  m3 = "5"  tm3 = "3"  nsz = "2"  id = "187"  utca = "MÁLNA U"  hsz = "    48."  irsz = "4030"  csh = "24"  munka = "457218"  megj = "8-12ig"  /></fordulo>
+<fordulo tav = "13"  >
+<cim lat = "47,498963"  lng = "21,661739"  m3 = "5"  tm3 = "4"  nsz = "2"  id = "126"  utca = "RIBIZLI U"  hsz = "    26."  irsz = "4030"  csh = "30"  munka = "457074"  megj = "12ig"  /></fordulo>
+<fordulo tav = "11"  >
+<cim lat = "47,499944"  lng = "21,649335"  m3 = "3"  tm3 = "1"  nsz = "2"  id = "113"  utca = "ALMA U"  hsz = "    55."  irsz = "4030"  csh = "16"  munka = "457051"  megj = "12ig
+csak világos legyen  Csak kicsi kocsi mehet mert a nagy már össze törte a kaput."  /></fordulo>
+<fordulo tav = "11"  >
+<cim lat = "47,502292"  lng = "21,650631"  m3 = "5"  tm3 = "5"  nsz = "2"  id = "80"  utca = "DOBVERő U"  hsz = "   4/B."  irsz = "4030"  csh = "10"  munka = "456957"  megj = "12ig"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,501077"  lng = "21,681038"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "50"  utca = "LUCFENYő U"  hsz = "      ."  irsz = "4002"  csh = "8"  munka = "456817"  megj = "12 Lucfenyő u. 14., lucfenyő közepén fehér kerités és kétszintes ház"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,508602"  lng = "21,678403"  m3 = "5"  tm3 = "8"  nsz = "3"  id = "7"  utca = "DIÓSZEGI ÚT"  hsz = "    70."  irsz = "4030"  csh = "10"  munka = "455734"  megj = "csak 12"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,508602"  lng = "21,678403"  m3 = "5"  tm3 = "10"  nsz = "3"  id = "3"  utca = "DIÓSZEGI ÚT"  hsz = "    15."  irsz = "4030"  csh = "10"  munka = "451164"  megj = "1  kocsi"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,525034"  lng = "21,677573"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "91"  utca = "FEHÉRGYARMAT U"  hsz = "    38."  irsz = "4034"  csh = "8"  munka = "457000"  megj = "bm"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,52604"  lng = "21,679774"  m3 = "5"  tm3 = "6"  nsz = "3"  id = "176"  utca = "ÖKÖRITÓ U"  hsz = "     8."  irsz = "4030"  csh = "8"  munka = "457195"  megj = "NINCSENEK OTTHON bemehettek"  /></fordulo>
+<fordulo tav = "8"  >
+<cim lat = "47,531566"  lng = "21,580341"  m3 = "3"  tm3 = "3"  nsz = "3"  id = "44"  utca = "BARCASÁG U"  hsz = "     6."  irsz = "4031"  csh = "25"  munka = "456753"  megj = "12"  /><cim lat = "47,530942"  lng = "21,585583"  m3 = "5"  tm3 = "3"  nsz = "3"  id = "166"  utca = "TEGEZ U"  hsz = "   161."  irsz = "4031"  csh = "50"  munka = "457165"  megj = "12  hátul"  /></fordulo>
+</auto>
+<auto rendszam = "IZM-226"  kapacitas = "5"  elsofuvar = "1"  delelott = "6"  delutan = "7"  index = "5"  sofor = "Molnár Andor"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "8"  >
+<cim lat = "47,530942"  lng = "21,585583"  m3 = "5"  tm3 = "4"  nsz = "1"  id = "85"  utca = "TEGEZ U"  hsz = "    11."  irsz = "4031"  csh = "8"  munka = "456986"  megj = "8 ig"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,519322"  lng = "21,67231"  m3 = "5"  tm3 = "10"  nsz = "2"  id = "159"  utca = "BÁLINT ZOLTÁN U"  hsz = "    41."  irsz = "4034"  csh = "40"  munka = "457142"  megj = "12 ig  minél hamarabb csatornázás"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,519322"  lng = "21,67231"  m3 = "5"  tm3 = "5"  nsz = "2"  id = "149"  utca = "BÁLINT ZOLTÁN U"  hsz = "    54."  irsz = "4034"  csh = "8"  munka = "457120"  megj = "kaput zárjátok vissza"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,520066"  lng = "21,669794"  m3 = "5"  tm3 = "4"  nsz = "2"  id = "163"  utca = "LAHNER U"  hsz = "   1/H."  irsz = "4030"  csh = "20"  munka = "457157"  megj = "szomszéd felől meglehet csinálni   kapu nyitva"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,520066"  lng = "21,669794"  m3 = "3"  tm3 = "3"  nsz = "2"  id = "135"  utca = "LAHNER U"  hsz = "    70."  irsz = "4034"  csh = "8"  munka = "457092"  megj = "12ig beugorhattok ha nincs senki  vigyázzatok  a szennyvizaknát szívjátok amiből egy cső áll ki"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,520066"  lng = "21,669794"  m3 = "5"  tm3 = "4"  nsz = "2"  id = "21"  utca = "LAHNER U"  hsz = "    12."  irsz = "4030"  csh = "40"  munka = "456246"  megj = "12ig"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,548948"  lng = "21,659064"  m3 = "3"  tm3 = "0"  nsz = "2"  id = "131"  utca = "SÁMSONI ÚT"  hsz = "    24."  irsz = "4033"  csh = "20"  munka = "457085"  megj = "12ig"  /></fordulo>
+<fordulo tav = "22"  >
+<cim lat = "47,531563"  lng = "21,694261"  m3 = "5"  tm3 = "10"  nsz = "3"  id = "57"  utca = "KÉKSZŐLŐ U."  hsz = "     9."  irsz = "4033"  csh = "8"  munka = "456865"  megj = "12úró Sándor Gyöngyike utca balkézfelől sárga ház Tel:30/36-87-855 1cső"  /></fordulo>
+<fordulo tav = "22"  >
+<cim lat = "47,531563"  lng = "21,694261"  m3 = "3"  tm3 = "10"  nsz = "3"  id = "110"  utca = "KÉKSZŐLŐ U."  hsz = "     9."  irsz = "4033"  csh = "8"  munka = "457045"  megj = "12 Bordás AnitaSáfrány u. 51.  nincs kerités szürke ház majdnem a traminire esik 1cső  20/2452-566"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,499611"  lng = "21,688896"  m3 = "5"  tm3 = "10"  nsz = "3"  id = "183"  utca = "BICZÓ ISTVÁN KERT"  hsz = "      ."  irsz = "4002"  csh = "8"  munka = "457208"  megj = "12 Vadaskert utcából 1. utca jobbra, 3. ház jobb oldalt, világoszöld ház fehér kerítéssel"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,51166"  lng = "21,671826"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "140"  utca = "KISBÁNYA U"  hsz = "    49."  irsz = "4034"  csh = "32"  munka = "457108"  megj = "bm"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,511655"  lng = "21,664608"  m3 = "5"  tm3 = "10"  nsz = "3"  id = "1"  utca = "OLAJFA U"  hsz = "     4."  irsz = "4030"  csh = "20"  munka = "451114"  megj = "hitgyuli ketkocsi"  /></fordulo>
+<fordulo tav = "9"  >
+<cim lat = "47,535502"  lng = "21,580003"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "83"  utca = "POPRÁD U"  hsz = "     5."  irsz = "4031"  csh = "25"  munka = "456981"  megj = "12"  /></fordulo>
+<fordulo tav = "7"  >
+<cim lat = "47,531161"  lng = "21,591906"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "121"  utca = "GÉZA U"  hsz = "    24."  irsz = "4031"  csh = "8"  munka = "457066"  megj = "kapu nyitva"  /></fordulo>
+</auto>
+<auto rendszam = "JBE-146"  kapacitas = "5"  elsofuvar = "1"  delelott = "6"  delutan = "7"  index = "10"  sofor = "Szentesi Zsolt"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "19"  >
+<cim lat = "47,500538"  lng = "21,685323"  m3 = "5"  tm3 = "3"  nsz = "1"  id = "32"  utca = "BICZÓKERT U"  hsz = "    82."  irsz = "4002"  csh = "16"  munka = "456576"  megj = "8ig"  /></fordulo>
+<fordulo tav = "22"  >
+<cim lat = "47,531563"  lng = "21,694261"  m3 = "5"  tm3 = "10"  nsz = "2"  id = "141"  utca = "KÉKSZŐLŐ U."  hsz = "     9."  irsz = "4033"  csh = "8"  munka = "457110"  megj = "12ig
+Farkas Zoltán
+Diószegin kifelé a Fóliás utcán balra, és a Fóliásból jobbra a negyedik, és balra a második utca piros cseréptetős ház
+1 cső
+30/687 4216"  /></fordulo>
+<fordulo tav = "9"  >
+<cim lat = "47,514885"  lng = "21,640584"  m3 = "5"  tm3 = "3"  nsz = "2"  id = "105"  utca = "HOMOKKERT U"  hsz = "     5."  irsz = "4030"  csh = "40"  munka = "457034"  megj = "12ig"  /></fordulo>
+<fordulo tav = "23"  >
+<cim lat = "47,524548"  lng = "21,702069"  m3 = "5"  tm3 = "10"  nsz = "2"  id = "100"  utca = "BAYK ANDRÁS KERT"  hsz = "      ."  irsz = "4002"  csh = "24"  munka = "457025"  megj = "12 ig  saláta utcán utolsó telek barna kerítés"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,528781"  lng = "21,679944"  m3 = "3"  tm3 = "2"  nsz = "2"  id = "137"  utca = "MÉZES-HEGY U"  hsz = "  31/A."  irsz = "4034"  csh = "8"  munka = "457098"  megj = "12 ig"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,528624"  lng = "21,678717"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "146"  utca = "HEGYKÖZ U"  hsz = "    21."  irsz = "4034"  csh = "8"  munka = "457115"  megj = "12ig"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,520421"  lng = "21,668572"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "127"  utca = "KNÉZICH KÁROLY U"  hsz = "    29."  irsz = "4034"  csh = "8"  munka = "457080"  megj = "12ig minnél hamarabb a csatornázás miatt"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,558667"  lng = "21,657863"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "103"  utca = "GOLYÓ U"  hsz = "    24."  irsz = "4033"  csh = "8"  munka = "457032"  megj = "kapu nyitva"  /></fordulo>
+<fordulo tav = "13"  >
+<cim lat = "47,498507"  lng = "21,660183"  m3 = "3"  tm3 = "0"  nsz = "3"  id = "125"  utca = "MÁLNA U"  hsz = "    32."  irsz = "4030"  csh = "32"  munka = "457071"  megj = "12"  /></fordulo>
+<fordulo tav = "13"  >
+<cim lat = "47,498507"  lng = "21,660183"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "119"  utca = "MÁLNA U"  hsz = "    34."  irsz = "4030"  csh = "30"  munka = "457062"  megj = "12"  /></fordulo>
+<fordulo tav = "10"  >
+<cim lat = "47,494732"  lng = "21,64521"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "30"  utca = "TÜDőS KLÁRA U"  hsz = "    16."  irsz = "4030"  csh = "10"  munka = "456562"  megj = "14"  /></fordulo>
+<fordulo tav = "10"  >
+<cim lat = "47,497733"  lng = "21,647992"  m3 = "3"  tm3 = "0"  nsz = "3"  id = "27"  utca = "BIRSALMA U"  hsz = "  19/B."  irsz = "4030"  csh = "8"  munka = "456287"  megj = "bm"  /></fordulo>
+<fordulo tav = "11"  >
+<cim lat = "47,503169"  lng = "21,652295"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "122"  utca = "KISDOBOS U"  hsz = "    10."  irsz = "4030"  csh = "32"  munka = "457067"  megj = "12 nem bemenni a ház oldalához"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,499408"  lng = "21,67816"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "182"  utca = "CSÁRDA U"  hsz = "    88."  irsz = "4030"  csh = "10"  munka = "457207"  megj = "12"  /></fordulo>
+</auto>
+<auto rendszam = "JBE-803"  kapacitas = "5"  elsofuvar = "1"  delelott = "7"  delutan = "6"  index = "7"  sofor = "Krizsán Sándor"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "18"  >
+<cim lat = "47,555786"  lng = "21,663101"  m3 = "5"  tm3 = "5"  nsz = "1"  id = "12"  utca = "ZOVÁNYI JENő U"  hsz = "   4/B."  irsz = "4033"  csh = "8"  munka = "455995"  megj = "8ig"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,559773"  lng = "21,666979"  m3 = "5"  tm3 = "5"  nsz = "2"  id = "46"  utca = "KAKUKK U"  hsz = "     7."  irsz = "4033"  csh = "20"  munka = "456772"  megj = "kapu nyitva"  /></fordulo>
+<fordulo tav = "22"  >
+<cim lat = "47,531563"  lng = "21,694261"  m3 = "5"  tm3 = "10"  nsz = "2"  id = "130"  utca = "KÉKSZŐLŐ U."  hsz = "     9."  irsz = "4033"  csh = "24"  munka = "457083"  megj = "12 ig Bircze István 30/8222907   3 cső
+Létai ut műut végétől 200m re balra 2 ház kis utcában"  /></fordulo>
+<fordulo tav = "22"  >
+<cim lat = "47,531563"  lng = "21,694261"  m3 = "5"  tm3 = "10"  nsz = "2"  id = "129"  utca = "KÉKSZŐLŐ U."  hsz = "     9."  irsz = "4033"  csh = "24"  munka = "457082"  megj = "12 ig Bircze István 30/8222907   3 cső
+Létai ut műut végétől 200m re balra 2 ház kis utcában"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,524742"  lng = "21,674428"  m3 = "5"  tm3 = "2"  nsz = "2"  id = "74"  utca = "ASZTALOS U"  hsz = "  33/4."  irsz = "4034"  csh = "40"  munka = "456945"  megj = "bm. kapunyítva   33/D alá kell menni
+kaput zárjátok vissza!!!!!!!"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,524742"  lng = "21,674428"  m3 = "5"  tm3 = "5"  nsz = "2"  id = "25"  utca = "ASZTALOS U"  hsz = "    35."  irsz = "4034"  csh = "35"  munka = "456280"  megj = "bm 35/1  alá kell menni
+35/2   Nagy Miklós  20/9981052  26 m cső
+35/1  Miskolci Andrea  70/6164325-  35 m"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,522682"  lng = "21,666043"  m3 = "2"  tm3 = "3"  nsz = "2"  id = "150"  utca = "DÉVAI U"  hsz = "    25."  irsz = "4034"  csh = "24"  munka = "457126"  megj = "12ig  Kerecsen 11 számmal szemben"  /><cim lat = "47,519004"  lng = "21,66408"  m3 = "3"  tm3 = "2"  nsz = "2"  id = "53"  utca = "SOM U"  hsz = "    11."  irsz = "4030"  csh = "30"  munka = "456832"  megj = "12ig"  /></fordulo>
+<fordulo tav = "22"  >
+<cim lat = "47,531563"  lng = "21,694261"  m3 = "3"  tm3 = "10"  nsz = "3"  id = "186"  utca = "KÉKSZŐLŐ U."  hsz = "     9."  irsz = "4033"  csh = "8"  munka = "457216"  megj = "bm Nagy Istvánné  70/3686198  1 cső
+Ezüstmoha végén balra ikerház jobboldal"  /></fordulo>
+<fordulo tav = "22"  >
+<cim lat = "47,531563"  lng = "21,694261"  m3 = "5"  tm3 = "10"  nsz = "3"  id = "158"  utca = "KÉKSZŐLŐ U."  hsz = "     9."  irsz = "4033"  csh = "24"  munka = "457139"  megj = "bemehettek Deák Sándor 20/9451056  3 cső
+Tündérkert 55 sz."  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,514294"  lng = "21,67898"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "114"  utca = "REMÉNY U"  hsz = "    70."  irsz = "4034"  csh = "20"  munka = "457053"  megj = "14"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,524742"  lng = "21,674428"  m3 = "5"  tm3 = "4"  nsz = "3"  id = "60"  utca = "ASZTALOS U"  hsz = "  38/B."  irsz = "4034"  csh = "16"  munka = "456870"  megj = "12 ne áljatok fel a járdára"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,522916"  lng = "21,662042"  m3 = "5"  tm3 = "1"  nsz = "3"  id = "143"  utca = "KERESZTESI U"  hsz = "    79."  irsz = "4034"  csh = "8"  munka = "457112"  megj = "12"  /></fordulo>
+<fordulo tav = "13"  >
+<cim lat = "47,522908"  lng = "21,657694"  m3 = "3"  tm3 = "0"  nsz = "3"  id = "171"  utca = "ÖDÖN U"  hsz = "     3."  irsz = "4034"  csh = "16"  munka = "457179"  megj = "bm."  /></fordulo>
+</auto>
+<auto rendszam = "JBE-804"  kapacitas = "5"  elsofuvar = "1"  delelott = "6"  delutan = "7"  index = "12"  sofor = "Kelemen Zsolt"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "8"  >
+<cim lat = "47,533248"  lng = "21,581847"  m3 = "2"  tm3 = "2"  nsz = "1"  id = "6"  utca = "HARGITA U"  hsz = "    26."  irsz = "4031"  csh = "30"  munka = "455681"  megj = "8ig"  /></fordulo>
+<fordulo tav = "8"  >
+<cim lat = "47,533248"  lng = "21,581847"  m3 = "3"  tm3 = "5"  nsz = "2"  id = "194"  utca = "HARGITA U"  hsz = "    14."  irsz = "4031"  csh = "8"  munka = "457236"  megj = "hanincs senki kapu nyítva"  /></fordulo>
+<fordulo tav = "9"  >
+<cim lat = "47,535502"  lng = "21,580003"  m3 = "5"  tm3 = "5"  nsz = "2"  id = "142"  utca = "POPRÁD U"  hsz = "     3."  irsz = "4031"  csh = "30"  munka = "457111"  megj = "12ig"  /></fordulo>
+<fordulo tav = "6"  >
+<cim lat = "47,526607"  lng = "21,591631"  m3 = "5"  tm3 = "5"  nsz = "2"  id = "96"  utca = "KISHEGYESI ÚT"  hsz = "    95."  irsz = "4031"  csh = "60"  munka = "457020"  megj = "8-12ig üres kocsival ha hátulról tudtok menni akkor nem kell annyi cső szóval korán menjetek"  /></fordulo>
+<fordulo tav = "28"  >
+<cim lat = "47,587069"  lng = "21,691828"  m3 = "3"  tm3 = "3"  nsz = "2"  id = "193"  utca = "DONGÓ U"  hsz = "    36."  irsz = "4002"  csh = "8"  munka = "457232"  megj = "bm"  /></fordulo>
+<fordulo tav = "27"  >
+<cim lat = "47,588147"  lng = "21,686983"  m3 = "5"  tm3 = "10"  nsz = "2"  id = "161"  utca = "SALAKOS U"  hsz = "    10."  irsz = "4002"  csh = "20"  munka = "457146"  megj = "12 ig"  /></fordulo>
+<fordulo tav = "3"  >
+<cim lat = "47,504419"  lng = "21,613167"  m3 = "5"  tm3 = "5"  nsz = "2"  id = "67"  utca = "SZEPESI U"  hsz = "  38/G."  irsz = "4030"  csh = "8"  munka = "456911"  megj = "8-12ig minél hamarabb  !!"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,556904"  lng = "21,666312"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "181"  utca = "KőRÖSI CSOMA U"  hsz = "    24."  irsz = "4033"  csh = "24"  munka = "457206"  megj = "12"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,556904"  lng = "21,666312"  m3 = "3"  tm3 = "3"  nsz = "3"  id = "174"  utca = "KőRÖSI CSOMA U"  hsz = "  40/B."  irsz = "4033"  csh = "8"  munka = "457189"  megj = "12   minnél hamarabb!!!  40/a alá kell menni
+Kizárólag AVIA mehet, mert szűk szolgalmi út. !!!!!"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,557565"  lng = "21,665829"  m3 = "5"  tm3 = "3"  nsz = "3"  id = "118"  utca = "VÁLYI NAGY TIBOR U"  hsz = "    14."  irsz = "4033"  csh = "8"  munka = "457058"  megj = "bm, beugorhatsz"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,485722"  lng = "21,664792"  m3 = "3"  tm3 = "2"  nsz = "3"  id = "153"  utca = "GERLE U"  hsz = "     3."  irsz = "4002"  csh = "8"  munka = "457131"  megj = "12"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,488388"  lng = "21,662867"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "152"  utca = "SARKAD U"  hsz = "    15."  irsz = "4030"  csh = "16"  munka = "457129"  megj = "bm bemehettek  A térkő miatt nem lehet beállni!!!"  /></fordulo>
+<fordulo tav = "13"  >
+<cim lat = "47,489908"  lng = "21,661483"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "51"  utca = "LENCZ U"  hsz = "    50."  irsz = "4030"  csh = "8"  munka = "456824"  megj = "12 nyitva a kapu"  /></fordulo>
+<fordulo tav = "13"  >
+<cim lat = "47,494442"  lng = "21,659254"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "155"  utca = "KORCSOLYÁS U"  hsz = "     5."  irsz = "4030"  csh = "10"  munka = "457134"  megj = "kerités nincs ikerház vakolt része"  /></fordulo>
+</auto>
+<auto rendszam = "JNS-276"  kapacitas = "5"  elsofuvar = "0"  delelott = "11"  delutan = "15"  index = "6"  sofor = "Losonczy  Tamás"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "0"  >
+<cim lat = "47,605542"  lng = "21,584735"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "8"  utca = "OKTÓBER 6. U"  hsz = "      ."  irsz = "4225"  csh = "10"  munka = "455915"  megj = "bm. 54 szám alá kell menni"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,606761"  lng = "21,603017"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "10"  utca = "ERDőHÁT U"  hsz = "   2/3."  irsz = "4225"  csh = "20"  munka = "455975"  megj = "bm"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,604964"  lng = "21,57721"  m3 = "3"  tm3 = "0"  nsz = "2"  id = "11"  utca = "TÓCÓS U"  hsz = "    67."  irsz = "4225"  csh = "8"  munka = "455985"  megj = "bm. kiskapu nyitva bemehettek"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,605124"  lng = "21,59618"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "13"  utca = "NAGYSZENTGYÖRGY U"  hsz = "     7."  irsz = "4225"  csh = "24"  munka = "456017"  megj = "12 ig"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,599377"  lng = "21,593187"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "16"  utca = "ÓISKOLA U"  hsz = "    29."  irsz = "4225"  csh = "32"  munka = "456187"  megj = "9-12 ig"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,606761"  lng = "21,603017"  m3 = "3"  tm3 = "0"  nsz = "2"  id = "20"  utca = "ERDőHÁT U"  hsz = "    27."  irsz = "4225"  csh = "24"  munka = "456234"  megj = "12ig kaput segíteni bezárni!!!!!!!"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,593029"  lng = "21,546744"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "22"  utca = "ELEK U"  hsz = "   200."  irsz = "4225"  csh = "8"  munka = "456257"  megj = "12ig"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,598797"  lng = "21,582615"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "37"  utca = "UNOKAKERT U"  hsz = "    12."  irsz = "4225"  csh = "32"  munka = "456621"  megj = "12 ig"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,606761"  lng = "21,603017"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "62"  utca = "ERDőHÁT U"  hsz = "  55/A."  irsz = "4225"  csh = "10"  munka = "456881"  megj = "12ig!!!  2 kanyar 30m cső kell nem tudsz közel állni 2szer 5 kbm kocsi kell"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,606761"  lng = "21,603017"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "63"  utca = "ERDőHÁT U"  hsz = "  55/A."  irsz = "4225"  csh = "10"  munka = "456882"  megj = "12ig!!!  2 kanyar 30m cső kell nem tudsz közel állni 2szer 5 kbm kocsi kell"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,607568"  lng = "21,58692"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "76"  utca = "MIHÁLYLAKI U"  hsz = "     8."  irsz = "4225"  csh = "16"  munka = "456950"  megj = "12IG  KAPU NYITVA"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,602842"  lng = "21,603796"  m3 = "4"  tm3 = "0"  nsz = "3"  id = "9"  utca = "ZSINDELY U"  hsz = "    15."  irsz = "4225"  csh = "32"  munka = "455934"  megj = "14"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,606354"  lng = "21,578085"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "17"  utca = "CSONKATORONY U"  hsz = "  36/A."  irsz = "4225"  csh = "10"  munka = "456224"  megj = "12 két kocsi"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,606354"  lng = "21,578085"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "18"  utca = "CSONKATORONY U"  hsz = "  36/A."  irsz = "4225"  csh = "10"  munka = "456225"  megj = "12 két kocsi"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,594953"  lng = "21,546551"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "19"  utca = "RÓZSAVÖLGY U"  hsz = " 193/A."  irsz = "4225"  csh = "8"  munka = "456232"  megj = "14 DUDÁLJ!!!!"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,604937"  lng = "21,585214"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "24"  utca = "SÍNTELEP U"  hsz = "    10."  irsz = "4225"  csh = "8"  munka = "456271"  megj = "12ig síntelep 10 alá"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,606929"  lng = "21,589234"  m3 = "2"  tm3 = "0"  nsz = "3"  id = "28"  utca = "BODAI U"  hsz = "    36."  irsz = "4225"  csh = "8"  munka = "456380"  megj = "bm"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,605124"  lng = "21,59618"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "31"  utca = "NAGYSZENTGYÖRGY U"  hsz = "    24."  irsz = "4225"  csh = "16"  munka = "456563"  megj = "bm, bemehettek"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,606013"  lng = "21,586321"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "38"  utca = "TELEK U"  hsz = "    12."  irsz = "4225"  csh = "10"  munka = "456628"  megj = "14"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,609114"  lng = "21,608219"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "48"  utca = "HATHÁZ U"  hsz = "    78."  irsz = "4225"  csh = "8"  munka = "456807"  megj = "bm. ha nincs senki kapu nyitva lesz0"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,604964"  lng = "21,57721"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "64"  utca = "TÓCÓS U"  hsz = "    47."  irsz = "4225"  csh = "35"  munka = "456883"  megj = "12"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,605547"  lng = "21,594474"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "70"  utca = "KISERDő U"  hsz = "    40."  irsz = "4225"  csh = "16"  munka = "456928"  megj = "12"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,606013"  lng = "21,586321"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "72"  utca = "TELEK U"  hsz = "    22."  irsz = "4225"  csh = "16"  munka = "456930"  megj = "12"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,608006"  lng = "21,584722"  m3 = "5"  tm3 = "10"  nsz = "3"  id = "73"  utca = "KERTEKALJA U"  hsz = "    44."  irsz = "4225"  csh = "10"  munka = "456944"  megj = "12"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,594953"  lng = "21,546551"  m3 = "5"  tm3 = "10"  nsz = "3"  id = "81"  utca = "RÓZSAVÖLGY U"  hsz = "   190."  irsz = "4225"  csh = "10"  munka = "456964"  megj = "12"  /></fordulo>
+<fordulo tav = "0"  >
+<cim lat = "47,606929"  lng = "21,589234"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "99"  utca = "BODAI U"  hsz = "    28."  irsz = "4225"  csh = "30"  munka = "457024"  megj = "12"  /></fordulo>
+</auto>
+<auto rendszam = "KDD-542"  kapacitas = "5"  elsofuvar = "1"  delelott = "7"  delutan = "6"  index = "9"  sofor = "Szentesi János"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "20"  >
+<cim lat = "47,500387"  lng = "21,690318"  m3 = "5"  tm3 = "2"  nsz = "1"  id = "49"  utca = "ÜDEKERT U"  hsz = "     7."  irsz = "4002"  csh = "8"  munka = "456811"  megj = "8ig"  /></fordulo>
+<fordulo tav = "20"  >
+<cim lat = "47,499436"  lng = "21,689819"  m3 = "5"  tm3 = "6"  nsz = "2"  id = "124"  utca = "FÉSZEK U"  hsz = "    18."  irsz = "4002"  csh = "24"  munka = "457069"  megj = "12 ig"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,496218"  lng = "21,686847"  m3 = "5"  tm3 = "3"  nsz = "2"  id = "138"  utca = "SIKLÓ U"  hsz = "  18/A."  irsz = "4030"  csh = "25"  munka = "457102"  megj = "12 ig"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,499611"  lng = "21,688896"  m3 = "5"  tm3 = "10"  nsz = "2"  id = "68"  utca = "BICZÓ ISTVÁN KERT"  hsz = "      ."  irsz = "4002"  csh = "32"  munka = "456920"  megj = "12ig  monostorpályin a 143nál Naspolya utca ,azon a kishídig elmenni, Kiserdő utcán a harmadik ház"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,49277"  lng = "21,687833"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "84"  utca = "HULLÁM U"  hsz = "    16."  irsz = "4002"  csh = "16"  munka = "456985"  megj = "12ig"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,481378"  lng = "21,683736"  m3 = "3"  tm3 = "0"  nsz = "2"  id = "111"  utca = "MÓRABÓRA U"  hsz = "    22."  irsz = "4030"  csh = "16"  munka = "457046"  megj = "11ig Monstorpályi úton,a Db. táblánál balra ,ebből az  első dűlő balra,és a harmadik ház móra -bóra 22"  /></fordulo>
+<fordulo tav = "2"  >
+<cim lat = "47,503428"  lng = "21,611404"  m3 = "5"  tm3 = "5"  nsz = "2"  id = "93"  utca = "TÉGLÁSKERT U"  hsz = "    81."  irsz = "4030"  csh = "32"  munka = "457008"  megj = "12ig"  /></fordulo>
+<fordulo tav = "3"  >
+<cim lat = "47,503965"  lng = "21,614948"  m3 = "5"  tm3 = "4"  nsz = "2"  id = "43"  utca = "KANÁLIS U"  hsz = "    85."  irsz = "4030"  csh = "40"  munka = "456746"  megj = "9-13 ig"  /></fordulo>
+<fordulo tav = "20"  >
+<cim lat = "47,559541"  lng = "21,669143"  m3 = "5"  tm3 = "4"  nsz = "3"  id = "128"  utca = "VASTORONY U"  hsz = "    20."  irsz = "4033"  csh = "20"  munka = "457081"  megj = "bm 22 alá kell menni."  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,555786"  lng = "21,663101"  m3 = "3"  tm3 = "0"  nsz = "3"  id = "15"  utca = "ZOVÁNYI JENő U"  hsz = "   1/A."  irsz = "4033"  csh = "8"  munka = "456176"  megj = "12"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,526549"  lng = "21,669197"  m3 = "5"  tm3 = "4"  nsz = "3"  id = "61"  utca = "GÁSPÁR ENDRE U"  hsz = "     7."  irsz = "4034"  csh = "24"  munka = "456876"  megj = "12"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,529023"  lng = "21,671091"  m3 = "4"  tm3 = "4"  nsz = "3"  id = "47"  utca = "PORTÖRő U"  hsz = "      ."  irsz = "4034"  csh = "8"  munka = "456797"  megj = "kapu nyitva  utca legvégén balra kisutca végén nádkerítéses ikerház baloldala ha szemben állunk juhos név ki van írva"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,528639"  lng = "21,661267"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "106"  utca = "BÍBIC U"  hsz = "    18."  irsz = "4034"  csh = "16"  munka = "457039"  megj = "12"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,528639"  lng = "21,661267"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "54"  utca = "BÍBIC U"  hsz = "    14."  irsz = "4034"  csh = "8"  munka = "456840"  megj = "14 után  Bibic u 14/ b Rezeda felől"  /></fordulo>
+</auto>
+<auto rendszam = "KGA-512"  kapacitas = "5"  elsofuvar = "2"  delelott = "6"  delutan = "6"  index = "11"  sofor = "Sápi Lajos"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "13"  >
+<cim lat = "47,493508"  lng = "21,660074"  m3 = "5"  tm3 = "5"  nsz = "1"  id = "35"  utca = "SZEGED U"  hsz = "    38."  irsz = "4030"  csh = "16"  munka = "456608"  megj = "8ig"  /></fordulo>
+<fordulo tav = "12"  >
+<cim lat = "47,502072"  lng = "21,657522"  m3 = "5"  tm3 = "0"  nsz = "1"  id = "41"  utca = "PAPRIKA U"  hsz = "    29."  irsz = "4030"  csh = "30"  munka = "456722"  megj = "8 ig"  /></fordulo>
+<fordulo tav = "22"  >
+<cim lat = "47,531563"  lng = "21,694261"  m3 = "2"  tm3 = "10"  nsz = "2"  id = "156"  utca = "KÉKSZŐLŐ U."  hsz = "     9."  irsz = "4033"  csh = "16"  munka = "457135"  megj = "12ig Szabó Márton Felsőpércsi 58.  2cső
+30/581-0135"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,492112"  lng = "21,664002"  m3 = "5"  tm3 = "3"  nsz = "2"  id = "33"  utca = "KISTELEK U"  hsz = "    12."  irsz = "4030"  csh = "8"  munka = "456586"  megj = "12 ig"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,49558"  lng = "21,66484"  m3 = "5"  tm3 = "4"  nsz = "2"  id = "56"  utca = "VENYIGE U"  hsz = "    17."  irsz = "4030"  csh = "8"  munka = "456854"  megj = "12ig"  /></fordulo>
+<fordulo tav = "13"  >
+<cim lat = "47,498426"  lng = "21,659032"  m3 = "5"  tm3 = "5"  nsz = "2"  id = "75"  utca = "MUSKOTÁLY U"  hsz = "    24."  irsz = "4030"  csh = "16"  munka = "456949"  megj = "12IG"  /></fordulo>
+<fordulo tav = "8"  >
+<cim lat = "47,508487"  lng = "21,637829"  m3 = "5"  tm3 = "3"  nsz = "2"  id = "165"  utca = "LOMNIC U"  hsz = "    12."  irsz = "4030"  csh = "8"  munka = "457160"  megj = "12ig"  /></fordulo>
+<fordulo tav = "6"  >
+<cim lat = "47,510003"  lng = "21,627435"  m3 = "5"  tm3 = "0"  nsz = "2"  id = "69"  utca = "EPRESKERT U"  hsz = "    17."  irsz = "4030"  csh = "24"  munka = "456926"  megj = "12ig"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,55454"  lng = "21,659839"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "98"  utca = "KARD U"  hsz = "    74."  irsz = "4033"  csh = "36"  munka = "457023"  megj = "12 kapu nyitva"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,555"  lng = "21,661178"  m3 = "5"  tm3 = "4"  nsz = "3"  id = "173"  utca = "BORHÁZ U"  hsz = "    22."  irsz = "4033"  csh = "24"  munka = "457188"  megj = "10-16 ig"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,519322"  lng = "21,67231"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "87"  utca = "BÁLINT ZOLTÁN U"  hsz = "    46."  irsz = "4034"  csh = "16"  munka = "456995"  megj = "barmikos keritésen keresztül van egy lyuk"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,520066"  lng = "21,669794"  m3 = "5"  tm3 = "3"  nsz = "3"  id = "23"  utca = "LAHNER U"  hsz = "    85."  irsz = "4034"  csh = "8"  munka = "456262"  megj = "14 ikerház bal oldali része"  /><cim lat = "47,522178"  lng = "21,668379"  m3 = "3"  tm3 = "2"  nsz = "3"  id = "139"  utca = "VADLIBA U"  hsz = "    24."  irsz = "4034"  csh = "20"  munka = "457104"  megj = "14"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,522682"  lng = "21,666043"  m3 = "5"  tm3 = "0"  nsz = "3"  id = "107"  utca = "DÉVAI U"  hsz = "    44."  irsz = "4034"  csh = "8"  munka = "457040"  megj = "14-18"  /></fordulo>
+</auto>
+<auto rendszam = "JSZ-683"  kapacitas = "10"  elsofuvar = "0"  delelott = "6"  delutan = "7"  index = "4"  sofor = "Erdei András"  seged = "Heveli Imre"  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "30"  >
+<cim lat = "47,474192"  lng = "21,732239"  m3 = "10"  tm3 = "5"  nsz = "2"  id = "5"  utca = "BÜKK U"  hsz = "     1."  irsz = "4079"  csh = "10"  munka = "451252"  megj = "munkarend változás miatt a szállítást 7-11 ig elkell végezni   egy nagy kocsi megy"  /></fordulo>
+<fordulo tav = "11"  >
+<cim lat = "47,530167"  lng = "21,643842"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "123"  utca = "UNGVÁRIKERT U"  hsz = "     4."  irsz = "4034"  csh = "30"  munka = "457068"  megj = "12 ig Térburkolatra nem lehet ráállni ! ! !"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,524742"  lng = "21,674428"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "104"  utca = "ASZTALOS U"  hsz = "  44/1."  irsz = "4034"  csh = "10"  munka = "457033"  megj = "12ig kapu nyitva lesz.bemehettek"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,52328"  lng = "21,664879"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "88"  utca = "SZÉP U"  hsz = "    39."  irsz = "4034"  csh = "50"  munka = "456996"  megj = "12ig"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,524492"  lng = "21,663747"  m3 = "10"  tm3 = "6"  nsz = "2"  id = "185"  utca = "ÚJ U"  hsz = "  35/A."  irsz = "4034"  csh = "10"  munka = "457213"  megj = "12ig"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,520421"  lng = "21,668572"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "94"  utca = "KNÉZICH KÁROLY U"  hsz = "    59."  irsz = "4034"  csh = "30"  munka = "457014"  megj = "12ig"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,559773"  lng = "21,666979"  m3 = "10"  tm3 = "8"  nsz = "3"  id = "71"  utca = "KAKUKK U"  hsz = "     4."  irsz = "4033"  csh = "10"  munka = "456929"  megj = "12  ha nincs senki bemehettek"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,556904"  lng = "21,666312"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "170"  utca = "KőRÖSI CSOMA U"  hsz = "  54/B."  irsz = "4033"  csh = "10"  munka = "457173"  megj = "bm 54/B alá kell menni. Egy kék színű  ház."  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,52883"  lng = "21,675866"  m3 = "10"  tm3 = "7"  nsz = "3"  id = "169"  utca = "SZÉLSő U"  hsz = "  28/A."  irsz = "4034"  csh = "30"  munka = "457171"  megj = "12"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,526549"  lng = "21,669197"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "109"  utca = "GÁSPÁR ENDRE U"  hsz = "    13."  irsz = "4034"  csh = "20"  munka = "457044"  megj = "12"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,52228"  lng = "21,677303"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "4"  utca = "NAGYECSED U"  hsz = "    20."  irsz = "4030"  csh = "10"  munka = "451169"  megj = "bm. bolt mellé kell menni"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,520421"  lng = "21,668572"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "133"  utca = "KNÉZICH KÁROLY U"  hsz = "    18."  irsz = "4034"  csh = "8"  munka = "457089"  megj = "bm"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,511655"  lng = "21,664608"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "0"  utca = "OLAJFA U"  hsz = "     4."  irsz = "4030"  csh = "20"  munka = "451113"  megj = "hitgyuli ketkocsi"  /></fordulo>
+</auto>
+<auto rendszam = "KOB-968"  kapacitas = "10"  elsofuvar = "1"  delelott = "5"  delutan = "7"  index = "0"  sofor = "Tompa László"  seged = "Bakó Gyula"  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "9"  >
+<cim lat = "47,540612"  lng = "21,600106"  m3 = "10"  tm3 = "0"  nsz = "1"  id = "26"  utca = "OND U"  hsz = "   1/A."  irsz = "4031"  csh = "10"  munka = "456282"  megj = "8ig"  /></fordulo>
+<fordulo tav = "26"  >
+<cim lat = "47,584012"  lng = "21,684669"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "147"  utca = "APAFA"  hsz = "      ."  irsz = "4002"  csh = "20"  munka = "457117"  megj = "12ig Erdőmellék u.
+Sámsoni uton kifele dombos tanyai tábla u. balra piros posta láda  után balra beton uthoz 400m mogyoró szinű ház Erdőmellék utca
+Tetőteres erkélyes és a keritéstől kb 30m-re van a lakás tehát egész benn"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,550882"  lng = "21,657355"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "82"  utca = "GYALOG U"  hsz = "    17."  irsz = "4033"  csh = "10"  munka = "456976"  megj = "8-12ig"  /></fordulo>
+<fordulo tav = "9"  >
+<cim lat = "47,540612"  lng = "21,600106"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "65"  utca = "OND U"  hsz = "  12/B."  irsz = "4031"  csh = "30"  munka = "456893"  megj = "8-12ig"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,517671"  lng = "21,666932"  m3 = "10"  tm3 = "8"  nsz = "2"  id = "132"  utca = "SCHWEIDEL JOZSEF U"  hsz = "     6."  irsz = "4030"  csh = "10"  munka = "457087"  megj = "12ig"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,517281"  lng = "21,662392"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "160"  utca = "KOSÁRFONÓ U"  hsz = "    41."  irsz = "4030"  csh = "50"  munka = "457145"  megj = "12ig"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,558667"  lng = "21,657863"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "180"  utca = "GOLYÓ U"  hsz = "    44."  irsz = "4033"  csh = "20"  munka = "457205"  megj = "12"  /></fordulo>
+<fordulo tav = "23"  >
+<cim lat = "47,524548"  lng = "21,702069"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "162"  utca = "BAYK ANDRÁS KERT"  hsz = "    35."  irsz = "4002"  csh = "20"  munka = "457147"  megj = "14
+, Serli kanyarral szemen (Balra) lévő föld úton 200 mre jobbra egy drótkerítéses világos kőporos ház fa lambériával.  zöld lambéria"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,522943"  lng = "21,673235"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "189"  utca = "LÉTAI ÚT"  hsz = "   134."  irsz = "4034"  csh = "10"  munka = "457220"  megj = "12"  /></fordulo>
+<fordulo tav = "17"  >
+<cim lat = "47,522943"  lng = "21,673235"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "2"  utca = "LÉTAI ÚT"  hsz = "      ."  irsz = "4034"  csh = "10"  munka = "451143"  megj = "megkell kérdezni , hogy melyik akna ? KINIZSI NYOMDA
+Hétfőtől  csütörtökig:8-15:30-ig
+Péntek:8-14-ig
+ÜRES KOCSIVAL KELL MENNI!!!"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,518254"  lng = "21,670228"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "66"  utca = "JÁMBOR LAJOS U"  hsz = "   112."  irsz = "4034"  csh = "10"  munka = "456909"  megj = "bm    A kerítésre és az udvarra VIGYÁZNI ne kenjétek össze!!!   ÜRES KOCSIVAL MENNI!!!!!"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,520066"  lng = "21,669794"  m3 = "10"  tm3 = "2"  nsz = "3"  id = "90"  utca = "LAHNER U"  hsz = "    33."  irsz = "4030"  csh = "10"  munka = "456999"  megj = "13"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,520066"  lng = "21,669794"  m3 = "10"  tm3 = "8"  nsz = "3"  id = "89"  utca = "LAHNER U"  hsz = "    31."  irsz = "4030"  csh = "10"  munka = "456998"  megj = "13"  /></fordulo>
+</auto>
+<auto rendszam = "KHK-583"  kapacitas = "12"  elsofuvar = "1"  delelott = "6"  delutan = "8"  index = "13"  sofor = "Hegedűs Mihály"  seged = "Iván Sándor"  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "12"  >
+<cim lat = "47,502072"  lng = "21,657522"  m3 = "10"  tm3 = "0"  nsz = "1"  id = "14"  utca = "PAPRIKA U"  hsz = "     8."  irsz = "4030"  csh = "36"  munka = "456106"  megj = "8ig"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,491712"  lng = "21,668442"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "34"  utca = "BÉKÉSCSABA U"  hsz = "    14."  irsz = "4030"  csh = "10"  munka = "456606"  megj = "12ig"  /></fordulo>
+<fordulo tav = "12"  >
+<cim lat = "47,502406"  lng = "21,657867"  m3 = "10"  tm3 = "4"  nsz = "2"  id = "108"  utca = "MONOSTORPÁLYI ÚT"  hsz = "   237."  irsz = "4030"  csh = "10"  munka = "457041"  megj = "12ig"  /></fordulo>
+<fordulo tav = "32"  >
+<cim lat = "47,57976"  lng = "21,479086"  m3 = "10"  tm3 = "5"  nsz = "2"  id = "136"  utca = "KASTÉLYKERT U"  hsz = "    23."  irsz = "4063"  csh = "10"  munka = "457094"  megj = "12ig két  kocsi megy"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,554025"  lng = "21,540142"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "184"  utca = "NAPRAFORGÓ U"  hsz = "    59."  irsz = "4063"  csh = "24"  munka = "457210"  megj = "8-12"  /></fordulo>
+<fordulo tav = "27"  >
+<cim lat = "47,537104"  lng = "21,487506"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "164"  utca = "KÖR U"  hsz = "    24."  irsz = "4063"  csh = "40"  munka = "457159"  megj = "bm, bemehettek és a postaládába kell rakni a papírt"  /></fordulo>
+<fordulo tav = "10"  >
+<cim lat = "47,535657"  lng = "21,572221"  m3 = "10"  tm3 = "7"  nsz = "2"  id = "77"  utca = "HARSONA U"  hsz = "    28."  irsz = "4031"  csh = "10"  munka = "456951"  megj = "12 ig ÜRESEN MENJETEK"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,486949"  lng = "21,667469"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "192"  utca = "KUVIK U"  hsz = "    59."  irsz = "4002"  csh = "10"  munka = "457230"  megj = "bm  két akna van, nyitva a  sarki telek hátsókapu 59/a alá kell menni  bemehetnek"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,490914"  lng = "21,662725"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "190"  utca = "GYOMA U"  hsz = "    14."  irsz = "4030"  csh = "10"  munka = "457225"  megj = "14"  /></fordulo>
+<fordulo tav = "13"  >
+<cim lat = "47,493508"  lng = "21,660074"  m3 = "10"  tm3 = "6"  nsz = "3"  id = "144"  utca = "SZEGED U"  hsz = "     8."  irsz = "4030"  csh = "30"  munka = "457113"  megj = "12"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,498194"  lng = "21,66423"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "172"  utca = "KÖSZMÉTE U"  hsz = "    18."  irsz = "4030"  csh = "10"  munka = "457187"  megj = "12"  /></fordulo>
+<fordulo tav = "12"  >
+<cim lat = "47,499528"  lng = "21,657737"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "157"  utca = "MAROKSZEDő U"  hsz = "    20."  irsz = "4030"  csh = "10"  munka = "457136"  megj = "12"  /></fordulo>
+<fordulo tav = "12"  >
+<cim lat = "47,502406"  lng = "21,657867"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "92"  utca = "MONOSTORPÁLYI ÚT"  hsz = "    89."  irsz = "4030"  csh = "20"  munka = "457004"  megj = "bemehetsz de kutya van mostmár de nem nagyon hamis :-), Málna utca felől van az akna."  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,492643"  lng = "21,662562"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "95"  utca = "MAKÓ U"  hsz = "    10."  irsz = "4030"  csh = "16"  munka = "457019"  megj = "14:30"  /><cim lat = "47,496186"  lng = "21,660559"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "55"  utca = "CSUTORÁS U"  hsz = "     7."  irsz = "4030"  csh = "16"  munka = "456844"  megj = "12"  /></fordulo>
+</auto>
+<auto rendszam = "JLZ-679"  kapacitas = "15"  elsofuvar = "2"  delelott = "6"  delutan = "8"  index = "2"  sofor = "Szabó Bálint"  seged = "Barta Jenő"  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "14"  >
+<cim lat = "47,517849"  lng = "21,663007"  m3 = "5"  tm3 = "4"  nsz = "1"  id = "42"  utca = "BIHARI U"  hsz = "    61."  irsz = "4034"  csh = "8"  munka = "456730"  megj = "8ig"  /><cim lat = "47,517849"  lng = "21,663007"  m3 = "10"  tm3 = "8"  nsz = "1"  id = "45"  utca = "BIHARI U"  hsz = "  59/B."  irsz = "4034"  csh = "10"  munka = "456757"  megj = "8 ig   ha nincs senki44 szám alá szóljatok be .  minél hamarabb annál nagyobb a KV !  (tea )"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,519322"  lng = "21,67231"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "134"  utca = "BÁLINT ZOLTÁN U"  hsz = "     7."  irsz = "4034"  csh = "40"  munka = "457090"  megj = "minél hamarabb  bemehettek De a díszkőre ne álljatok rá KAPUT BECSUKNI!!!!"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,520066"  lng = "21,669794"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "59"  utca = "LAHNER U"  hsz = "   134."  irsz = "4034"  csh = "10"  munka = "456868"  megj = "12 ig"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,520066"  lng = "21,669794"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "58"  utca = "LAHNER U"  hsz = "   134."  irsz = "4034"  csh = "30"  munka = "456867"  megj = "12 ig"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,519322"  lng = "21,67231"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "112"  utca = "BÁLINT ZOLTÁN U"  hsz = "    62."  irsz = "4034"  csh = "10"  munka = "457048"  megj = "12ig"  /></fordulo>
+<fordulo tav = "19"  >
+<cim lat = "47,529236"  lng = "21,681532"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "168"  utca = "KÉRÉSZ U"  hsz = "     5."  irsz = "4034"  csh = "30"  munka = "457169"  megj = "12ig minnél hamarabbbbbbb"  /></fordulo>
+<fordulo tav = "18"  >
+<cim lat = "47,52883"  lng = "21,675866"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "97"  utca = "SZÉLSő U"  hsz = "  36/B."  irsz = "4034"  csh = "30"  munka = "457022"  megj = "12ig"  /></fordulo>
+<fordulo tav = "32"  >
+<cim lat = "47,580863"  lng = "21,483294"  m3 = "10"  tm3 = "7"  nsz = "3"  id = "191"  utca = "DOHÁNYOS U"  hsz = "     3."  irsz = "4063"  csh = "30"  munka = "457229"  megj = "12"  /></fordulo>
+<fordulo tav = "33"  >
+<cim lat = "47,578286"  lng = "21,476348"  m3 = "10"  tm3 = "2"  nsz = "3"  id = "179"  utca = "PARK U"  hsz = "     5."  irsz = "4063"  csh = "10"  munka = "457203"  megj = "12"  /></fordulo>
+<fordulo tav = "26"  >
+<cim lat = "47,534546"  lng = "21,490013"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "177"  utca = "KÖLES U"  hsz = "  11/A."  irsz = "4002"  csh = "20"  munka = "457199"  megj = "12 11/b alá kell menni"  /></fordulo>
+<fordulo tav = "4"  >
+<cim lat = "47,51509"  lng = "21,610477"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "39"  utca = "LEGÁNYI U"  hsz = "  25/C."  irsz = "4031"  csh = "10"  munka = "456693"  megj = "kiskapu nyitva"  /></fordulo>
+<fordulo tav = "2"  >
+<cim lat = "47,505773"  lng = "21,608431"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "78"  utca = "KISMARJA U"  hsz = "     2."  irsz = "4030"  csh = "40"  munka = "456955"  megj = "12 után két kocsi megy"  /><cim lat = "47,505773"  lng = "21,608431"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "79"  utca = "KISMARJA U"  hsz = "     2."  irsz = "4030"  csh = "40"  munka = "456956"  megj = "12 után két kocsi megy"  /></fordulo>
+<fordulo tav = "3"  >
+<cim lat = "47,504419"  lng = "21,613167"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "151"  utca = "SZEPESI U"  hsz = " 127/A."  irsz = "4030"  csh = "8"  munka = "457127"  megj = "12"  /><cim lat = "47,50196"  lng = "21,61057"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "120"  utca = "CSORDÁS FERENC U"  hsz = "    15."  irsz = "4030"  csh = "30"  munka = "457063"  megj = "bm. kapu nyitva bemehettek"  /></fordulo>
+</auto>
+<auto rendszam = "KPY-372"  kapacitas = "15"  elsofuvar = "1"  delelott = "6"  delutan = "7"  index = "14"  sofor = "Varga Róbert"  seged = ""  lizing = "0"  uzemanyag = "0" >
+<fordulo tav = "6"  >
+<cim lat = "47,529302"  lng = "21,593724"  m3 = "10"  tm3 = "0"  nsz = "1"  id = "36"  utca = "KÖTELES U"  hsz = "     8."  irsz = "4031"  csh = "10"  munka = "456610"  megj = "8ig"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,49385"  lng = "21,669716"  m3 = "10"  tm3 = "7"  nsz = "2"  id = "154"  utca = "CSONGRÁD U"  hsz = "  11/C."  irsz = "4030"  csh = "10"  munka = "457133"  megj = "bemehettek  a sorházak közül az utolsónál van az akna azt kell szippantani"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,49385"  lng = "21,669716"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "117"  utca = "CSONGRÁD U"  hsz = "    16."  irsz = "4030"  csh = "10"  munka = "457057"  megj = "bm    három kocsi megy"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,49385"  lng = "21,669716"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "116"  utca = "CSONGRÁD U"  hsz = "    16."  irsz = "4030"  csh = "10"  munka = "457056"  megj = "bm    három kocsi megy"  /></fordulo>
+<fordulo tav = "15"  >
+<cim lat = "47,49385"  lng = "21,669716"  m3 = "10"  tm3 = "10"  nsz = "2"  id = "115"  utca = "CSONGRÁD U"  hsz = "    16."  irsz = "4030"  csh = "10"  munka = "457055"  megj = "bm    három kocsi megy"  /></fordulo>
+<fordulo tav = "16"  >
+<cim lat = "47,494098"  lng = "21,672133"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "145"  utca = "KÉKSZILVA U"  hsz = "     2."  irsz = "4030"  csh = "20"  munka = "457114"  megj = "12ig"  /></fordulo>
+<fordulo tav = "14"  >
+<cim lat = "47,517849"  lng = "21,663007"  m3 = "10"  tm3 = "0"  nsz = "2"  id = "86"  utca = "BIHARI U"  hsz = "     7."  irsz = "4034"  csh = "10"  munka = "456994"  megj = "8-16ig Isofém kft"  /></fordulo>
+<fordulo tav = "31"  >
+<cim lat = "47,58063"  lng = "21,485258"  m3 = "10"  tm3 = "10"  nsz = "3"  id = "40"  utca = "LÁTÓKÉP U"  hsz = "      ."  irsz = "4063"  csh = "10"  munka = "456715"  megj = "12"  /></fordulo>
+<fordulo tav = "34"  >
+<cim lat = "47,584131"  lng = "21,476028"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "102"  utca = "NAGYHÁT U"  hsz = "     5."  irsz = "4063"  csh = "20"  munka = "457030"  megj = "bm. kapu nyítva"  /></fordulo>
+<fordulo tav = "26"  >
+<cim lat = "47,536583"  lng = "21,490293"  m3 = "10"  tm3 = "9"  nsz = "3"  id = "188"  utca = "KALÁSZ U"  hsz = "     9."  irsz = "4063"  csh = "10"  munka = "457219"  megj = "bm, kapu nyítva"  /></fordulo>
+<fordulo tav = "6"  >
+<cim lat = "47,529302"  lng = "21,593724"  m3 = "10"  tm3 = "9"  nsz = "3"  id = "167"  utca = "KÖTELES U"  hsz = "     3."  irsz = "4031"  csh = "10"  munka = "457166"  megj = "12  bemenni nem lehet kapun átmászni stb nem lehet !!!"  /></fordulo>
+<fordulo tav = "2"  >
+<cim lat = "47,505773"  lng = "21,608431"  m3 = "10"  tm3 = "0"  nsz = "3"  id = "178"  utca = "KISMARJA U"  hsz = "     4."  irsz = "4030"  csh = "10"  munka = "457200"  megj = "8 után"  /></fordulo>
+<fordulo tav = "2"  >
+<cim lat = "47,503428"  lng = "21,611404"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "175"  utca = "TÉGLÁSKERT U"  hsz = "   100."  irsz = "4030"  csh = "8"  munka = "457191"  megj = "12
+5M3-T ELVINNI"  /><cim lat = "47,50383"  lng = "21,609681"  m3 = "5"  tm3 = "5"  nsz = "3"  id = "52"  utca = "BALATON U"  hsz = "    65."  irsz = "4030"  csh = "30"  munka = "456827"  megj = "bm. lehetőleg avia menjen bemehettek a NAGY kapu nyitva!"  /></fordulo>
+</auto>
+</autok>
+<cimek>
+</cimek>
+<szamok KEF = "9"  KDE= "44"  KDU = "51"  TEF = "4"  TDE = "29"  TDU = "32"  Km3 = "473"  Tm3 = "650"  Jm3 = "122"  EFJ = "0"  DEJ = "11"  DUJ = "15"  EFDeb = "13"  DEDeb = "73"  DUDeb = "83"  KEFU = "0"  KDEU = "0"  KDUU = "0"  TEFU = "0"  TDEU = "0"  TDUU = "0"  Km3U = "0"  Tm3U = "0"  /></mapping>

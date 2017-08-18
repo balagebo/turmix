@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapping date="2009.01.31.">
+	<auto rendszam="IZM-225" kapacitas="5" elsofuvar="1" delelott="5" delutan="3">
+		<elsofuvar>
+			<fuvar hossz="2,00781954752072">
+				<id>4</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="31,7531008431555">
+				<id>22</id>
+			</fuvar>
+			<fuvar hossz="25,7793656988641">
+				<id>2</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>23</id>
+			</fuvar>
+			<fuvar hossz="18,2259916887628">
+				<id>20</id>
+			</fuvar>
+			<fuvar hossz="13,7773239011482">
+				<id>8</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="19,6702537511323">
+				<id>9</id>
+			</fuvar>
+			<fuvar hossz="19,0569670615274">
+				<id>13</id>
+			</fuvar>
+			<fuvar hossz="16,9499393729052">
+				<id>17</id>
+			</fuvar>
+		</delutan>
+	</auto>
+	<auto rendszam="JNS-276" kapacitas="5" elsofuvar="1" delelott="6" delutan="4">
+		<elsofuvar>
+			<fuvar hossz="0" />
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delelott>
+		<delutan>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="KDD-542" kapacitas="5" elsofuvar="0" delelott="4" delutan="4">
+		<elsofuvar />
+		<delelott>
+			<fuvar hossz="19,5953481783971">
+				<id>10</id>
+			</fuvar>
+			<fuvar hossz="16,8358350124446">
+				<id>14</id>
+			</fuvar>
+			<fuvar hossz="15,6625824354011">
+				<id>19</id>
+			</fuvar>
+			<fuvar hossz="16,9499393729052">
+				<id>16</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="14,9242693322402">
+				<id>3</id>
+			</fuvar>
+			<fuvar hossz="20,0403393190143">
+				<id>7</id>
+			</fuvar>
+			<fuvar hossz="15,6536408306469">
+				<id>18</id>
+			</fuvar>
+			<fuvar hossz="14,2090587260932">
+				<id>5</id>
+				<id>12</id>
+			</fuvar>
+		</delutan>
+	</auto>
+	<auto rendszam="KAX-589" kapacitas="10" elsofuvar="0" delelott="2" delutan="5">
+		<elsofuvar />
+		<delelott>
+			<fuvar hossz="18,9899984656234">
+				<id>21</id>
+			</fuvar>
+			<fuvar hossz="8,83957506333343">
+				<id>15</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="26,0336562679332">
+				<id>11</id>
+			</fuvar>
+			<fuvar hossz="22,8728390898945">
+				<id>1</id>
+			</fuvar>
+			<fuvar hossz="15,444097194892">
+				<id>0</id>
+			</fuvar>
+			<fuvar hossz="2,15052233292683">
+				<id>6</id>
+			</fuvar>
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+</mapping>

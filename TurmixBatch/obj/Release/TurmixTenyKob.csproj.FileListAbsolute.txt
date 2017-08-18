@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Release\TurmixTenyKob.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Release\TurmixBatch.DataForm.resources
+D:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Release\TurmixBatch.DataProgress.resources
+D:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Release\TurmixBatch.SetterPanel.resources
+D:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Release\TurmixBatch.TenykobMain.resources
+D:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Release\TurmixBatch.Properties.Resources.resources
+D:\Visual Studio Projects\TurmixWeb\TurmixBatch\obj\Release\TurmixTenyKob.csproj.GenerateResource.Cache

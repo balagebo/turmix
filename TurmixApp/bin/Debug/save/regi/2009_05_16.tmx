@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapping date="2009.05.16.">
+	<autok>
+		<auto rendszam="JBE-146" kapacitas="5" elsofuvar="0" delelott="6" delutan="6" index="1" sofor="Szentesi Zsolt" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="18">
+				<cim lat="47,557121" lng="21,65881" m3="5" tm3="5" nsz="2" id="5" utca="TÖLTÉNY U" hsz="    16." irsz="4033" csh="8" munka="453440" megj="bm." />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,549324" lng="21,65094" m3="3" tm3="0" nsz="2" id="3" utca="CECÍLIA U" hsz="     6." irsz="4033" csh="30" munka="453371" megj="bm 6/b alá kell menni" />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,524742" lng="21,674428" m3="5" tm3="5" nsz="2" id="1" utca="ASZTALOS U" hsz="    35." irsz="4034" csh="35" munka="452731" megj="bm 35/1  alá kell menni&#xA;35/2   Nagy Miklós  20/9981052  26 m cső&#xA;35/1  Miskolci Andrea  70/6164325-  35 m" />
+			</fordulo>
+			<fordulo tav="2">
+				<cim lat="47,50383" lng="21,609681" m3="5" tm3="2" nsz="2" id="18" utca="BALATON U" hsz="    89." irsz="4030" csh="16" munka="454154" megj="bm" />
+			</fordulo>
+			<fordulo tav="23">
+				<cim lat="47,524548" lng="21,702069" m3="5" tm3="10" nsz="3" id="7" utca="BAYK ANDRÁS KERT" hsz="      ." irsz="4002" csh="16" munka="453602" megj="bm  Katapult ABC előtt bal oldal fehér fakerítés, fehér redőnnyel" />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,524742" lng="21,674428" m3="4" tm3="5" nsz="3" id="8" utca="ASZTALOS U" hsz="    35." irsz="4034" csh="45" munka="453655" megj="35/4   alá kell menni" />
+				<cim lat="47,524742" lng="21,674428" m3="3" tm3="5" nsz="3" id="6" utca="ASZTALOS U" hsz="  33/2." irsz="4034" csh="24" munka="453591" megj="bm kapu nyitva" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,52604" lng="21,679774" m3="4" tm3="5" nsz="3" id="11" utca="ÖKÖRITÓ U" hsz="    14." irsz="4030" csh="8" munka="453788" megj="bm kapu nyítva" />
+			</fordulo>
+			<fordulo tav="15">
+				<cim lat="47,484419" lng="21,668034" m3="10" tm3="0" nsz="3" id="17" utca="POSZÁTA U" hsz="    19." irsz="4002" csh="20" munka="454089" megj="bm." />
+			</fordulo>
+		</auto>
+		<auto rendszam="JBE-804" kapacitas="5" elsofuvar="0" delelott="6" delutan="6" index="3" sofor="Szentesi János" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="32">
+				<cim lat="47,576804" lng="21,480091" m3="5" tm3="5" nsz="2" id="20" utca="ARATÓ U" hsz="    47." irsz="4063" csh="16" munka="454193" megj="bm" />
+			</fordulo>
+			<fordulo tav="3">
+				<cim lat="47,504419" lng="21,613167" m3="5" tm3="0" nsz="2" id="2" utca="SZEPESI U" hsz="    78." irsz="4030" csh="24" munka="453353" megj="bm" />
+			</fordulo>
+			<fordulo tav="10">
+				<cim lat="47,497733" lng="21,647992" m3="5" tm3="4" nsz="2" id="4" utca="BIRSALMA U" hsz="    18." irsz="4030" csh="8" munka="453426" megj="bm. nincs kerítés akna az utcafronton" />
+			</fordulo>
+			<fordulo tav="9">
+				<cim lat="47,500837" lng="21,643418" m3="5" tm3="0" nsz="2" id="10" utca="LÁZÁR U" hsz="  86/B." irsz="4030" csh="10" munka="453736" megj="12 ig minél hamarabb   mogyoró utca felől kell bemenni" />
+			</fordulo>
+			<fordulo tav="4">
+				<cim lat="47,51509" lng="21,610477" m3="10" tm3="0" nsz="2" id="23" utca="LEGÁNYI U" hsz="    13." irsz="4031" csh="30" munka="454258" megj="bm   mindenképp menni!!!" />
+			</fordulo>
+			<fordulo tav="32">
+				<cim lat="47,576804" lng="21,480091" m3="5" tm3="5" nsz="3" id="12" utca="ARATÓ U" hsz="    45." irsz="4063" csh="40" munka="453820" megj="bm" />
+			</fordulo>
+			<fordulo tav="8">
+				<cim lat="47,531566" lng="21,580341" m3="10" tm3="0" nsz="3" id="21" utca="BARCASÁG U" hsz="     2." irsz="4031" csh="20" munka="454203" megj="bm.  Előtte csengetni a császár péter 43 alá" />
+			</fordulo>
+			<fordulo tav="27">
+				<cim lat="47,571897" lng="21,701375" m3="5" tm3="0" nsz="3" id="22" utca="SZIKIGYAKOR U" hsz="    20." irsz="4002" csh="10" munka="454252" megj="bm.&#xA;Sándor fogadó előtt kb 100 mre visszább jobbra lefordulni nincs neve az utcának  aztán az első utca jobbra rózsaszín kis emeletes ház" />
+			</fordulo>
+			<fordulo tav="19">
+				<cim lat="47,559135" lng="21,665106" m3="5" tm3="3" nsz="3" id="13" utca="BAJONETT U" hsz="     7." irsz="4033" csh="8" munka="453858" megj="10" />
+			</fordulo>
+		</auto>
+		<auto rendszam="JNS-276" kapacitas="5" elsofuvar="0" delelott="1" delutan="1" index="2" sofor="Szentesi Zsolt" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="0">
+				<cim lat="47,598797" lng="21,582615" m3="5" tm3="0" nsz="2" id="16" utca="UNOKAKERT U" hsz="    11." irsz="4225" csh="8" munka="453968" megj="bm" />
+			</fordulo>
+			<fordulo tav="0">
+				<cim lat="47,606761" lng="21,603017" m3="5" tm3="0" nsz="3" id="14" utca="ERDőHÁT U" hsz="    33." irsz="4225" csh="8" munka="453881" megj="bm." />
+			</fordulo>
+		</auto>
+		<auto rendszam="JSZ-683" kapacitas="10" elsofuvar="0" delelott="2" delutan="6" index="0" sofor="Erdei András" seged="Heveli Imre" lizing="0" uzemanyag="0">
+			<fordulo tav="3">
+				<cim lat="47,500405" lng="21,614162" m3="10" tm3="8" nsz="2" id="9" utca="HORGÁSZ U" hsz="    25." irsz="4030" csh="40" munka="453693" megj="bm" />
+			</fordulo>
+			<fordulo tav="32">
+				<cim lat="47,57976" lng="21,479086" m3="10" tm3="0" nsz="3" id="15" utca="KASTÉLYKERT U" hsz="    14." irsz="4063" csh="20" munka="453961" megj="bm." />
+			</fordulo>
+			<fordulo tav="34">
+				<cim lat="47,584131" lng="21,476028" m3="10" tm3="0" nsz="3" id="0" utca="NAGYHÁT U" hsz="    10." irsz="4063" csh="20" munka="452672" megj="kapu nyítva" />
+			</fordulo>
+			<fordulo tav="21">
+				<cim lat="47,5401" lng="21,686225" m3="10" tm3="4" nsz="3" id="19" utca="BELLEGELő KERT" hsz="  36/C." irsz="4002" csh="10" munka="454176" megj="bm 8-17ig" />
+			</fordulo>
+			<fordulo tav="18">
+				<cim lat="47,552937" lng="21,665744" m3="10" tm3="10" nsz="3" id="24" utca="őRMESTER U" hsz="     3." irsz="4028" csh="10" munka="454324" megj="bm-----&gt;      a !!!!!!!!!!!NEM!!!!!!! sziklakertest csinálni&#xA;a kaput csak betolni" />
+			</fordulo>
+		</auto>
+	</autok>
+	<cimek />
+	<szamok KEF="0" KDE="8" KDU="7" TEF="0" TDE="2" TDU="6" Km3="69" Tm3="80" Jm3="10" EFJ="0" DEJ="1" DUJ="1" EFDeb="0" DEDeb="10" DUDeb="13" KEFU="0" KDEU="0" KDUU="0" TEFU="0" TDEU="0" TDUU="0" Km3U="0" Tm3U="0" />
+</mapping>

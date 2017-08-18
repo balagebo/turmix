@@ -1,0 +1,162 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Review</title>
+    <style type = "text/css">
+		.dummy {visibility : hidden}
+		.whitelabel {font: bold 10pt 'Tahoma' ; color:#ffffff}
+    </style>
+    
+    <script src="http://maps.google.com/maps?file=api&v=2&api&amp;v=2&amp;key=ABQIAAAAE13CSIamMYgmr_22DK27DBT3U1mSBejNzkwDuuPl9iFUPV-KwhT8GUvvf0L55g60zxUZaK1HO3YkrA"
+            type="text/javascript"></script>
+    
+    <script src = "labeledmarker.js" type = "text/javascript"></script>
+    
+    <script type="text/javascript">
+
+	var map;
+	var cimek = new Array();
+	var center = new GLatLng(47.53227005016189, 21.64478302001953);
+	var aktivNapszak = 4;
+	var aktivAuto = 0;
+	
+    function initialize() {
+      if (GBrowserIsCompatible()) {
+        map = new GMap2(document.getElementById('map2_canvas'));
+        map.setCenter(center, 12);
+        map.id = 'map';
+        
+        map.addControl(new GSmallMapControl());
+  
+		document.getElementById('loadready').click();
+      
+      }
+    }
+    
+    function addMarker(lat, lng, idval, isClickable, car, napszak, fordulo, tooltip, cso) {
+        var coords = new GLatLng(lat, lng);
+        var iconName = 'images/';
+        var myicon = new GIcon(G_DEFAULT_ICON);
+        
+		
+		switch (napszak) {
+      case 1:
+        iconName += 'elso.png';
+        break;
+      case 2:
+        iconName += 'de.png';
+        break;
+      case 3:
+        iconName += 'blu.png';
+        break;
+		}    
+		 
+		myicon.image = iconName;
+		myicon.iconSize = new GSize(32, 32);
+		myicon.iconAnchor = new GPoint(16, 16);
+		
+    var markerOptions = {icon : myicon, clickable : isClickable, hide : car != aktivAuto, labelText : fordulo, 
+			labelClass : 'whitelabel', labelOffset : new GSize(-5, -8), title : tooltip + '\nCsohossz: ' + cso
+		};
+        var marker = new LabeledMarker(coords, markerOptions);
+        marker.id = idval;
+        marker.car = car;
+        marker.napszak = napszak;
+        marker.fordulo = fordulo;
+        marker.icon = iconName;
+    
+        GEvent.addListener(marker, 'mouseover', function(latLng) {
+			this.setImage('images/yellow.png');
+        });
+        GEvent.addListener(marker, 'mouseout', function(latLng) {
+			
+				this.setImage(this.icon);
+        });
+        
+        cimek.push(marker);
+        
+        if (isClickable)
+        map.addOverlay(marker);
+        
+    }
+    
+    function showNapszak(nsz) {
+      aktivNapszak = nsz;
+      for (var a = 0; a < cimek.length; a++) {
+        if (cimek[a].car == aktivAuto && (nsz == 4 || cimek[a].napszak == nsz)) 
+          cimek[a].show();
+        else
+          cimek[a].hide();
+      }
+    }
+    
+    function showAutoNapszak(auto, nsz) {
+      aktivAuto = auto;
+
+      for (var a = 0; a < cimek.length; a++) {
+        if (cimek[a].car == auto && cimek[a].napszak == nsz) 
+          cimek[a].show();
+        else
+          cimek[a].hide();
+      }
+    }
+    
+    function showAuto(auto) {
+      aktivAuto = auto;
+      for (var a = 0; a < cimek.length; a++) {
+        if (cimek[a].car == aktivAuto && (aktivNapszak == 4 || cimek[a].napszak == aktivNapszak)) 
+          cimek[a].show();
+        else
+          cimek[a].hide();
+      }
+    }
+    
+    function showFordulo(auto, napszak, fordulo) {
+      aktivAuto = auto;
+      
+      for (var a = 0; a < cimek.length; a++) {
+        if (cimek[a].car == auto && (cimek[a].napszak == napszak) && cimek[a].fordulo == fordulo) 
+          cimek[a].show();
+        else
+          cimek[a].hide();
+      }
+    }
+ 
+    function reinit() {
+    
+		aktivAuto = 0;
+		showNapszak(4);
+    }
+    
+    function setAuto(id, auto) {
+      cimek[id].car = auto;
+    }
+    
+    function setFordulo(id, auto, fordulo) {
+      cimek[id].car = auto;
+      cimek[id].fordulo = fordulo;
+      cimek[id].setLabelText(fordulo);
+    }
+    
+    function resett() {
+      cimek = new Array();
+      map.clearOverlays();
+    }
+    
+    function mindenkiMinuszEgy() {
+      for (var a = 0; a < cimek.length; a++) {
+      cimek[a].fordulo = -1;
+      cimek[a].car = -1;
+    }
+    }
+    
+    </script>
+  </head>
+  <body onload="initialize()" onunload="GUnload()">
+    <div id="map2_canvas" style="width: 850px; height: 630px"></div>
+  	<p><input class = "dummy" id="hidden" type="button" />
+  	<input class = "dummy" id="loadready" type="button" />
+  	<input class = "dummy" id="klikker" type="button" />
+  	</p>
+  </body>
+</html>

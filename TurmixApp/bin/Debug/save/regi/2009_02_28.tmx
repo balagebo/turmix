@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapping date="2009.02.28.">
+	<auto rendszam="JGS-045" kapacitas="5" elsofuvar="1" delelott="8" delutan="3" ber="109,1" uzemanyag="0" index="1">
+		<elsofuvar>
+			<fuvar hossz="0">
+				<id>20</id>
+			</fuvar>
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="0">
+				<id>9</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>10</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>11</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>12</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>18</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>22</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>23</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>24</id>
+			</fuvar>
+		</delelott>
+		<delutan>
+			<fuvar hossz="0">
+				<id>4</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>28</id>
+			</fuvar>
+			<fuvar hossz="0">
+				<id>37</id>
+			</fuvar>
+		</delutan>
+	</auto>
+	<auto rendszam="JSZ-683" kapacitas="10" elsofuvar="1" delelott="10" delutan="15" ber="54,55" uzemanyag="0" index="0">
+		<elsofuvar>
+			<fuvar hossz="0" />
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="32">
+				<id>34</id>
+			</fuvar>
+			<fuvar hossz="32">
+				<id>15</id>
+			</fuvar>
+			<fuvar hossz="21">
+				<id>33</id>
+			</fuvar>
+			<fuvar hossz="18">
+				<id>21</id>
+			</fuvar>
+			<fuvar hossz="14">
+				<id>38</id>
+			</fuvar>
+			<fuvar hossz="18">
+				<id>14</id>
+			</fuvar>
+			<fuvar hossz="16">
+				<id>13</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delelott>
+		<delutan>
+			<fuvar hossz="27">
+				<id>3</id>
+			</fuvar>
+			<fuvar hossz="19">
+				<id>19</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="9">
+				<id>25</id>
+			</fuvar>
+			<fuvar hossz="22">
+				<id>6</id>
+			</fuvar>
+			<fuvar hossz="17">
+				<id>36</id>
+			</fuvar>
+			<fuvar hossz="17">
+				<id>0</id>
+			</fuvar>
+			<fuvar hossz="17">
+				<id>16</id>
+			</fuvar>
+			<fuvar hossz="16">
+				<id>26</id>
+			</fuvar>
+			<fuvar hossz="14">
+				<id>17</id>
+			</fuvar>
+			<fuvar hossz="14">
+				<id>27</id>
+			</fuvar>
+			<fuvar hossz="15">
+				<id>29</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+	<auto rendszam="KHK-583" kapacitas="10" elsofuvar="1" delelott="10" delutan="10" ber="54,55" uzemanyag="0" index="0">
+		<elsofuvar>
+			<fuvar hossz="0" />
+		</elsofuvar>
+		<delelott>
+			<fuvar hossz="30">
+				<id>1</id>
+			</fuvar>
+			<fuvar hossz="14">
+				<id>35</id>
+			</fuvar>
+			<fuvar hossz="14">
+				<id>30</id>
+			</fuvar>
+			<fuvar hossz="16">
+				<id>8</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delelott>
+		<delutan>
+			<fuvar hossz="16">
+				<id>2</id>
+			</fuvar>
+			<fuvar hossz="10">
+				<id>7</id>
+			</fuvar>
+			<fuvar hossz="10">
+				<id>31</id>
+			</fuvar>
+			<fuvar hossz="10">
+				<id>32</id>
+			</fuvar>
+			<fuvar hossz="7">
+				<id>5</id>
+			</fuvar>
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+			<fuvar hossz="0" />
+		</delutan>
+	</auto>
+</mapping>

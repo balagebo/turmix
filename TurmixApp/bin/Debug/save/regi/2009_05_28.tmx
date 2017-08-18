@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapping date="2009.05.28.">
+	<autok>
+		<auto rendszam="IZM-225" kapacitas="5" elsofuvar="1" delelott="5" delutan="7" index="0" sofor="Kathi Imre" seged="" lizing="0" uzemanyag="0">
+			<fordulo tav="14">
+				<cim lat="47,52399" lng="21,659565" m3="5" tm3="5" nsz="1" id="48" utca="HÉT VEZÉR U" hsz="  71/A." irsz="4034" csh="32" munka="456555" megj="8ig" />
+			</fordulo>
+			<fordulo tav="14">
+				<cim lat="47,522375" lng="21,660099" m3="5" tm3="4" nsz="2" id="91" utca="TORDAI GÁBOR U" hsz="     1." irsz="4034" csh="8" munka="456728" megj="8-10 igkét kocsi megy egy másik cimre is kell menni kód:10249 egyeztes a másik kocsival" />
+			</fordulo>
+			<fordulo tav="13">
+				<cim lat="47,524592" lng="21,657887" m3="5" tm3="4" nsz="2" id="57" utca="VASUTAS U" hsz="    42." irsz="4034" csh="24" munka="456617" megj="12ig" />
+			</fordulo>
+			<fordulo tav="23">
+				<cim lat="47,524548" lng="21,702069" m3="5" tm3="10" nsz="2" id="105" utca="BAYK ANDRÁS KERT" hsz="      ." irsz="4002" csh="8" munka="456749" megj="12 ig Fóliásból nyílik Csipkés utca 8. narancssárgaház." />
+			</fordulo>
+			<fordulo tav="17">
+				<cim lat="47,524742" lng="21,674428" m3="5" tm3="5" nsz="2" id="112" utca="ASZTALOS U" hsz="    35." irsz="4034" csh="35" munka="456771" megj="12ig 35/3" />
+			</fordulo>
+			<fordulo tav="6">
+				<cim lat="47,513926" lng="21,623512" m3="5" tm3="0" nsz="2" id="85" utca="MELITH U" hsz="     9." irsz="4030" csh="8" munka="456712" megj="12 ig 3 sz alá kell menni !!!" />
+			</fordulo>
+			<fordulo tav="22">
+				<cim lat="47,531563" lng="21,694261" m3="5" tm3="10" nsz="3" id="144" utca="KÉKSZŐLŐ U." hsz="     9." irsz="4033" csh="16" munka="456850" megj="
