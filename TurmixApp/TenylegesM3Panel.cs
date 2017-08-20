@@ -11,7 +11,7 @@ namespace TurmixLog
 {
 	public partial class TenylegesM3Panel : AbstarctAdatPanel
 	{
-		public TenylegesM3Panel() : base("tm3")
+		public TenylegesM3Panel() : base("Tm3")
 		{
 		}
 

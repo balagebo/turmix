@@ -47,29 +47,29 @@ namespace TurmixLog
 
             try
             {
-                updateCar = new MySqlCommand("UPDATE auto SET kapacitas = ?kapa, koltseg = ?koltseg, lizing = ?lizing WHERE rendszam = ?rendszam;");
+                updateCar = new MySqlCommand("UPDATE Auto SET Kapacitas = ?kapa, Koltseg = ?koltseg, Lizing = ?lizing WHERE Rendszam = ?rendszam;");
 
-                allCars = new MySqlCommand("select * from auto order by rendszam;");
+                allCars = new MySqlCommand("select * from Auto order by Rendszam;");
 
-                getRealVolume = new MySqlCommand("select avg(tm3) from tm3 where cim = ?r_cim;");
+                getRealVolume = new MySqlCommand("select avg(Tm3) from Tm3 where Cim = ?r_cim;");
 
-                getLatLongData = new MySqlCommand("select lat, lng from latlng2 where utca = ?latutca;");
+                getLatLongData = new MySqlCommand("select Lat, Lng from latlng2 where Utca = ?latutca;");
 
-                insertCar = new MySqlCommand("insert into auto (rendszam, kapacitas, lizing, koltseg)" +
+                insertCar = new MySqlCommand("insert into Auto (Rendszam, Kapacitas, Lizing, Koltseg)" +
                     "values (?rsz, ?kap, ?lizing, ?koltseg);");
-                deleteCar = new MySqlCommand("delete from auto where rendszam = ?rsz;");
+                deleteCar = new MySqlCommand("delete from Auto where Rendszam = ?rsz;");
 
-                insertLatLng = new MySqlCommand("insert into latlng2 (utca, lat, lng) values (?ujutca, ?ujlat, ?ujlng);");
-                updateLatLng = new MySqlCommand("update latlng2 set lat = ?uplat, lng = ?uplng where utca = ?uputca;");
-                getCar = new MySqlCommand("select kapacitas, koltseg, lizing from auto where rendszam = ?getrsz");
+                insertLatLng = new MySqlCommand("insert into latlng2 (Utca, Lat, Lng) values (?ujutca, ?ujlat, ?ujlng);");
+                updateLatLng = new MySqlCommand("update latlng2 set Lat = ?uplat, Lng = ?uplng where Utca = ?uputca;");
+                getCar = new MySqlCommand("select Kapacitas, Koltseg, Lizing from Auto where Rendszam = ?getrsz");
 
-                allUtca = new MySqlCommand("select utca from latlng2 order by utca;");
+                allUtca = new MySqlCommand("select Utca from latlng2 order by Utca;");
 
-                selectProbCim = new MySqlCommand("select * from problematic where cim = ?prcim");
-                selectProbUtca = new MySqlCommand("select * from problemutca where utca = ?prutca");
+                selectProbCim = new MySqlCommand("select * from Problematic where Cim = ?prcim");
+                selectProbUtca = new MySqlCommand("select * from Problemutca where Utca = ?prutca");
 
-                selectFold = new MySqlCommand("select foldlat, foldlng, foldhossz from latlng2 where utca = ?fcim");
-                updateFold = new MySqlCommand("update latlng2 set foldlat = ?flat, foldlng = ?flng, foldhossz = ?fhossz where utca = ?fcim");
+                selectFold = new MySqlCommand("select foldlat, foldlng, foldhossz from latlng2 where Utca = ?fcim");
+                updateFold = new MySqlCommand("update latlng2 set foldlat = ?flat, foldlng = ?flng, foldhossz = ?fhossz where Utca = ?fcim");
 
                 updateCar.Connection = connection;
                 getLatLongData.Connection = connection;
@@ -91,41 +91,41 @@ namespace TurmixLog
                 selectFold.Connection = connection;
                 updateFold.Connection = connection;
 
-                updateCar.Parameters.Add("?kapa", MySqlDbType.UByte, 1, "kapacitas");
-                updateCar.Parameters.Add("?koltseg", MySqlDbType.Float, 4, "koltseg");
-                updateCar.Parameters.Add("?lizing", MySqlDbType.Float, 4, "lizing");
-                updateCar.Parameters.Add("?rendszam", MySqlDbType.VarChar, 10, "rendszam");
+                updateCar.Parameters.Add("?kapa", MySqlDbType.UByte, 1, "Kapacitas");
+                updateCar.Parameters.Add("?koltseg", MySqlDbType.Float, 4, "Koltseg");
+                updateCar.Parameters.Add("?lizing", MySqlDbType.Float, 4, "Lizing");
+                updateCar.Parameters.Add("?rendszam", MySqlDbType.VarChar, 10, "Rendszam");
 
-                getRealVolume.Parameters.Add("?r_cim", MySqlDbType.VarChar, 255, "cim");
+                getRealVolume.Parameters.Add("?r_cim", MySqlDbType.VarChar, 255, "Cim");
 
-                insertCar.Parameters.Add("?rsz", MySqlDbType.VarChar, 10, "rendszam");
-                insertCar.Parameters.Add("?kap", MySqlDbType.UByte, 1, "kapacitas");
-                insertCar.Parameters.Add("?lizing", MySqlDbType.Float, 4, "lizing");
-                insertCar.Parameters.Add("?koltseg", MySqlDbType.Float, 4, "koltseg");
+                insertCar.Parameters.Add("?rsz", MySqlDbType.VarChar, 10, "Rendszam");
+                insertCar.Parameters.Add("?kap", MySqlDbType.UByte, 1, "Kapacitas");
+                insertCar.Parameters.Add("?lizing", MySqlDbType.Float, 4, "Lizing");
+                insertCar.Parameters.Add("?koltseg", MySqlDbType.Float, 4, "Koltseg");
 
-                getLatLongData.Parameters.Add("?latutca", MySqlDbType.VarChar, 255, "utca");
+                getLatLongData.Parameters.Add("?latutca", MySqlDbType.VarChar, 255, "Utca");
 
-                deleteCar.Parameters.Add("?rsz", MySqlDbType.VarChar, 10, "rendszam");
+                deleteCar.Parameters.Add("?rsz", MySqlDbType.VarChar, 10, "Rendszam");
 
-                insertLatLng.Parameters.Add("?ujutca", MySqlDbType.VarChar, 255, "utca");
-                insertLatLng.Parameters.Add("?ujlat", MySqlDbType.Double, 8, "lat");
-                insertLatLng.Parameters.Add("?ujlng", MySqlDbType.Double, 8, "lng");
+                insertLatLng.Parameters.Add("?ujutca", MySqlDbType.VarChar, 255, "Utca");
+                insertLatLng.Parameters.Add("?ujlat", MySqlDbType.Double, 8, "Lat");
+                insertLatLng.Parameters.Add("?ujlng", MySqlDbType.Double, 8, "Lng");
 
-                updateLatLng.Parameters.Add("?uplat", MySqlDbType.Double, 8, "lat");
-                updateLatLng.Parameters.Add("?uplng", MySqlDbType.Double, 8, "lng");
-                updateLatLng.Parameters.Add("?uputca", MySqlDbType.VarChar, 255, "utca");
+                updateLatLng.Parameters.Add("?uplat", MySqlDbType.Double, 8, "Lat");
+                updateLatLng.Parameters.Add("?uplng", MySqlDbType.Double, 8, "Lng");
+                updateLatLng.Parameters.Add("?uputca", MySqlDbType.VarChar, 255, "Utca");
 
-                getCar.Parameters.Add("?getrsz", MySqlDbType.VarChar, 10, "rendszam");
+                getCar.Parameters.Add("?getrsz", MySqlDbType.VarChar, 10, "Rendszam");
 
-                selectProbCim.Parameters.Add("?prcim", MySqlDbType.VarChar, 255, "cim");
-                selectProbUtca.Parameters.Add("?prutca", MySqlDbType.VarChar, 255, "utca");
+                selectProbCim.Parameters.Add("?prcim", MySqlDbType.VarChar, 255, "Cim");
+                selectProbUtca.Parameters.Add("?prutca", MySqlDbType.VarChar, 255, "Utca");
 
-                selectFold.Parameters.Add("?fcim", MySqlDbType.VarChar, 50, "cim");
+                selectFold.Parameters.Add("?fcim", MySqlDbType.VarChar, 50, "Cim");
 
                 updateFold.Parameters.Add("?flat", MySqlDbType.Double, 8, "foldlat");
                 updateFold.Parameters.Add("?flng", MySqlDbType.Double, 8, "foldlang");
                 updateFold.Parameters.Add("?fhossz", MySqlDbType.Int32, 4, "foldhossz");
-                updateFold.Parameters.Add("?fcim", MySqlDbType.VarChar, 50, "cim");
+                updateFold.Parameters.Add("?fcim", MySqlDbType.VarChar, 50, "Cim");
 
             }
             catch (Exception e)
@@ -139,7 +139,7 @@ namespace TurmixLog
         {
             try
             {
-                connection = new MySqlConnection(string.Format("server={0};database={1};uid={2};password={3}",
+                connection = new MySqlConnection(string.Format("server={0};database={1};uid={2};password={3};charset=utf8;",
                     Properties.Settings.Default.dbHost, Properties.Settings.Default.dbName,
                     Properties.Settings.Default.dbUser, Properties.Settings.Default.dbPass));
                 connection.Open();

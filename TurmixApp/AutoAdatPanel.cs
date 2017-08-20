@@ -11,14 +11,15 @@ namespace TurmixLog
 {
 	public partial class AutoAdatPanel : AbstarctAdatPanel
 	{
-		public AutoAdatPanel() : base("auto")
+		public AutoAdatPanel() : base("Auto")
 		{
 			
 		}
 
 		protected override void CustomizeTableUI()
 		{
-			autoGrid.Columns[0].HeaderText = "Rendszám";
+			
+            autoGrid.Columns[0].HeaderText = "Rendszám";
 			autoGrid.Columns[1].HeaderText = "Kapacitás";
 			autoGrid.Columns[2].HeaderText = "Havi lízingdíj";
 			autoGrid.Columns[3].HeaderText = "Fogyasztás";

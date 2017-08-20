@@ -106,7 +106,6 @@
             // 
             // autoGrid
             // 
-            this.autoGrid.AllowUserToResizeRows = false;
             this.autoGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.autoGrid.Dock = System.Windows.Forms.DockStyle.Fill;
             this.autoGrid.Location = new System.Drawing.Point(0, 35);
@@ -132,8 +131,8 @@
             this.Name = "AbstarctAdatPanel";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Járművek adattáblája";
-            this.Load += new System.EventHandler(this.AbstarctAdatPanel_Load);
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.AutoAdatPanel_FormClosing);
+            this.Load += new System.EventHandler(this.AbstarctAdatPanel_Load);
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
@@ -147,10 +146,9 @@
 		protected System.Windows.Forms.Panel panel1;
 		protected System.Windows.Forms.Button okBtn;
 		protected System.Windows.Forms.Button cancBtn;
-        protected System.Windows.Forms.DataGridView autoGrid;
         private System.Windows.Forms.Label label1;
         protected System.Windows.Forms.TextBox searchTx;
         private System.Windows.Forms.Panel panel2;
-
-	}
+        protected System.Windows.Forms.DataGridView autoGrid;
+    }
 }

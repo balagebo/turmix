@@ -3,3 +3,244 @@ Dátum: 2017-07-10 19:35:49
 Dátum: 2017-07-10 19:40:19
 Dátum: 2017-07-10 19:46:02
 Dátum: 2017-07-10 19:46:54
+Dátum: 2017. 08. 18. 18:17:14
+!! KIVÉTEL: Table 'tmxlogisztika.auto' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult()
+   at MySql.Data.MySqlClient.ResultSet.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at TurmixLog.KiosztasDao.GetWorkData(DateTime date, List`1& autok, CimOsszesito& osszCim) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 466
+A kivétel elkapva.
+!! KIVÉTEL: Table 'tmxlogisztika.auto' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult()
+   at MySql.Data.MySqlClient.ResultSet.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at TurmixLog.KiosztasDao.GetWorkData(DateTime date, List`1& autok, CimOsszesito& osszCim) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 466
+A kivétel elkapva.
+!! KIVÉTEL: Fatal error encountered during command execution.
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at TurmixLog.KiosztasDao.GetWorkData(DateTime date, List`1& autok, CimOsszesito& osszCim) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 466
+A kivétel elkapva.
+!! KIVÉTEL: Connection must be valid and open.
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at TurmixLog.KiosztasDao.GetWorkData(DateTime date, List`1& autok, CimOsszesito& osszCim) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 316
+A kivétel elkapva.
+!! KIVÉTEL: Connection must be valid and open.
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at TurmixLog.KiosztasDao.GetWorkData(DateTime date, List`1& autok, CimOsszesito& osszCim) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\DataUtil_MySQL.cs:line 316
+A kivétel elkapva.
+!! KIVÉTEL: Table 'tmxlogisztika.auto' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult()
+   at MySql.Data.MySqlClient.ResultSet.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommandBuilder.GetSchemaTable(DbCommand sourceCommand)
+   at System.Data.Common.DbCommandBuilder.BuildCache(Boolean closeConnection, DataRow dataRow, Boolean useColumnsForParameterNames)
+   at System.Data.Common.DbCommandBuilder.GetInsertCommand(DataRow dataRow, Boolean useColumnsForParameterNames)
+   at MySql.Data.MySqlClient.MySqlCommandBuilder.GetInsertCommand()
+   at TurmixLog.AbstarctAdatPanel.InitializeData() in D:\Visual Studio Projects\TurmixWeb\TurmixApp\AbstractAdatPanel.cs:line 43
+   at TurmixLog.MainForm.járművekToolStripMenuItem_Click(Object sender, EventArgs e) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\Logic\MainForm_demo.cs:line 1359
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   at System.Windows.Forms.ToolStripDropDown.WndProc(Message& m)
+   at System.Windows.Forms.ContrDátum: 2017-08-18 18:56:28
+Kiosztás: 2017-08-17
+Hozzárendelés: JBE-146, MOLNÁR U 21/3.
+Napszakváltás: DÉLELŐTT
+!! KIVÉTEL: Table 'tmxlogisztika.auto' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult()
+   at MySql.Data.MySqlClient.ResultSet.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommandBuilder.GetSchemaTable(DbCommand sourceCommand)
+   at System.Data.Common.DbCommandBuilder.BuildCache(Boolean closeConnection, DataRow dataRow, Boolean useColumnsForParameterNames)
+   at System.Data.Common.DbCommandBuilder.GetInsertCommand(DataRow dataRow, Boolean useColumnsForParameterNames)
+   at MySql.Data.MySqlClient.MySqlCommandBuilder.GetInsertCommand()
+   at TurmixLog.AbstarctAdatPanel.InitializeData() in D:\Visual Studio Projects\TurmixWeb\TurmixApp\AbstractAdatPanel.cs:line 43
+   at TurmixLog.MainForm.járművekToolStripMenuItem_Click(Object sender, EventArgs e) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\Logic\MainForm_demo.cs:line 1359
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   at System.Windows.Forms.ToolStripDropDown.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at SysDátum: 2017-08-18 19:02:32
+!! KIVÉTEL: Table 'tmxlogisztika.Problemutca' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult()
+   at MySql.Data.MySqlClient.ResultSet.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommandBuilder.GetSchemaTable(DbCommand sourceCommand)
+   at System.Data.Common.DbCommandBuilder.BuildCache(Boolean closeConnection, DataRow dataRow, Boolean useColumnsForParameterNames)
+   at System.Data.Common.DbCommandBuilder.GetInsertCommand(DataRow dataRow, Boolean useColumnsForParameterNames)
+   at MySql.Data.MySqlClient.MySqlCommandBuilder.GetInsertCommand()
+   at TurmixLog.AbstarctAdatPanel.InitializeData() in D:\Visual Studio Projects\TurmixWeb\TurmixApp\AbstractAdatPanel.cs:line 43
+   at TurmixLog.MainForm.állandóProblémásUtcákToolStripMenuItem_Click(Object sender, EventArgs e) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\Logic\MainForm_demo.cs:line 1448
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   at System.Windows.Forms.ToolStripDropDown.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int3Dátum: 2017-08-18 19:08:36
+Dátum: 2017-08-18 19:22:42
+Dátum: 2017-08-18 19:23:31
+!! KIVÉTEL: Object reference not set to an instance of an object.
+   at TurmixLog.AbstarctAdatPanel.InitializeData() in D:\Visual Studio Projects\TurmixWeb\TurmixApp\AbstractAdatPanel.cs:line 48
+   at TurmixLog.MainForm.járművekToolStripMenuItem_Click(Object sender, EventArgs e) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\Logic\MainForm_demo.cs:line 1359
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ToolStrip.WndProc(Message&Dátum: 2017-08-18 19:38:14
+!! KIVÉTEL: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at TurmixLog.AbstarctAdatPanel.InitializeData() in D:\Visual Studio Projects\TurmixWeb\TurmixApp\AbstractAdatPanel.cs:line 47
+   at TurmixLog.MainForm.járművekToolStripMenuItem_Click(Object sender, EventArgs e) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\Logic\MainForm_demo.cs:line 1359
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.FormDátum: 2017-08-18 19:41:52
+Dátum: 2017-08-18 19:43:33
+Dátum: 2017-08-18 19:47:43
+!! KIVÉTEL: Table 'tmxlogisztika.Problemutca' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult()
+   at MySql.Data.MySqlClient.ResultSet.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommandBuilder.GetSchemaTable(DbCommand sourceCommand)
+   at System.Data.Common.DbCommandBuilder.BuildCache(Boolean closeConnection, DataRow dataRow, Boolean useColumnsForParameterNames)
+   at System.Data.Common.DbCommandBuilder.GetInsertCommand(DataRow dataRow, Boolean useColumnsForParameterNames)
+   at MySql.Data.MySqlClient.MySqlCommandBuilder.GetInsertCommand()
+   at TurmixLog.AbstarctAdatPanel.InitializeData() in D:\Visual Studio Projects\TurmixWeb\TurmixApp\AbstractAdatPanel.cs:line 43
+   at TurmixLog.MainForm.állandóProblémásUtcákToolStripMenuItem_Click(Object sender, EventArgs e) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\Logic\MainForm_demo.cs:line 1448
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   at System.Windows.Forms.ToolStripDropDown.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int3Dátum: 2017-08-18 19:49:09
+Dátum: 2017-08-18 20:22:34
+Dátum: 2017-08-18 20:33:42
+Dátum: 2017-08-18 21:15:17
+Dátum: 2017-08-18 21:20:42
+Dátum: 2017-08-18 21:23:42
+Dátum: 2017-08-18 21:25:07
+!! KIVÉTEL: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewColumnCollection.get_Item(Int32 index)
+   at TurmixLog.AutoAdatPanel.CustomizeTableUI() in D:\Visual Studio Projects\TurmixWeb\TurmixApp\AutoAdatPanel.cs:line 21
+   at TurmixLog.MainForm.járművekToolStripMenuItem_Click(Object sender, EventArgs e) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\Logic\MainForm_demo.cs:line 1359
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   at System.Windows.Forms.ToolStripDropDown.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at TurmixLog.Program.Main() in D:\Visual Studio Projects\TurmixWeb\TurmixApp\ProgrDátum: 2017-08-18 21:29:17
+Dátum: 2017-08-18 21:52:58
+Dátum: 2017-08-20 17:24:39
+Dátum: 2017-08-20 17:25:05
+Dátum: 2017-08-20 17:30:37
+Dátum: 2017-08-20 17:56:10
+!! KIVÉTEL: Object reference not set to an instance of an object.
+   at TurmixLog.AbstarctAdatPanel.searchTx_TextChanged(Object sender, EventArgs e) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\AbstractAdatPanel.cs:line 104
+   at System.Windows.Forms.Control.OnTextChanged(EventArgs e)
+   at System.Windows.Forms.TextBoxBase.WmReflectCommand(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.SendMessage(HandleRef hWnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.Control.ReflectMessageInternal(IntPtr hWnd, Message& m)
+   at System.Windows.Forms.Control.WmCommand(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.CallWindowProc(IntPtr wndProc, IntPtr hWnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.NativeWindow.DefWndProc(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at TurmixLog.MainForm.járművekToolStripMenuItem_Click(Object sender, EventArgs e) in D:\Visual Studio Projects\TurmixWeb\TurmixApp\Logic\MainForm_demo.cs:line 1361
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   at System.Windows.Forms.ToolStripDropDown.WndProc(Message& m)
+   at System.Windows.Forms.ConDátum: 2017-08-20 17:57:42
+Dátum: 2017-08-20 18:15:51
+Dátum: 2017-08-20 18:18:36
+Dátum: 2017-08-20 18:19:24
+Dátum: 2017-08-20 18:36:31
+Dátum: 2017-08-20 18:37:02
+Dátum: 2017-08-20 18:37:44
+Dátum: 2017-08-20 18:45:00
+Dátum: 2017-08-20 18:50:15
+Dátum: 2017-08-20 18:53:34
+Dátum: 2017-08-20 20:16:01

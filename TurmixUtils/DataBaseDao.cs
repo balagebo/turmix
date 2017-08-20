@@ -21,8 +21,10 @@ namespace TurmixUtils
         public MySqlDao()
         {
             GetConnection();
-            if (connection.State == System.Data.ConnectionState.Open) 
+            if (connection.State == System.Data.ConnectionState.Open)
+            {
                 Init();
+            }
 
         }        
 

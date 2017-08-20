@@ -11,7 +11,7 @@ namespace TurmixLog
 {
 	public partial class ProblemCimPanel : AbstarctAdatPanel
 	{
-		public ProblemCimPanel() : base("problematic")
+		public ProblemCimPanel() : base("Problematic")
 		{
 		}
 

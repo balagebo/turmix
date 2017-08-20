@@ -34,18 +34,23 @@ namespace TurmixLog
 
 		private void InitializeData()
 		{
-			adapter = new MySqlDataAdapter(new MySqlCommand(string.Format("select * from {0}", tableName), dao.Connection));
+            using (MySqlCommand cmd = new MySqlCommand(string.Format("select * from {0}", this.tableName), dao.Connection))
+            {
+                cmd.CommandTimeout = 30;
+                adapter = new MySqlDataAdapter(cmd);
 
-			MySqlCommandBuilder cBuilder = new MySqlCommandBuilder(adapter);
-            cBuilder.SetAllValues = false;
-            cBuilder.ConflictOption = ConflictOption.OverwriteChanges;
+                MySqlCommandBuilder cBuilder = new MySqlCommandBuilder(adapter);
+                cBuilder.SetAllValues = false;
+                cBuilder.ConflictOption = ConflictOption.OverwriteChanges;
 
-			adapter.InsertCommand = cBuilder.GetInsertCommand();
-			adapter.UpdateCommand = cBuilder.GetUpdateCommand();
-            adapter.Fill(dataSet);
+                adapter.InsertCommand = cBuilder.GetInsertCommand();
+                adapter.UpdateCommand = cBuilder.GetUpdateCommand();
+                adapter.Fill(dataSet);
 
-            //A DataView kell a filtereléshez
-            autoGrid.DataSource = dataView = dataSet.Tables[0].DefaultView;
+                //A DataView kell a filtereléshez
+                dataView = dataSet.Tables[0].DefaultView;
+                autoGrid.DataSource = dataView;
+            }
 
             CustomizeTableUI();
 		}
